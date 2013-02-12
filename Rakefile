@@ -2,7 +2,7 @@
 require "rspec/core/rake_task"
 
 RSpec::Core::RakeTask.new("spec")
-task :default => :spec
+# task :default => :spec
 
 desc 'GitHub Blog から一番新しいインデックスページの HTML をダウンロードする'
 task :download_latest_page do
@@ -43,3 +43,9 @@ task :update_entries do
     f.puts JSON.pretty_generate(entries.flatten)
   }
 end
+
+desc 'entries.json をアップデートしてから rake spec する'
+task :do_spec => :update_entries do
+  Rake::Task['spec'].invoke
+end
+task :default => :do_spec
