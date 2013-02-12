@@ -1,0 +1,6432 @@
+[
+  {
+    "title": "Cape Town Drinkup",
+    "href": "/blog/1407-cape-town-drinkup",
+    "published": "2013-02-07T05:05:09-08:00"
+  },
+  {
+    "title": "Namespaced Gists",
+    "href": "/blog/1406-namespaced-gists",
+    "published": "2013-02-06T15:27:39-08:00"
+  },
+  {
+    "title": "Jessica Roll is a GitHubber",
+    "href": "/blog/1403-jessica-roll-is-a-githubber",
+    "published": "2013-02-05T12:10:02-08:00"
+  },
+  {
+    "title": "Upcoming Changes to GitHub Services",
+    "href": "/blog/1402-upcoming-changes-to-github-services",
+    "published": "2013-02-05T12:02:43-08:00"
+  },
+  {
+    "title": "SF Drinkup #43",
+    "href": "/blog/1401-sf-drinkup-43",
+    "published": "2013-02-05T11:15:38-08:00"
+  },
+  {
+    "title": "Markus Olsson is a GitHubber!",
+    "href": "/blog/1400-markus-olsson-is-a-githubber",
+    "published": "2013-02-04T14:03:19-08:00"
+  },
+  {
+    "title": "Recent Code Search Outages",
+    "href": "/blog/1397-recent-code-search-outages",
+    "published": "2013-02-04T11:07:47-08:00"
+  },
+  {
+    "title": "Quick quotes",
+    "href": "/blog/1399-quick-quotes",
+    "published": "2013-02-04T09:56:29-08:00"
+  },
+  {
+    "title": "Cleveland Drinkup February 6",
+    "href": "/blog/1398-cleveland-drinkup-february-6",
+    "published": "2013-02-01T11:02:43-08:00"
+  },
+  {
+    "title": "GitHub Enterprise 11.10.300 Release",
+    "href": "/blog/1392-github-enterprise-11-10-300-release",
+    "published": "2013-01-31T09:29:32-08:00"
+  },
+  {
+    "title": "Game Bytes #4 - Jammin'",
+    "href": "/blog/1393-game-bytes-4-jammin",
+    "published": "2013-01-31T08:01:15-08:00"
+  },
+  {
+    "title": "Sorting through Search Results",
+    "href": "/blog/1396-sorting-through-search-results",
+    "published": "2013-01-31T07:49:57-08:00"
+  },
+  {
+    "title": "Relative links in markup files",
+    "href": "/blog/1395-relative-links-in-markup-files",
+    "published": "2013-01-30T16:00:51-08:00"
+  },
+  {
+    "title": "Melbourne Drinkup",
+    "href": "/blog/1391-melbourne-drinkup",
+    "published": "2013-01-28T20:18:31-08:00"
+  },
+  {
+    "title": "Secrets in the code",
+    "href": "/blog/1390-secrets-in-the-code",
+    "published": "2013-01-25T14:06:40-08:00"
+  },
+  {
+    "title": "Viewing Past Contributions",
+    "href": "/blog/1387-viewing-past-contributions",
+    "published": "2013-01-24T14:29:00-08:00"
+  },
+  {
+    "title": "Zen Writing Mode",
+    "href": "/blog/1379-zen-writing-mode",
+    "published": "2013-01-24T10:54:52-08:00"
+  },
+  {
+    "title": "GitHub now supports Twitter Cards",
+    "href": "/blog/1388-github-now-supports-twitter-cards",
+    "published": "2013-01-24T09:54:39-08:00"
+  },
+  {
+    "title": "A Whole New Code Search",
+    "href": "/blog/1381-a-whole-new-code-search",
+    "published": "2013-01-23T09:59:47-08:00"
+  },
+  {
+    "title": "Closing Issues via Commit Messages",
+    "href": "/blog/1386-closing-issues-via-commit-messages",
+    "published": "2013-01-22T13:00:16-08:00"
+  },
+  {
+    "title": "Redwood City Drinkup",
+    "href": "/blog/1384-redwood-city-drinkup",
+    "published": "2013-01-21T13:00:43-08:00"
+  },
+  {
+    "title": "Tokyo Drinkup",
+    "href": "/blog/1385-tokyo-drinkup",
+    "published": "2013-01-20T14:43:28-08:00"
+  },
+  {
+    "title": "Brian Levine is a GitHubber",
+    "href": "/blog/1383-brian-levine-is-a-githubber",
+    "published": "2013-01-17T17:39:13-08:00"
+  },
+  {
+    "title": "Three Million Users",
+    "href": "/blog/1382-three-million-users",
+    "published": "2013-01-16T15:33:45-08:00"
+  },
+  {
+    "title": "Pat Nakajima is a GitHubber",
+    "href": "/blog/1380-pat-nakajima-is-a-githubber",
+    "published": "2013-01-14T10:14:12-08:00"
+  },
+  {
+    "title": "View long-running Pull Requests ",
+    "href": "/blog/1378-view-long-running-pull-requests",
+    "published": "2013-01-10T11:04:00-08:00"
+  },
+  {
+    "title": "Task Lists in GFM: Issues/Pulls, Comments",
+    "href": "/blog/1375-task-lists-in-gfm-issues-pulls-comments",
+    "published": "2013-01-09T15:07:56-08:00"
+  },
+  {
+    "title": "Create and delete branches",
+    "href": "/blog/1377-create-and-delete-branches",
+    "published": "2013-01-09T14:14:08-08:00"
+  },
+  {
+    "title": "Haleigh Sheehan is a GitHubber!",
+    "href": "/blog/1376-haleigh-sheehan-is-a-githubber",
+    "published": "2013-01-08T17:23:07-08:00"
+  },
+  {
+    "title": "CODE BASS 2 – Thursday, January 17",
+    "href": "/blog/1374-code-bass-2-thursday-january-17",
+    "published": "2013-01-08T13:11:41-08:00"
+  },
+  {
+    "title": "Brent Beer is a GitHubber",
+    "href": "/blog/1373-brent-beer-is-a-githubber",
+    "published": "2013-01-08T12:27:58-08:00"
+  },
+  {
+    "title": "Restore Tidied Pull Requests",
+    "href": "/blog/1369-restore-tidied-pull-requests",
+    "published": "2013-01-08T08:30:52-08:00"
+  },
+  {
+    "title": "Garen Torikian is a GitHubber",
+    "href": "/blog/1372-garen-torikian-is-a-githubber",
+    "published": "2013-01-07T17:24:56-08:00"
+  },
+  {
+    "title": "Introducing Contributions",
+    "href": "/blog/1360-introducing-contributions",
+    "published": "2013-01-07T15:45:07-08:00"
+  },
+  {
+    "title": "CES Las Vegas Drinkup - 1/10/13",
+    "href": "/blog/1371-ces-las-vegas-drinkup-1-10-13",
+    "published": "2013-01-07T11:13:48-08:00"
+  },
+  {
+    "title": "LA East Side Drinkup - January 9",
+    "href": "/blog/1370-la-east-side-drinkup-january-9",
+    "published": "2013-01-04T11:53:19-08:00"
+  },
+  {
+    "title": "Motor City Drinkup 1/9/13",
+    "href": "/blog/1367-motor-city-drinkup-1-9-13",
+    "published": "2013-01-03T11:13:25-08:00"
+  },
+  {
+    "title": "GitHub Pages updated to Jekyll 0.12.0",
+    "href": "/blog/1366-github-pages-updated-to-jekyll-0-12-0",
+    "published": "2013-01-03T08:14:59-08:00"
+  },
+  {
+    "title": "Releasing Make Me",
+    "href": "/blog/1368-releasing-make-me",
+    "published": "2013-01-02T16:30:16-08:00"
+  },
+  {
+    "title": "A More Transparent Clipboard Button",
+    "href": "/blog/1365-a-more-transparent-clipboard-button",
+    "published": "2013-01-02T13:00:57-08:00"
+  },
+  {
+    "title": "Downtime last Saturday",
+    "href": "/blog/1364-downtime-last-saturday",
+    "published": "2012-12-26T11:43:28-08:00"
+  },
+  {
+    "title": "Scheduled Maintenance Windows",
+    "href": "/blog/1363-scheduled-maintenance-windows",
+    "published": "2012-12-20T11:01:36-08:00"
+  },
+  {
+    "title": "Sara Pyle is a GitHubber",
+    "href": "/blog/1362-sara-pyle-is-a-githubber",
+    "published": "2012-12-19T16:37:30-08:00"
+  },
+  {
+    "title": "The Octoverse in 2012",
+    "href": "/blog/1359-the-octoverse-in-2012",
+    "published": "2012-12-19T10:48:06-08:00"
+  },
+  {
+    "title": "Williamsburg Drinkup",
+    "href": "/blog/1361-williamsburg-drinkup",
+    "published": "2012-12-18T12:00:14-08:00"
+  },
+  {
+    "title": "GitHub Game Off Winners",
+    "href": "/blog/1337-github-game-off-winners",
+    "published": "2012-12-18T09:15:36-08:00"
+  },
+  {
+    "title": "Tromsø, Norway Drinkup",
+    "href": "/blog/1358-troms-norway-drinkup",
+    "published": "2012-12-14T16:26:17-08:00"
+  },
+  {
+    "title": "Issue autocompletion",
+    "href": "/blog/1357-issue-autocompletion",
+    "published": "2012-12-14T14:10:54-08:00"
+  },
+  {
+    "title": "Customize your receipt details",
+    "href": "/blog/1356-customize-your-receipt-details",
+    "published": "2012-12-13T14:42:38-08:00"
+  },
+  {
+    "title": "New Homepage",
+    "href": "/blog/1355-new-homepage",
+    "published": "2012-12-13T10:53:20-08:00"
+  },
+  {
+    "title": "Goodbye, Uploads",
+    "href": "/blog/1302-goodbye-uploads",
+    "published": "2012-12-11T16:13:30-08:00"
+  },
+  {
+    "title": "Welcome to a New Gist",
+    "href": "/blog/1276-welcome-to-a-new-gist",
+    "published": "2012-12-11T13:26:53-08:00"
+  },
+  {
+    "title": "SF Drinkup #42",
+    "href": "/blog/1354-sf-drinkup-42",
+    "published": "2012-12-11T11:18:37-08:00"
+  },
+  {
+    "title": "Toronto Drinkup",
+    "href": "/blog/1353-toronto-drinkup",
+    "published": "2012-12-11T04:04:57-08:00"
+  },
+  {
+    "title": "Julio Avalos is a GitHubber!",
+    "href": "/blog/1352-julio-avalos-is-a-githubber",
+    "published": "2012-12-10T15:52:32-08:00"
+  },
+  {
+    "title": "Michael Gorsuch is a GitHubber!",
+    "href": "/blog/1350-michael-gorsuch-is-a-githubber",
+    "published": "2012-12-10T13:47:43-08:00"
+  },
+  {
+    "title": "Alex Howells is a GitHubber!",
+    "href": "/blog/1351-alex-howells-is-a-githubber",
+    "published": "2012-12-10T13:35:55-08:00"
+  },
+  {
+    "title": "UPDATE: London Drinkup - 12/12/12 ",
+    "href": "/blog/1349-update-london-drinkup-12-12-12",
+    "published": "2012-12-10T11:24:48-08:00"
+  },
+  {
+    "title": "GitHub system status API",
+    "href": "/blog/1348-github-system-status-api",
+    "published": "2012-12-10T11:18:30-08:00"
+  },
+  {
+    "title": "Issue attachments",
+    "href": "/blog/1347-issue-attachments",
+    "published": "2012-12-07T11:24:59-08:00"
+  },
+  {
+    "title": "New Enterprise.GitHub.com",
+    "href": "/blog/1340-new-enterprise-github-com",
+    "published": "2012-12-05T13:54:40-08:00"
+  },
+  {
+    "title": "Creating files on GitHub",
+    "href": "/blog/1327-creating-files-on-github",
+    "published": "2012-12-05T12:27:20-08:00"
+  },
+  {
+    "title": "New Status Site",
+    "href": "/blog/1240-new-status-site",
+    "published": "2012-12-05T12:22:10-08:00"
+  },
+  {
+    "title": "Network problems last Friday",
+    "href": "/blog/1346-network-problems-last-friday",
+    "published": "2012-12-05T11:14:41-08:00"
+  },
+  {
+    "title": "Sydney Drinkup",
+    "href": "/blog/1344-sydney-drinkup",
+    "published": "2012-12-03T22:28:01-08:00"
+  },
+  {
+    "title": "Elizabeth Naramore is a GitHubber!",
+    "href": "/blog/1342-elizabeth-naramore-is-a-githubber",
+    "published": "2012-12-03T14:45:05-08:00"
+  },
+  {
+    "title": "Vlado Herman is a GitHubber!",
+    "href": "/blog/1343-vlado-herman-is-a-githubber",
+    "published": "2012-12-03T14:07:34-08:00"
+  },
+  {
+    "title": "Mike Adolphs is a GitHubber!",
+    "href": "/blog/1341-mike-adolphs-is-a-githubber",
+    "published": "2012-12-03T11:34:53-08:00"
+  },
+  {
+    "title": "Daniel Hengeveld is a GitHubber!",
+    "href": "/blog/1338-daniel-hengeveld-is-a-githubber",
+    "published": "2012-12-03T11:12:04-08:00"
+  },
+  {
+    "title": "Tidying up after Pull Requests",
+    "href": "/blog/1335-tidying-up-after-pull-requests",
+    "published": "2012-12-03T10:33:53-08:00"
+  },
+  {
+    "title": "Brisbane Drinkup",
+    "href": "/blog/1339-brisbane-drinkup",
+    "published": "2012-12-01T23:08:57-08:00"
+  },
+  {
+    "title": "Game Off Deadline Extended",
+    "href": "/blog/1336-game-off-deadline-extended",
+    "published": "2012-11-30T14:53:21-08:00"
+  },
+  {
+    "title": "Craig Reyes is a GitHubber!",
+    "href": "/blog/1333-craig-reyes-is-a-githubber",
+    "published": "2012-11-29T15:18:16-08:00"
+  },
+  {
+    "title": "GitHub Drinkup in Las Vegas",
+    "href": "/blog/1334-github-drinkup-in-las-vegas",
+    "published": "2012-11-28T14:58:51-08:00"
+  },
+  {
+    "title": "Melbourne Drinkup",
+    "href": "/blog/1332-melbourne-drinkup",
+    "published": "2012-11-27T14:19:16-08:00"
+  },
+  {
+    "title": "html-pipeline: Chainable Content Filters",
+    "href": "/blog/1311-html-pipeline-chainable-content-filters",
+    "published": "2012-11-27T07:56:52-08:00"
+  },
+  {
+    "title": "Denver Drinkup",
+    "href": "/blog/1331-denver-drinkup",
+    "published": "2012-11-27T06:00:56-08:00"
+  },
+  {
+    "title": "Ben Toews is a GitHubber",
+    "href": "/blog/1330-ben-toews-is-a-githubber",
+    "published": "2012-11-26T17:30:53-08:00"
+  },
+  {
+    "title": "Andy Delcambre is a GitHubber!",
+    "href": "/blog/1329-andy-delcambre-is-a-githubber",
+    "published": "2012-11-26T14:41:39-08:00"
+  },
+  {
+    "title": "Search Syntax Improvements",
+    "href": "/blog/1328-search-syntax-improvements",
+    "published": "2012-11-26T10:46:32-08:00"
+  },
+  {
+    "title": "Retiring Impact Graphs",
+    "href": "/blog/1323-retiring-impact-graphs",
+    "published": "2012-11-20T16:26:57-08:00"
+  },
+  {
+    "title": "Drinkup in Oxford, UK this Thursday",
+    "href": "/blog/1321-drinkup-in-oxford-uk-this-thursday",
+    "published": "2012-11-20T10:13:07-08:00"
+  },
+  {
+    "title": "New header and footer",
+    "href": "/blog/1319-new-header-and-footer",
+    "published": "2012-11-19T13:46:54-08:00"
+  },
+  {
+    "title": "Command bar autocompletes stars",
+    "href": "/blog/1320-command-bar-autocompletes-stars",
+    "published": "2012-11-19T12:08:08-08:00"
+  },
+  {
+    "title": "Dodgeballs dodged, charities win! ",
+    "href": "/blog/1318-dodgeballs-dodged-charities-win",
+    "published": "2012-11-14T12:17:39-08:00"
+  },
+  {
+    "title": "Robert Sese is a GitHubber!",
+    "href": "/blog/1317-robert-sese-is-a-githubber",
+    "published": "2012-11-14T11:27:31-08:00"
+  },
+  {
+    "title": "Scott Roberts is a GitHubber!",
+    "href": "/blog/1315-scott-roberts-is-a-githubber",
+    "published": "2012-11-13T11:18:45-08:00"
+  },
+  {
+    "title": "Mutwin Kraus is a GitHubber!",
+    "href": "/blog/1314-mutwin-kraus-is-a-githubber",
+    "published": "2012-11-12T14:31:09-08:00"
+  },
+  {
+    "title": "Drinkup in Raleigh, NC",
+    "href": "/blog/1313-drinkup-in-raleigh-nc",
+    "published": "2012-11-12T10:09:44-08:00"
+  },
+  {
+    "title": "Tel Aviv Drinkup Tomorrow!",
+    "href": "/blog/1312-tel-aviv-drinkup-tomorrow",
+    "published": "2012-11-11T03:49:50-08:00"
+  },
+  {
+    "title": "Drinkup in Sofia, Bulgaria",
+    "href": "/blog/1310-drinkup-in-sofia-bulgaria",
+    "published": "2012-11-01T01:32:19-07:00"
+  },
+  {
+    "title": "GitHub Enterprise 11.10.290 Release",
+    "href": "/blog/1308-github-enterprise-11-10-290-release",
+    "published": "2012-10-31T11:39:40-07:00"
+  },
+  {
+    "title": "The Second Annual Octocat Dodgeball Invitational is almost here",
+    "href": "/blog/1309-the-second-annual-octocat-dodgeball-invitational-is-almost-here",
+    "published": "2012-10-30T15:10:18-07:00"
+  },
+  {
+    "title": "New close and merge notifications",
+    "href": "/blog/1307-new-close-and-merge-notifications",
+    "published": "2012-10-30T14:50:36-07:00"
+  },
+  {
+    "title": "Notifications API",
+    "href": "/blog/1306-notifications-api",
+    "published": "2012-10-26T13:08:55-07:00"
+  },
+  {
+    "title": "Denver Public Git Workshop",
+    "href": "/blog/1296-denver-public-git-workshop",
+    "published": "2012-10-26T12:50:22-07:00"
+  },
+  {
+    "title": "GitHub Game Off",
+    "href": "/blog/1303-github-game-off",
+    "published": "2012-10-25T10:30:05-07:00"
+  },
+  {
+    "title": "Rebel: a Framework for Improving AppKit",
+    "href": "/blog/1300-rebel-a-framework-for-improving-appkit",
+    "published": "2012-10-23T09:58:03-07:00"
+  },
+  {
+    "title": "Alyson Heineman La is a GitHubber!",
+    "href": "/blog/1305-alyson-heineman-la-is-a-githubber",
+    "published": "2012-10-22T16:52:01-07:00"
+  },
+  {
+    "title": "Latest commit per directory",
+    "href": "/blog/1301-latest-commit-per-directory",
+    "published": "2012-10-22T16:01:06-07:00"
+  },
+  {
+    "title": "Mantle: a Model Framework for Objective-C",
+    "href": "/blog/1299-mantle-a-model-framework-for-objective-c",
+    "published": "2012-10-22T12:07:29-07:00"
+  },
+  {
+    "title": "Mark Otto is a GitHubber!",
+    "href": "/blog/1304-mark-otto-is-a-githubber",
+    "published": "2012-10-22T11:40:31-07:00"
+  },
+  {
+    "title": "Aden Beihl is a GitHubber!",
+    "href": "/blog/1298-aden-beihl-is-a-githubber",
+    "published": "2012-10-18T17:56:12-07:00"
+  },
+  {
+    "title": "Buenos Aires Drinkup Tomorrow!",
+    "href": "/blog/1297-buenos-aires-drinkup-tomorrow",
+    "published": "2012-10-18T16:09:21-07:00"
+  },
+  {
+    "title": "Jared Pace is a GitHubber!",
+    "href": "/blog/1295-jared-pace-is-a-githubber",
+    "published": "2012-10-15T16:24:46-07:00"
+  },
+  {
+    "title": "Liz Clinkenbeard is a GitHubber!",
+    "href": "/blog/1294-liz-clinkenbeard-is-a-githubber",
+    "published": "2012-10-15T15:22:20-07:00"
+  },
+  {
+    "title": "James Fryman is a GitHubber!",
+    "href": "/blog/1293-james-fryman-is-a-githubber",
+    "published": "2012-10-15T14:51:54-07:00"
+  },
+  {
+    "title": "James Kang is a GitHubber! ",
+    "href": "/blog/1292-james-kang-is-a-githubber",
+    "published": "2012-10-15T12:15:13-07:00"
+  },
+  {
+    "title": "London Drinkup this Wednesday",
+    "href": "/blog/1291-london-drinkup-this-wednesday",
+    "published": "2012-10-15T09:07:56-07:00"
+  },
+  {
+    "title": "Indianapolis Drinkup Tonight",
+    "href": "/blog/1290-indianapolis-drinkup-tonight",
+    "published": "2012-10-12T12:13:03-07:00"
+  },
+  {
+    "title": "Emoji autocomplete",
+    "href": "/blog/1289-emoji-autocomplete",
+    "published": "2012-10-12T09:30:04-07:00"
+  },
+  {
+    "title": "Second Annual Octocat Dodgeball Invitational",
+    "href": "/blog/1288-second-annual-octocat-dodgeball-invitational",
+    "published": "2012-10-11T11:52:25-07:00"
+  },
+  {
+    "title": "GitHub for Mac: Notifications",
+    "href": "/blog/1287-github-for-mac-notifications",
+    "published": "2012-10-10T08:55:40-07:00"
+  },
+  {
+    "title": "SF Drinkup #41",
+    "href": "/blog/1286-sf-drinkup-41",
+    "published": "2012-10-09T13:35:27-07:00"
+  },
+  {
+    "title": "Columbus Drinkup #2",
+    "href": "/blog/1285-columbus-drinkup-2",
+    "published": "2012-10-08T15:16:04-07:00"
+  },
+  {
+    "title": "GitHub for Mac: Username Autocompletion",
+    "href": "/blog/1283-github-for-mac-username-autocompletion",
+    "published": "2012-10-08T11:20:34-07:00"
+  },
+  {
+    "title": "Drinkup in Boulder, CO",
+    "href": "/blog/1284-drinkup-in-boulder-co",
+    "published": "2012-10-05T18:44:55-07:00"
+  },
+  {
+    "title": "The GitHub:Training Web Site is a Thing",
+    "href": "/blog/1282-the-github-training-web-site-is-a-thing",
+    "published": "2012-10-05T13:30:33-07:00"
+  },
+  {
+    "title": "Drinkup in Norfolk, VA",
+    "href": "/blog/1281-drinkup-in-norfolk-va",
+    "published": "2012-10-04T12:31:09-07:00"
+  },
+  {
+    "title": "Drinkup in Cambridge, MA",
+    "href": "/blog/1280-drinkup-in-cambridge-ma",
+    "published": "2012-10-04T09:52:48-07:00"
+  },
+  {
+    "title": "Peter Williams is a GitHubber!",
+    "href": "/blog/1279-peter-williams-is-a-githubber",
+    "published": "2012-10-02T14:13:44-07:00"
+  },
+  {
+    "title": "Game Bytes #3",
+    "href": "/blog/1277-game-bytes-3",
+    "published": "2012-09-27T08:32:58-07:00"
+  },
+  {
+    "title": "Amber Agard is a GitHubber",
+    "href": "/blog/1278-amber-agard-is-a-githubber",
+    "published": "2012-09-26T17:08:17-07:00"
+  },
+  {
+    "title": "PuppetConf Drinkup (San Francisco)",
+    "href": "/blog/1272-puppetconf-drinkup-san-francisco",
+    "published": "2012-09-26T12:03:21-07:00"
+  },
+  {
+    "title": "Matt Yoho is a GitHubber",
+    "href": "/blog/1275-matt-yoho-is-a-githubber",
+    "published": "2012-09-24T20:28:19-07:00"
+  },
+  {
+    "title": "The GitHub hiring experience",
+    "href": "/blog/1269-the-github-hiring-experience",
+    "published": "2012-09-24T16:05:36-07:00"
+  },
+  {
+    "title": "Matt Burke is a GitHubber",
+    "href": "/blog/1273-matt-burke-is-a-githubber",
+    "published": "2012-09-24T14:44:36-07:00"
+  },
+  {
+    "title": "How we ship GitHub for Windows",
+    "href": "/blog/1271-how-we-ship-github-for-windows",
+    "published": "2012-09-24T10:49:13-07:00"
+  },
+  {
+    "title": "Easier builds and deployments using Git over HTTPS and OAuth",
+    "href": "/blog/1270-easier-builds-and-deployments-using-git-over-https-and-oauth",
+    "published": "2012-09-21T12:55:18-07:00"
+  },
+  {
+    "title": "New User Profile Pages",
+    "href": "/blog/1256-new-user-profile-pages",
+    "published": "2012-09-20T09:53:39-07:00"
+  },
+  {
+    "title": "Helsinki Drinkup",
+    "href": "/blog/1266-helsinki-drinkup",
+    "published": "2012-09-19T04:47:17-07:00"
+  },
+  {
+    "title": "Nashville Drinkup ",
+    "href": "/blog/1268-nashville-drinkup",
+    "published": "2012-09-18T12:16:08-07:00"
+  },
+  {
+    "title": "GitHub Launch Page",
+    "href": "/blog/1267-github-launch-page",
+    "published": "2012-09-18T10:12:26-07:00"
+  },
+  {
+    "title": "Introducing the Command Bar",
+    "href": "/blog/1264-introducing-the-command-bar",
+    "published": "2012-09-17T12:49:44-07:00"
+  },
+  {
+    "title": "Josh Vera is a GitHubber",
+    "href": "/blog/1265-josh-vera-is-a-githubber",
+    "published": "2012-09-17T11:51:10-07:00"
+  },
+  {
+    "title": "Alan Rogers is a GitHubber",
+    "href": "/blog/1263-alan-rogers-is-a-githubber",
+    "published": "2012-09-17T11:29:35-07:00"
+  },
+  {
+    "title": "Mark Imbriaco is a GitHubber",
+    "href": "/blog/1262-mark-imbriaco-is-a-githubber",
+    "published": "2012-09-17T09:52:12-07:00"
+  },
+  {
+    "title": "Contributing Guidelines",
+    "href": "/blog/1184-contributing-guidelines",
+    "published": "2012-09-17T09:03:11-07:00"
+  },
+  {
+    "title": "GitHub availability this week",
+    "href": "/blog/1261-github-availability-this-week",
+    "published": "2012-09-14T15:33:53-07:00"
+  },
+  {
+    "title": "Drinkup in Ljubljana, Slovenia",
+    "href": "/blog/1260-drinkup-in-ljubljana-slovenia",
+    "published": "2012-09-14T13:46:24-07:00"
+  },
+  {
+    "title": "South Bend Drinkup",
+    "href": "/blog/1259-south-bend-drinkup",
+    "published": "2012-09-13T07:01:51-07:00"
+  },
+  {
+    "title": "Oslo Drinkup #2",
+    "href": "/blog/1258-oslo-drinkup-2",
+    "published": "2012-09-12T05:41:29-07:00"
+  },
+  {
+    "title": "SF Drinkup #40",
+    "href": "/blog/1257-sf-drinkup-40",
+    "published": "2012-09-11T11:20:56-07:00"
+  },
+  {
+    "title": "Searching and Filtering Stars",
+    "href": "/blog/1236-searching-and-filtering-stars",
+    "published": "2012-09-10T17:41:18-07:00"
+  },
+  {
+    "title": "Atlanta Drinkup",
+    "href": "/blog/1255-atlanta-drinkup",
+    "published": "2012-09-10T13:06:40-07:00"
+  },
+  {
+    "title": "Honolulu Drinkup",
+    "href": "/blog/1254-honolulu-drinkup",
+    "published": "2012-09-10T11:33:12-07:00"
+  },
+  {
+    "title": "GitHub Enterprise 11.10.280 Release",
+    "href": "/blog/1239-github-enterprise-11-10-280-release",
+    "published": "2012-09-10T09:25:28-07:00"
+  },
+  {
+    "title": "Watcher API Changes",
+    "href": "/blog/1253-watcher-api-changes",
+    "published": "2012-09-10T08:47:53-07:00"
+  },
+  {
+    "title": "How we keep GitHub fast",
+    "href": "/blog/1252-how-we-keep-github-fast",
+    "published": "2012-09-05T11:27:34-07:00"
+  },
+  {
+    "title": "Nicolás Sanguinetti is a GitHubber",
+    "href": "/blog/1251-nicol-s-sanguinetti-is-a-githubber",
+    "published": "2012-09-05T11:01:46-07:00"
+  },
+  {
+    "title": "Saloni Dudziak is a GitHubber",
+    "href": "/blog/1250-saloni-dudziak-is-a-githubber",
+    "published": "2012-09-04T15:21:52-07:00"
+  },
+  {
+    "title": "Brooklyn Drinkup",
+    "href": "/blog/1249-brooklyn-drinkup",
+    "published": "2012-09-04T10:03:30-07:00"
+  },
+  {
+    "title": "Commit Status API",
+    "href": "/blog/1227-commit-status-api",
+    "published": "2012-09-04T09:06:29-07:00"
+  },
+  {
+    "title": "DjangoCon Drinkup",
+    "href": "/blog/1248-djangocon-drinkup",
+    "published": "2012-09-04T08:51:11-07:00"
+  },
+  {
+    "title": "Octokittens Everywhere!",
+    "href": "/blog/1242-octokittens-everywhere",
+    "published": "2012-08-31T10:21:53-07:00"
+  },
+  {
+    "title": "Drinkup in Courtenay, BC",
+    "href": "/blog/1243-drinkup-in-courtenay-bc",
+    "published": "2012-08-30T16:07:12-07:00"
+  },
+  {
+    "title": "Deploying at GitHub",
+    "href": "/blog/1241-deploying-at-github",
+    "published": "2012-08-29T14:38:00-07:00"
+  },
+  {
+    "title": "Optimizing Sales for Happiness",
+    "href": "/blog/1230-optimizing-sales-for-happiness",
+    "published": "2012-08-28T15:42:49-07:00"
+  },
+  {
+    "title": "Game Bytes #2",
+    "href": "/blog/1228-game-bytes-2",
+    "published": "2012-08-28T07:33:55-07:00"
+  },
+  {
+    "title": "Ben Lavender is a GitHubber",
+    "href": "/blog/1238-ben-lavender-is-a-githubber",
+    "published": "2012-08-27T15:38:46-07:00"
+  },
+  {
+    "title": "Lincoln Stoll is a GitHubber",
+    "href": "/blog/1237-lincoln-stoll-is-a-githubber",
+    "published": "2012-08-27T12:51:11-07:00"
+  },
+  {
+    "title": "Madison Drinkup this Thursday",
+    "href": "/blog/1234-madison-drinkup-this-thursday",
+    "published": "2012-08-21T14:20:57-07:00"
+  },
+  {
+    "title": "Philly Drinkup",
+    "href": "/blog/1235-philly-drinkup",
+    "published": "2012-08-21T12:59:54-07:00"
+  },
+  {
+    "title": "Steve Ward is a GitHubber",
+    "href": "/blog/1231-steve-ward-is-a-githubber",
+    "published": "2012-08-20T17:05:43-07:00"
+  },
+  {
+    "title": "John Britton is a GitHubber!",
+    "href": "/blog/1233-john-britton-is-a-githubber",
+    "published": "2012-08-20T16:55:21-07:00"
+  },
+  {
+    "title": "David Barr is a GitHubber!",
+    "href": "/blog/1232-david-barr-is-a-githubber",
+    "published": "2012-08-20T15:21:14-07:00"
+  },
+  {
+    "title": "Scheduled Maintenance Wednesday @ 22:00 PDT",
+    "href": "/blog/1229-scheduled-maintenance-wednesday-22-00-pdt",
+    "published": "2012-08-13T09:58:21-07:00"
+  },
+  {
+    "title": "The RefLog – Jake Wharton in Action",
+    "href": "/blog/1223-the-reflog-jake-wharton-in-action",
+    "published": "2012-08-08T13:49:35-07:00"
+  },
+  {
+    "title": "First OctoGala a Success!",
+    "href": "/blog/1226-first-octogala-a-success",
+    "published": "2012-08-08T12:43:32-07:00"
+  },
+  {
+    "title": "Shay Frendt is a GitHubber!",
+    "href": "/blog/1225-shay-frendt-is-a-githubber",
+    "published": "2012-08-07T17:56:29-07:00"
+  },
+  {
+    "title": "SF Drinkup #39",
+    "href": "/blog/1224-sf-drinkup-39",
+    "published": "2012-08-07T15:52:53-07:00"
+  },
+  {
+    "title": "Curt Micol is a GitHubber!",
+    "href": "/blog/1222-curt-micol-is-a-githubber",
+    "published": "2012-08-06T15:31:08-07:00"
+  },
+  {
+    "title": "New Orleans Drinkup",
+    "href": "/blog/1220-new-orleans-drinkup",
+    "published": "2012-08-06T14:27:30-07:00"
+  },
+  {
+    "title": "Rio de Janeiro Drinkup",
+    "href": "/blog/1221-rio-de-janeiro-drinkup",
+    "published": "2012-08-06T14:08:24-07:00"
+  },
+  {
+    "title": "Notifications & Stars",
+    "href": "/blog/1204-notifications-stars",
+    "published": "2012-08-06T12:49:51-07:00"
+  },
+  {
+    "title": "Notification Email Improvements",
+    "href": "/blog/1214-notification-email-improvements",
+    "published": "2012-08-06T12:49:48-07:00"
+  },
+  {
+    "title": "Columbus Drinkup",
+    "href": "/blog/1219-columbus-drinkup",
+    "published": "2012-08-06T11:44:23-07:00"
+  },
+  {
+    "title": "São Paulo Drinkup",
+    "href": "/blog/1218-s-o-paulo-drinkup",
+    "published": "2012-08-05T11:51:47-07:00"
+  },
+  {
+    "title": "Email Verification",
+    "href": "/blog/1215-email-verification",
+    "published": "2012-08-03T11:13:00-07:00"
+  },
+  {
+    "title": "Friendlier Edit and Delete Actions",
+    "href": "/blog/1217-friendlier-edit-and-delete-actions",
+    "published": "2012-08-03T10:42:20-07:00"
+  },
+  {
+    "title": "Tim Berglund is a GitHubber!",
+    "href": "/blog/1216-tim-berglund-is-a-githubber",
+    "published": "2012-08-01T15:00:43-07:00"
+  },
+  {
+    "title": "Game Bytes #1",
+    "href": "/blog/1213-game-bytes-1",
+    "published": "2012-07-31T07:56:49-07:00"
+  },
+  {
+    "title": "Surviving the SSHpocolypse",
+    "href": "/blog/1212-surviving-the-sshpocolypse",
+    "published": "2012-07-26T16:05:57-07:00"
+  },
+  {
+    "title": "Jenifer Duke is a GitHubber!",
+    "href": "/blog/1206-jenifer-duke-is-a-githubber",
+    "published": "2012-07-23T17:35:53-07:00"
+  },
+  {
+    "title": "Patrick Dunnam is a GitHubber!",
+    "href": "/blog/1205-patrick-dunnam-is-a-githubber",
+    "published": "2012-07-23T17:08:44-07:00"
+  },
+  {
+    "title": "John Greet is a GitHubber!",
+    "href": "/blog/1208-john-greet-is-a-githubber",
+    "published": "2012-07-23T17:00:08-07:00"
+  },
+  {
+    "title": "Jerry Cheung is a GitHubber!",
+    "href": "/blog/1207-jerry-cheung-is-a-githubber",
+    "published": "2012-07-23T16:50:36-07:00"
+  },
+  {
+    "title": "Berlin Drinkup",
+    "href": "/blog/1203-berlin-drinkup",
+    "published": "2012-07-18T08:51:52-07:00"
+  },
+  {
+    "title": "The RefLog - July 2012",
+    "href": "/blog/1202-the-reflog-july-2012",
+    "published": "2012-07-17T20:38:17-07:00"
+  },
+  {
+    "title": "Portland Drinkup",
+    "href": "/blog/1200-portland-drinkup",
+    "published": "2012-07-16T14:08:12-07:00"
+  },
+  {
+    "title": "Justin Spahr-Summers is a GitHubber ",
+    "href": "/blog/1201-justin-spahr-summers-is-a-githubber",
+    "published": "2012-07-16T12:14:35-07:00"
+  },
+  {
+    "title": "Indianapolis Drinkup",
+    "href": "/blog/1199-indianapolis-drinkup",
+    "published": "2012-07-16T06:55:57-07:00"
+  },
+  {
+    "title": "Thessaloniki Drinkup",
+    "href": "/blog/1196-thessaloniki-drinkup",
+    "published": "2012-07-13T02:27:47-07:00"
+  },
+  {
+    "title": "The First OctoGala",
+    "href": "/blog/1198-the-first-octogala",
+    "published": "2012-07-12T14:25:23-07:00"
+  },
+  {
+    "title": "Durham Drinkup 2: Electric Boogaloo",
+    "href": "/blog/1197-durham-drinkup-2-electric-boogaloo",
+    "published": "2012-07-12T10:57:11-07:00"
+  },
+  {
+    "title": "SF Drinkup #38",
+    "href": "/blog/1194-sf-drinkup-38",
+    "published": "2012-07-10T13:52:27-07:00"
+  },
+  {
+    "title": "Investing in GitHub",
+    "href": "/blog/1189-investing-in-github",
+    "published": "2012-07-09T14:02:26-07:00"
+  },
+  {
+    "title": "Jason Dixon is a GitHubber",
+    "href": "/blog/1193-jason-dixon-is-a-githubber",
+    "published": "2012-07-09T14:00:26-07:00"
+  },
+  {
+    "title": "Derek Greentree is a GitHubber",
+    "href": "/blog/1192-derek-greentree-is-a-githubber",
+    "published": "2012-07-09T13:50:44-07:00"
+  },
+  {
+    "title": "Austin Spires is a GitHubber",
+    "href": "/blog/1191-austin-spires-is-a-githubber",
+    "published": "2012-07-09T13:47:09-07:00"
+  },
+  {
+    "title": "Zachary Kaplan is a GitHubber",
+    "href": "/blog/1190-zachary-kaplan-is-a-githubber",
+    "published": "2012-07-09T13:33:35-07:00"
+  },
+  {
+    "title": "Luke Hefson is a GitHubber",
+    "href": "/blog/1186-luke-hefson-is-a-githubber",
+    "published": "2012-07-09T13:26:11-07:00"
+  },
+  {
+    "title": "Drew Miller is a GitHubber",
+    "href": "/blog/1188-drew-miller-is-a-githubber",
+    "published": "2012-07-09T12:17:21-07:00"
+  },
+  {
+    "title": "GitHub Android App Released",
+    "href": "/blog/1187-github-android-app-released",
+    "published": "2012-07-09T11:40:34-07:00"
+  },
+  {
+    "title": "Madrid Drinkup",
+    "href": "/blog/1185-madrid-drinkup",
+    "published": "2012-07-07T08:36:18-07:00"
+  },
+  {
+    "title": "Try Git In Your Browser",
+    "href": "/blog/1183-try-git-in-your-browser",
+    "published": "2012-07-04T08:29:37-07:00"
+  },
+  {
+    "title": "Glasgow Drinkup",
+    "href": "/blog/1168-glasgow-drinkup",
+    "published": "2012-06-29T03:19:31-07:00"
+  },
+  {
+    "title": "Eclipse Git Plugin 2.0 Released",
+    "href": "/blog/1181-eclipse-git-plugin-2-0-released",
+    "published": "2012-06-27T12:53:56-07:00"
+  },
+  {
+    "title": "Collaborating on GitHub with Subversion",
+    "href": "/blog/1178-collaborating-on-github-with-subversion",
+    "published": "2012-06-26T10:33:54-07:00"
+  },
+  {
+    "title": "Yossef Mendelssohn is a GitHubber",
+    "href": "/blog/1179-yossef-mendelssohn-is-a-githubber",
+    "published": "2012-06-25T17:39:59-07:00"
+  },
+  {
+    "title": "Kevin Barnes is a GitHubber!",
+    "href": "/blog/1177-kevin-barnes-is-a-githubber",
+    "published": "2012-06-25T15:53:10-07:00"
+  },
+  {
+    "title": "Rick Bradley is a GitHubber",
+    "href": "/blog/1176-rick-bradley-is-a-githubber",
+    "published": "2012-06-25T15:52:29-07:00"
+  },
+  {
+    "title": "Jared Koumentis is a GitHubber!",
+    "href": "/blog/1175-jared-koumentis-is-a-githubber",
+    "published": "2012-06-25T15:05:25-07:00"
+  },
+  {
+    "title": "Auto Updating Comments",
+    "href": "/blog/1174-auto-updating-comments",
+    "published": "2012-06-25T11:18:05-07:00"
+  },
+  {
+    "title": "GitHub Pages Update",
+    "href": "/blog/1173-github-pages-update",
+    "published": "2012-06-20T11:27:27-07:00"
+  },
+  {
+    "title": "Emma Bryant is a GitHubber!",
+    "href": "/blog/1171-emma-bryant-is-a-githubber",
+    "published": "2012-06-19T15:20:08-07:00"
+  },
+  {
+    "title": "Julia West is a GitHubber",
+    "href": "/blog/1172-julia-west-is-a-githubber",
+    "published": "2012-06-19T12:18:42-07:00"
+  },
+  {
+    "title": "Seattle Drinkup",
+    "href": "/blog/1170-seattle-drinkup",
+    "published": "2012-06-19T11:42:42-07:00"
+  },
+  {
+    "title": "Scott Goldman is a GitHubber",
+    "href": "/blog/1167-scott-goldman-is-a-githubber",
+    "published": "2012-06-18T11:55:12-07:00"
+  },
+  {
+    "title": "Ted Nyman is a GitHubber!",
+    "href": "/blog/1166-ted-nyman-is-a-githubber",
+    "published": "2012-06-18T11:40:56-07:00"
+  },
+  {
+    "title": "Keavy McMinn is a GitHubber",
+    "href": "/blog/1165-keavy-mcminn-is-a-githubber",
+    "published": "2012-06-18T11:20:34-07:00"
+  },
+  {
+    "title": "GitHub Drinkup in Boston",
+    "href": "/blog/1163-github-drinkup-in-boston",
+    "published": "2012-06-18T10:28:02-07:00"
+  },
+  {
+    "title": "Skål! Stockholm Drinkup",
+    "href": "/blog/1164-sk-l-stockholm-drinkup",
+    "published": "2012-06-17T07:02:36-07:00"
+  },
+  {
+    "title": "GitHub Data Challenge Winners",
+    "href": "/blog/1162-github-data-challenge-winners",
+    "published": "2012-06-12T14:12:14-07:00"
+  },
+  {
+    "title": "Chad Humphries is a GitHubber",
+    "href": "/blog/1159-chad-humphries-is-a-githubber",
+    "published": "2012-06-12T11:44:40-07:00"
+  },
+  {
+    "title": "GitHub API v2: End of Life",
+    "href": "/blog/1160-github-api-v2-end-of-life",
+    "published": "2012-06-12T09:06:24-07:00"
+  },
+  {
+    "title": "Slava Shirokov is a GitHubber",
+    "href": "/blog/1158-slava-shirokov-is-a-githubber",
+    "published": "2012-06-11T18:09:54-07:00"
+  },
+  {
+    "title": "Tuesday Drinkup in Charlotte, NC",
+    "href": "/blog/1157-tuesday-drinkup-in-charlotte-nc",
+    "published": "2012-06-11T08:19:01-07:00"
+  },
+  {
+    "title": "Drinkup in Milan",
+    "href": "/blog/1156-drinkup-in-milan",
+    "published": "2012-06-11T07:01:58-07:00"
+  },
+  {
+    "title": "Copenhagen Drinkup",
+    "href": "/blog/1155-copenhagen-drinkup",
+    "published": "2012-06-10T11:39:38-07:00"
+  },
+  {
+    "title": "Windows on the Bay - Let's Party!",
+    "href": "/blog/1154-windows-on-the-bay-let-s-party",
+    "published": "2012-06-08T10:39:18-07:00"
+  },
+  {
+    "title": "Designing GitHub for Windows",
+    "href": "/blog/1151-designing-github-for-windows",
+    "published": "2012-06-07T09:46:27-07:00"
+  },
+  {
+    "title": "GitHub Enterprise 11.10.270 Release",
+    "href": "/blog/1144-github-enterprise-11-10-270-release",
+    "published": "2012-06-06T11:46:09-07:00"
+  },
+  {
+    "title": "GitHub Drinkup in Chicago",
+    "href": "/blog/1150-github-drinkup-in-chicago",
+    "published": "2012-06-05T16:44:14-07:00"
+  },
+  {
+    "title": "Introducing Help Next",
+    "href": "/blog/1149-introducing-help-next",
+    "published": "2012-06-05T15:09:33-07:00"
+  },
+  {
+    "title": "Paul Sadauskas is a GitHubber",
+    "href": "/blog/1148-paul-sadauskas-is-a-githubber",
+    "published": "2012-06-04T14:23:54-07:00"
+  },
+  {
+    "title": "Coby Chapple is a GitHubber",
+    "href": "/blog/1147-coby-chapple-is-a-githubber",
+    "published": "2012-06-04T13:58:46-07:00"
+  },
+  {
+    "title": "Mike Skalnik is a GitHubber",
+    "href": "/blog/1145-mike-skalnik-is-a-githubber",
+    "published": "2012-06-04T11:25:21-07:00"
+  },
+  {
+    "title": "Drew Woods is a GitHubber",
+    "href": "/blog/1146-drew-woods-is-a-githubber",
+    "published": "2012-06-04T10:48:17-07:00"
+  },
+  {
+    "title": "Will Farrington is a GitHubber",
+    "href": "/blog/1143-will-farrington-is-a-githubber",
+    "published": "2012-05-29T10:20:02-07:00"
+  },
+  {
+    "title": "David Graham is a GitHubber",
+    "href": "/blog/1141-david-graham-is-a-githubber",
+    "published": "2012-05-21T11:56:42-07:00"
+  },
+  {
+    "title": "Wynn Netherland is a GitHubber!",
+    "href": "/blog/1140-wynn-netherland-is-a-githubber",
+    "published": "2012-05-21T11:26:52-07:00"
+  },
+  {
+    "title": "GitHub for Windows",
+    "href": "/blog/1127-github-for-windows",
+    "published": "2012-05-21T09:15:31-07:00"
+  },
+  {
+    "title": "Helsinki Drinkup",
+    "href": "/blog/1139-helsinki-drinkup",
+    "published": "2012-05-17T22:48:54-07:00"
+  },
+  {
+    "title": "Verona Italy Drinkup",
+    "href": "/blog/1138-verona-italy-drinkup",
+    "published": "2012-05-16T06:23:02-07:00"
+  },
+  {
+    "title": "Billy Roh is a GitHubber",
+    "href": "/blog/1136-billy-roh-is-a-githubber",
+    "published": "2012-05-15T15:32:52-07:00"
+  },
+  {
+    "title": "Mexico City Drinkup",
+    "href": "/blog/1128-mexico-city-drinkup",
+    "published": "2012-05-13T20:52:37-07:00"
+  },
+  {
+    "title": "Git Basics Screencasts",
+    "href": "/blog/1123-git-basics-screencasts",
+    "published": "2012-05-13T16:42:11-07:00"
+  },
+  {
+    "title": "Twitter + GitHub = TwUI",
+    "href": "/blog/1133-twitter-github-twui",
+    "published": "2012-05-11T08:47:47-07:00"
+  },
+  {
+    "title": "The Making of Octicons",
+    "href": "/blog/1135-the-making-of-octicons",
+    "published": "2012-05-09T13:03:54-07:00"
+  },
+  {
+    "title": "Say Hello to Octicons",
+    "href": "/blog/1106-say-hello-to-octicons",
+    "published": "2012-05-09T10:08:33-07:00"
+  },
+  {
+    "title": "Introducing Team Mentions",
+    "href": "/blog/1121-introducing-team-mentions",
+    "published": "2012-05-09T09:46:34-07:00"
+  },
+  {
+    "title": "SF Drinkup #37",
+    "href": "/blog/1134-sf-drinkup-37",
+    "published": "2012-05-08T12:50:55-07:00"
+  },
+  {
+    "title": "GitHub Drinkup in Durham, NC",
+    "href": "/blog/1115-github-drinkup-in-durham-nc",
+    "published": "2012-05-08T07:41:22-07:00"
+  },
+  {
+    "title": "GitHub drinkup in Atlanta, GA",
+    "href": "/blog/1129-github-drinkup-in-atlanta-ga",
+    "published": "2012-05-07T18:37:16-07:00"
+  },
+  {
+    "title": "Ryan Waldron is a GitHubber",
+    "href": "/blog/1132-ryan-waldron-is-a-githubber",
+    "published": "2012-05-07T16:51:54-07:00"
+  },
+  {
+    "title": "Tony Jaramillo is a GitHubber",
+    "href": "/blog/1131-tony-jaramillo-is-a-githubber",
+    "published": "2012-05-07T16:42:52-07:00"
+  },
+  {
+    "title": "Jeremy Mcanally is a GitHubber",
+    "href": "/blog/1130-jeremy-mcanally-is-a-githubber",
+    "published": "2012-05-07T14:25:08-07:00"
+  },
+  {
+    "title": "New Git Homepage",
+    "href": "/blog/1125-new-git-homepage",
+    "published": "2012-05-07T11:14:52-07:00"
+  },
+  {
+    "title": "ReactiveCocoa for a better world",
+    "href": "/blog/1107-reactivecocoa-for-a-better-world",
+    "published": "2012-05-04T10:33:55-07:00"
+  },
+  {
+    "title": "Section links in READMEs and blob pages",
+    "href": "/blog/1126-section-links-in-readmes-and-blob-pages",
+    "published": "2012-05-03T13:33:10-07:00"
+  },
+  {
+    "title": "How we use Pull Requests to build GitHub",
+    "href": "/blog/1124-how-we-use-pull-requests-to-build-github",
+    "published": "2012-05-02T11:25:09-07:00"
+  },
+  {
+    "title": "GitHub Drinkup in Las Vegas",
+    "href": "/blog/1122-github-drinkup-in-las-vegas",
+    "published": "2012-05-01T12:56:13-07:00"
+  },
+  {
+    "title": "The GitHub Data Challenge",
+    "href": "/blog/1118-the-github-data-challenge",
+    "published": "2012-05-01T11:31:53-07:00"
+  },
+  {
+    "title": "Data at GitHub",
+    "href": "/blog/1112-data-at-github",
+    "published": "2012-05-01T10:23:46-07:00"
+  },
+  {
+    "title": "GitHub Enterprise 11.10.260 Release",
+    "href": "/blog/1120-github-enterprise-11-10-260-release",
+    "published": "2012-05-01T10:13:38-07:00"
+  },
+  {
+    "title": "GitHub Drinkup in Ann Arbor, MI",
+    "href": "/blog/1114-github-drinkup-in-ann-arbor-mi",
+    "published": "2012-05-01T09:06:36-07:00"
+  },
+  {
+    "title": "Shawn Davenport is a GitHubber",
+    "href": "/blog/1117-shawn-davenport-is-a-githubber",
+    "published": "2012-04-30T15:11:34-07:00"
+  },
+  {
+    "title": "Tim Pease is a GitHubber",
+    "href": "/blog/1116-tim-pease-is-a-githubber",
+    "published": "2012-04-30T14:05:14-07:00"
+  },
+  {
+    "title": "Akavache is now open source",
+    "href": "/blog/1113-akavache-is-now-open-source",
+    "published": "2012-04-28T09:18:29-07:00"
+  },
+  {
+    "title": "Introducing the New GitHub Graphs",
+    "href": "/blog/1093-introducing-the-new-github-graphs",
+    "published": "2012-04-25T13:09:40-07:00"
+  },
+  {
+    "title": "Fileserver Maintenance Wednesday Night",
+    "href": "/blog/1111-fileserver-maintenance-wednesday-night",
+    "published": "2012-04-24T14:01:29-07:00"
+  },
+  {
+    "title": "Rob Sanheim is a GitHubber",
+    "href": "/blog/1110-rob-sanheim-is-a-githubber",
+    "published": "2012-04-23T17:10:15-07:00"
+  },
+  {
+    "title": "Ben Straub is a GitHubber",
+    "href": "/blog/1109-ben-straub-is-a-githubber",
+    "published": "2012-04-23T15:35:57-07:00"
+  },
+  {
+    "title": "David Calavera is a GitHubber",
+    "href": "/blog/1108-david-calavera-is-a-githubber",
+    "published": "2012-04-23T15:24:28-07:00"
+  },
+  {
+    "title": "An easier way to create repositories",
+    "href": "/blog/1105-an-easier-way-to-create-repositories",
+    "published": "2012-04-18T14:35:18-07:00"
+  },
+  {
+    "title": "Credential Caching for Wrist-Friendly Git Usage",
+    "href": "/blog/1104-credential-caching-for-wrist-friendly-git-usage",
+    "published": "2012-04-17T14:43:40-07:00"
+  },
+  {
+    "title": "Ten Years of farbrausch Productions on GitHub",
+    "href": "/blog/1103-ten-years-of-farbrausch-productions-on-github",
+    "published": "2012-04-15T14:23:31-07:00"
+  },
+  {
+    "title": "GitHub for Mac: Easier Updates",
+    "href": "/blog/1102-github-for-mac-easier-updates",
+    "published": "2012-04-12T13:27:37-07:00"
+  },
+  {
+    "title": "SF Drinkup #36",
+    "href": "/blog/1101-sf-drinkup-36",
+    "published": "2012-04-10T10:42:31-07:00"
+  },
+  {
+    "title": "Take Over The Galaxy with GitHub",
+    "href": "/blog/1098-take-over-the-galaxy-with-github",
+    "published": "2012-04-10T08:10:38-07:00"
+  },
+  {
+    "title": "GitHub Drinkup in Portland, OR",
+    "href": "/blog/1100-github-drinkup-in-portland-or",
+    "published": "2012-04-09T18:26:40-07:00"
+  },
+  {
+    "title": "Jason Salaz is a GitHubber",
+    "href": "/blog/1099-jason-salaz-is-a-githubber",
+    "published": "2012-04-09T15:04:47-07:00"
+  },
+  {
+    "title": "Sean Bryant is a GitHubber",
+    "href": "/blog/1097-sean-bryant-is-a-githubber",
+    "published": "2012-04-09T14:46:33-07:00"
+  },
+  {
+    "title": "Danish Khan is a GitHubber",
+    "href": "/blog/1096-danish-khan-is-a-githubber",
+    "published": "2012-04-09T14:34:24-07:00"
+  },
+  {
+    "title": "GitHub Drinkup in Chicago",
+    "href": "/blog/1095-github-drinkup-in-chicago",
+    "published": "2012-04-09T13:20:56-07:00"
+  },
+  {
+    "title": "Spring Cleaning",
+    "href": "/blog/1091-spring-cleaning",
+    "published": "2012-04-03T13:26:00-07:00"
+  },
+  {
+    "title": "GitHub Drinkup, Ventura Edition",
+    "href": "/blog/1094-github-drinkup-ventura-edition",
+    "published": "2012-04-02T16:48:02-07:00"
+  },
+  {
+    "title": "Kyros Starr is a GitHubber",
+    "href": "/blog/1092-kyros-starr-is-a-githubber",
+    "published": "2012-04-02T15:49:26-07:00"
+  },
+  {
+    "title": "Instantly Beautiful Project Pages",
+    "href": "/blog/1081-instantly-beautiful-project-pages",
+    "published": "2012-04-02T09:46:39-07:00"
+  },
+  {
+    "title": "GitHub API: Moving On",
+    "href": "/blog/1090-github-api-moving-on",
+    "published": "2012-03-28T09:14:07-07:00"
+  },
+  {
+    "title": "Nodeload Metrics",
+    "href": "/blog/1089-nodeload-metrics",
+    "published": "2012-03-27T10:24:57-07:00"
+  },
+  {
+    "title": "GitHub Drinkup in Columbia, SC",
+    "href": "/blog/1088-github-drinkup-in-columbia-sc",
+    "published": "2012-03-26T17:40:14-07:00"
+  },
+  {
+    "title": "Jason Long is a GitHubber",
+    "href": "/blog/1087-jason-long-is-a-githubber",
+    "published": "2012-03-26T11:25:26-07:00"
+  },
+  {
+    "title": "John Barnette is a GitHubber",
+    "href": "/blog/1086-john-barnette-is-a-githubber",
+    "published": "2012-03-26T11:21:02-07:00"
+  },
+  {
+    "title": "GitHub Drinkup in Ljubljana, Slovenia Tonight (2 Locations)",
+    "href": "/blog/1085-github-drinkup-in-ljubljana-slovenia-tonight-2-locations",
+    "published": "2012-03-22T08:57:29-07:00"
+  },
+  {
+    "title": "PHP source now available on GitHub",
+    "href": "/blog/1084-php-source-now-available-on-github",
+    "published": "2012-03-20T14:25:18-07:00"
+  },
+  {
+    "title": "Lee Huffman is a GitHubber",
+    "href": "/blog/1083-lee-huffman-is-a-githubber",
+    "published": "2012-03-19T17:46:11-07:00"
+  },
+  {
+    "title": "Julie Ann Horvath is a GitHubber",
+    "href": "/blog/1082-julie-ann-horvath-is-a-githubber",
+    "published": "2012-03-19T11:16:37-07:00"
+  },
+  {
+    "title": "OAuth Application Enhancements",
+    "href": "/blog/1077-oauth-application-enhancements",
+    "published": "2012-03-14T11:43:31-07:00"
+  },
+  {
+    "title": "David Newman is a GitHubber!",
+    "href": "/blog/1078-david-newman-is-a-githubber",
+    "published": "2012-03-12T21:19:11-07:00"
+  },
+  {
+    "title": "GitHub Drinkup in Calgary ",
+    "href": "/blog/1076-github-drinkup-in-calgary",
+    "published": "2012-03-12T17:58:38-07:00"
+  },
+  {
+    "title": "The Creation Of An Octocat",
+    "href": "/blog/1075-the-creation-of-an-octocat",
+    "published": "2012-03-12T14:02:25-07:00"
+  },
+  {
+    "title": "GitHub Drinkup in Rome, Italy",
+    "href": "/blog/1073-github-drinkup-in-rome-italy",
+    "published": "2012-03-10T20:08:35-08:00"
+  },
+  {
+    "title": "SF Drinkup #35",
+    "href": "/blog/1074-sf-drinkup-35",
+    "published": "2012-03-06T11:56:45-08:00"
+  },
+  {
+    "title": "Adam Roben is a GitHubber",
+    "href": "/blog/1072-adam-roben-is-a-githubber",
+    "published": "2012-03-05T10:54:19-08:00"
+  },
+  {
+    "title": "Matthew McCullough is a GitHubber",
+    "href": "/blog/1071-matthew-mccullough-is-a-githubber",
+    "published": "2012-03-05T09:25:28-08:00"
+  },
+  {
+    "title": "Responsible Disclosure Policy",
+    "href": "/blog/1069-responsible-disclosure-policy",
+    "published": "2012-03-04T16:20:52-08:00"
+  },
+  {
+    "title": "Public Key Security Vulnerability and Mitigation",
+    "href": "/blog/1068-public-key-security-vulnerability-and-mitigation",
+    "published": "2012-03-04T12:31:03-08:00"
+  },
+  {
+    "title": "GitHub for Mac 1.2: Snow Octocat",
+    "href": "/blog/1067-github-for-mac-1-2-snow-octocat",
+    "published": "2012-03-02T10:51:47-08:00"
+  },
+  {
+    "title": "Stockholm Drinkup",
+    "href": "/blog/1066-stockholm-drinkup",
+    "published": "2012-03-01T12:07:56-08:00"
+  },
+  {
+    "title": "Drinkup in Bend Oregon",
+    "href": "/blog/1065-drinkup-in-bend-oregon",
+    "published": "2012-03-01T08:46:45-08:00"
+  },
+  {
+    "title": "London GitHub Drinkup",
+    "href": "/blog/1064-london-github-drinkup",
+    "published": "2012-03-01T02:00:49-08:00"
+  },
+  {
+    "title": "GitHub at the Game Developers Conference",
+    "href": "/blog/1063-github-at-the-game-developers-conference",
+    "published": "2012-02-29T15:26:55-08:00"
+  },
+  {
+    "title": "Our First GitHub CoderDojo Session",
+    "href": "/blog/1062-our-first-github-coderdojo-session",
+    "published": "2012-02-28T14:04:10-08:00"
+  },
+  {
+    "title": "Blob contributions box",
+    "href": "/blog/1056-blob-contributions-box",
+    "published": "2012-02-23T10:46:04-08:00"
+  },
+  {
+    "title": "Miami GitHub Drink Up",
+    "href": "/blog/1060-miami-github-drink-up",
+    "published": "2012-02-23T10:28:37-08:00"
+  },
+  {
+    "title": "Bellevue, WA Drinkup",
+    "href": "/blog/1059-bellevue-wa-drinkup",
+    "published": "2012-02-23T10:21:03-08:00"
+  },
+  {
+    "title": "Gaug.es for Android",
+    "href": "/blog/1054-gaug-es-for-android",
+    "published": "2012-02-22T12:33:02-08:00"
+  },
+  {
+    "title": "Last minute drinkup in NYC!",
+    "href": "/blog/1053-last-minute-drinkup-in-nyc",
+    "published": "2012-02-21T00:27:20-08:00"
+  },
+  {
+    "title": "Garrett Bjerkhoel is a GitHubber",
+    "href": "/blog/1043-garrett-bjerkhoel-is-a-githubber",
+    "published": "2012-02-20T11:06:44-08:00"
+  },
+  {
+    "title": "Brian Doll is a GitHubber",
+    "href": "/blog/1042-brian-doll-is-a-githubber",
+    "published": "2012-02-20T10:43:12-08:00"
+  },
+  {
+    "title": "Easier Pull Request Creation",
+    "href": "/blog/1039-easier-pull-request-creation",
+    "published": "2012-02-15T12:14:40-08:00"
+  },
+  {
+    "title": "Jake Douglas is a GitHubber",
+    "href": "/blog/1038-jake-douglas-is-a-githubber",
+    "published": "2012-02-13T14:17:31-08:00"
+  },
+  {
+    "title": "Highlighting Repository Languages ",
+    "href": "/blog/1037-highlighting-repository-languages",
+    "published": "2012-02-11T13:39:08-08:00"
+  },
+  {
+    "title": "Settings Refresh",
+    "href": "/blog/1035-settings-refresh",
+    "published": "2012-02-10T14:43:00-08:00"
+  },
+  {
+    "title": "About This Week's Availability",
+    "href": "/blog/1036-about-this-week-s-availability",
+    "published": "2012-02-10T10:48:57-08:00"
+  },
+  {
+    "title": "Kids are the future. Teach 'em to code.",
+    "href": "/blog/1034-kids-are-the-future-teach-em-to-code",
+    "published": "2012-02-09T09:46:12-08:00"
+  },
+  {
+    "title": "SF Drinkup #34",
+    "href": "/blog/1033-sf-drinkup-34",
+    "published": "2012-02-07T14:58:01-08:00"
+  },
+  {
+    "title": "Sydney Drinkup!",
+    "href": "/blog/1032-sydney-drinkup",
+    "published": "2012-02-04T19:13:46-08:00"
+  },
+  {
+    "title": "GitHub Reflog v2.2.4",
+    "href": "/blog/1031-github-reflog-v2-2-4",
+    "published": "2012-02-03T23:51:25-08:00"
+  },
+  {
+    "title": "Redux: SVN, Git and GitHub presentation at ThoughtWorks in Chicago",
+    "href": "/blog/1030-redux-svn-git-and-github-presentation-at-thoughtworks-in-chicago",
+    "published": "2012-02-02T10:17:06-08:00"
+  },
+  {
+    "title": "GitHub in Cape Town, South Africa",
+    "href": "/blog/1029-github-in-cape-town-south-africa",
+    "published": "2012-01-24T15:00:11-08:00"
+  },
+  {
+    "title": "Drinkup in Atlanta",
+    "href": "/blog/1028-drinkup-in-atlanta",
+    "published": "2012-01-24T14:17:09-08:00"
+  },
+  {
+    "title": "SpreeConf After Party ",
+    "href": "/blog/1027-spreeconf-after-party",
+    "published": "2012-01-19T19:14:28-08:00"
+  },
+  {
+    "title": "Russell Belfer is a GitHubber",
+    "href": "/blog/1026-russell-belfer-is-a-githubber",
+    "published": "2012-01-17T11:13:08-08:00"
+  },
+  {
+    "title": "Danny Greg is a GitHubber",
+    "href": "/blog/1025-danny-greg-is-a-githubber",
+    "published": "2012-01-16T13:34:52-08:00"
+  },
+  {
+    "title": "A New Coding Project Every Week at Code52",
+    "href": "/blog/1024-a-new-coding-project-every-week-at-code52",
+    "published": "2012-01-12T14:48:32-08:00"
+  },
+  {
+    "title": "SF Drinkup #33",
+    "href": "/blog/1023-sf-drinkup-33",
+    "published": "2012-01-10T17:06:05-08:00"
+  },
+  {
+    "title": "Git Events in Pittsburgh on February 21st & 22nd",
+    "href": "/blog/1020-git-events-in-pittsburgh-on-february-21st-22nd",
+    "published": "2012-01-09T21:45:53-08:00"
+  },
+  {
+    "title": "Gauges Daily Summaries and Browser Support",
+    "href": "/blog/1019-gauges-daily-summaries-and-browser-support",
+    "published": "2012-01-09T13:06:52-08:00"
+  },
+  {
+    "title": "SVN, Git and GitHub presentation at ThoughtWorks in Chicago",
+    "href": "/blog/1018-svn-git-and-github-presentation-at-thoughtworks-in-chicago",
+    "published": "2012-01-06T11:11:47-08:00"
+  },
+  {
+    "title": "GitHub Drinkup in Grand Rapids",
+    "href": "/blog/1016-github-drinkup-in-grand-rapids",
+    "published": "2012-01-05T13:24:44-08:00"
+  },
+  {
+    "title": "Albuquerque Drinkup",
+    "href": "/blog/1014-albuquerque-drinkup",
+    "published": "2011-12-26T09:59:57-08:00"
+  },
+  {
+    "title": "Janky",
+    "href": "/blog/1013-janky",
+    "published": "2011-12-19T23:49:02-08:00"
+  },
+  {
+    "title": "Gaug.es for iPhone",
+    "href": "/blog/1012-gaug-es-for-iphone",
+    "published": "2011-12-19T13:13:20-08:00"
+  },
+  {
+    "title": "Azure On GitHub",
+    "href": "/blog/1010-azure-on-github",
+    "published": "2011-12-15T14:18:29-08:00"
+  },
+  {
+    "title": "Skinny Header",
+    "href": "/blog/1007-skinny-header",
+    "published": "2011-12-14T09:20:41-08:00"
+  },
+  {
+    "title": "Eric Gerhardt is a GitHubber",
+    "href": "/blog/1006-eric-gerhardt-is-a-githubber",
+    "published": "2011-12-09T14:17:37-08:00"
+  },
+  {
+    "title": "Nathan Sobo is a GitHubber",
+    "href": "/blog/1005-nathan-sobo-is-a-githubber",
+    "published": "2011-12-08T14:27:03-08:00"
+  },
+  {
+    "title": "@mention autocompletion",
+    "href": "/blog/1004-mention-autocompletion",
+    "published": "2011-12-07T14:18:45-08:00"
+  },
+  {
+    "title": "Phil Haack is a GitHubber",
+    "href": "/blog/1002-phil-haack-is-a-githubber",
+    "published": "2011-12-07T09:25:44-08:00"
+  },
+  {
+    "title": "Scheduled Maintenance Sunday Night",
+    "href": "/blog/1000-scheduled-maintenance-sunday-night",
+    "published": "2011-12-07T04:33:13-08:00"
+  },
+  {
+    "title": "SF Drinkup #32",
+    "href": "/blog/1001-sf-drinkup-32",
+    "published": "2011-12-06T17:43:12-08:00"
+  },
+  {
+    "title": "Jon Rohan is a GitHubber",
+    "href": "/blog/999-jon-rohan-is-a-githubber",
+    "published": "2011-12-06T10:11:04-08:00"
+  },
+  {
+    "title": "Matt Graham is a GitHubber",
+    "href": "/blog/998-matt-graham-is-a-githubber",
+    "published": "2011-12-05T10:02:26-08:00"
+  },
+  {
+    "title": "Brandon Keepers is a GitHubber",
+    "href": "/blog/997-brandon-keepers-is-a-githubber",
+    "published": "2011-12-05T10:02:23-08:00"
+  },
+  {
+    "title": "Jonathan Hoyt is a GitHubber",
+    "href": "/blog/996-jonathan-hoyt-is-a-githubber",
+    "published": "2011-12-05T10:02:21-08:00"
+  },
+  {
+    "title": "John Nunemaker is a GitHubber",
+    "href": "/blog/995-john-nunemaker-is-a-githubber",
+    "published": "2011-12-05T10:02:18-08:00"
+  },
+  {
+    "title": "Steve Smith is a GitHubber",
+    "href": "/blog/994-steve-smith-is-a-githubber",
+    "published": "2011-12-05T10:02:16-08:00"
+  },
+  {
+    "title": "Ordered List is a GitHubber",
+    "href": "/blog/993-ordered-list-is-a-githubber",
+    "published": "2011-12-05T10:01:49-08:00"
+  },
+  {
+    "title": "GitHub has a Vimeo Channel!",
+    "href": "/blog/992-github-has-a-vimeo-channel",
+    "published": "2011-12-01T14:57:14-08:00"
+  },
+  {
+    "title": "Sonya Green is a GitHubber",
+    "href": "/blog/991-sonya-green-is-a-githubber",
+    "published": "2011-12-01T13:09:49-08:00"
+  },
+  {
+    "title": "Cyber Monday- 25% off all octogoodies",
+    "href": "/blog/989-cyber-monday-25-off-all-octogoodies",
+    "published": "2011-11-28T10:11:16-08:00"
+  },
+  {
+    "title": "Eclipse DemoCamp at ThirstyBear in SF",
+    "href": "/blog/990-eclipse-democamp-at-thirstybear-in-sf",
+    "published": "2011-11-28T10:02:34-08:00"
+  },
+  {
+    "title": "GitHub for Mac 1.1",
+    "href": "/blog/988-github-for-mac-1-1",
+    "published": "2011-11-23T12:23:16-08:00"
+  },
+  {
+    "title": "Seattle Drinkup - Tonight",
+    "href": "/blog/987-seattle-drinkup-tonight",
+    "published": "2011-11-15T12:09:45-08:00"
+  },
+  {
+    "title": "Git.io: GitHub URL Shortener",
+    "href": "/blog/985-git-io-github-url-shortener",
+    "published": "2011-11-10T07:40:09-08:00"
+  },
+  {
+    "title": "SF Drinkup #31",
+    "href": "/blog/984-sf-drinkup-31",
+    "published": "2011-11-08T12:45:18-08:00"
+  },
+  {
+    "title": "Joel Watson is a GitHubber",
+    "href": "/blog/983-joel-watson-is-a-githubber",
+    "published": "2011-11-07T13:53:36-08:00"
+  },
+  {
+    "title": "More GitHub Office Hours and Welcome Classes",
+    "href": "/blog/970-more-github-office-hours-and-welcome-classes",
+    "published": "2011-11-04T19:51:08-07:00"
+  },
+  {
+    "title": "GitHub Drinkup for AnDevCon",
+    "href": "/blog/982-github-drinkup-for-andevcon",
+    "published": "2011-11-04T16:40:24-07:00"
+  },
+  {
+    "title": "GitHub Drinkup, Seoul - Nov 3 (today!)",
+    "href": "/blog/979-github-drinkup-seoul-nov-3-today",
+    "published": "2011-11-02T18:24:14-07:00"
+  },
+  {
+    "title": "Introducing GitHub Enterprise",
+    "href": "/blog/978-introducing-github-enterprise",
+    "published": "2011-11-01T11:11:27-07:00"
+  },
+  {
+    "title": "GitHub + Heroku Richmond Drinkup - Nov 8th",
+    "href": "/blog/974-github-heroku-richmond-drinkup-nov-8th",
+    "published": "2011-11-01T10:23:57-07:00"
+  },
+  {
+    "title": "Access your Event timelines and OAuth tokens through the API",
+    "href": "/blog/977-access-your-event-timelines-and-oauth-tokens-through-the-api",
+    "published": "2011-10-31T12:33:21-07:00"
+  },
+  {
+    "title": "GitPad: Write your commits in Notepad",
+    "href": "/blog/975-gitpad-write-your-commits-in-notepad",
+    "published": "2011-10-27T16:18:33-07:00"
+  },
+  {
+    "title": "Jake Boxer is a GitHubber",
+    "href": "/blog/973-jake-boxer-is-a-githubber",
+    "published": "2011-10-26T09:49:02-07:00"
+  },
+  {
+    "title": "Say Hello to Hubot",
+    "href": "/blog/968-say-hello-to-hubot",
+    "published": "2011-10-25T11:44:41-07:00"
+  },
+  {
+    "title": "GitHub Drinkup in Chicago",
+    "href": "/blog/971-github-drinkup-in-chicago",
+    "published": "2011-10-24T21:22:43-07:00"
+  },
+  {
+    "title": "Lee Reilly is a GitHubber",
+    "href": "/blog/972-lee-reilly-is-a-githubber",
+    "published": "2011-10-24T15:32:10-07:00"
+  },
+  {
+    "title": "First Annual Octocat Dodgeball Tournament a Success!",
+    "href": "/blog/969-first-annual-octocat-dodgeball-tournament-a-success",
+    "published": "2011-10-24T10:00:43-07:00"
+  },
+  {
+    "title": "GitHub Secrets",
+    "href": "/blog/967-github-secrets",
+    "published": "2011-10-21T14:53:13-07:00"
+  },
+  {
+    "title": "Improved Subversion Client Support",
+    "href": "/blog/966-improved-subversion-client-support",
+    "published": "2011-10-20T16:00:35-07:00"
+  },
+  {
+    "title": "Zend Studio + GitHub",
+    "href": "/blog/965-zend-studio-github",
+    "published": "2011-10-19T16:24:33-07:00"
+  },
+  {
+    "title": "All of the Hooks",
+    "href": "/blog/964-all-of-the-hooks",
+    "published": "2011-10-19T12:59:31-07:00"
+  },
+  {
+    "title": "Nick Hengeveld is a GitHubber",
+    "href": "/blog/963-nick-hengeveld-is-a-githubber",
+    "published": "2011-10-18T16:42:21-07:00"
+  },
+  {
+    "title": "First Annual Octocat Dodgeball Invitational",
+    "href": "/blog/962-first-annual-octocat-dodgeball-invitational",
+    "published": "2011-10-14T15:26:01-07:00"
+  },
+  {
+    "title": "Deploy to AppHarbor from GitHub",
+    "href": "/blog/961-deploy-to-appharbor-from-github",
+    "published": "2011-10-13T16:39:48-07:00"
+  },
+  {
+    "title": "GitHub Drinkup, Tokyo (飲み放題!!)",
+    "href": "/blog/960-github-drinkup-tokyo",
+    "published": "2011-10-13T04:28:45-07:00"
+  },
+  {
+    "title": "Issues Dashboard for Organizations",
+    "href": "/blog/959-issues-dashboard-for-organizations",
+    "published": "2011-10-12T11:10:38-07:00"
+  },
+  {
+    "title": "The Code Tab",
+    "href": "/blog/958-the-code-tab",
+    "published": "2011-10-12T09:11:42-07:00"
+  },
+  {
+    "title": "Introducing Issue Mentions",
+    "href": "/blog/957-introducing-issue-mentions",
+    "published": "2011-10-11T18:12:00-07:00"
+  },
+  {
+    "title": "Northern Virginia GitHub Drinkup",
+    "href": "/blog/956-northern-virginia-github-drinkup",
+    "published": "2011-10-11T14:27:30-07:00"
+  },
+  {
+    "title": "Brooklyn GitHub Drinkup",
+    "href": "/blog/955-brooklyn-github-drinkup",
+    "published": "2011-10-11T06:11:49-07:00"
+  },
+  {
+    "title": "Roberto Tyley is a GitHubber",
+    "href": "/blog/954-roberto-tyley-is-a-githubber",
+    "published": "2011-10-10T16:09:54-07:00"
+  },
+  {
+    "title": "1 Million User Party: Mon Oct 17 in SF",
+    "href": "/blog/952-1-million-user-party-mon-oct-17-in-sf",
+    "published": "2011-10-10T11:48:48-07:00"
+  },
+  {
+    "title": "Keeping Googlebot Happy Revisited",
+    "href": "/blog/953-keeping-googlebot-happy-revisited",
+    "published": "2011-10-08T21:02:57-07:00"
+  },
+  {
+    "title": "Recent Load Balancer Problems",
+    "href": "/blog/949-recent-load-balancer-problems",
+    "published": "2011-10-04T08:20:17-07:00"
+  },
+  {
+    "title": "Fight Breast Cancer in Style",
+    "href": "/blog/951-fight-breast-cancer-in-style",
+    "published": "2011-10-03T13:25:23-07:00"
+  },
+  {
+    "title": "JavaOne Drinkup",
+    "href": "/blog/950-javaone-drinkup",
+    "published": "2011-10-03T11:22:51-07:00"
+  },
+  {
+    "title": "Biking to work is awesome",
+    "href": "/blog/948-biking-to-work-is-awesome",
+    "published": "2011-09-28T16:24:31-07:00"
+  },
+  {
+    "title": "New Blog RSS Feed Location",
+    "href": "/blog/947-new-blog-rss-feed-location",
+    "published": "2011-09-28T12:55:17-07:00"
+  },
+  {
+    "title": "Drift: an iPad app for GitHub Gists",
+    "href": "/blog/946-drift-an-ipad-app-for-github-gists",
+    "published": "2011-09-28T12:34:01-07:00"
+  },
+  {
+    "title": "GitHub Maven Plugins",
+    "href": "/blog/945-github-maven-plugins",
+    "published": "2011-09-28T11:38:03-07:00"
+  },
+  {
+    "title": "Seattle GitHub Meetup on Saturday",
+    "href": "/blog/944-seattle-github-meetup-on-saturday",
+    "published": "2011-09-27T14:07:05-07:00"
+  },
+  {
+    "title": "RubyConf &Block Party",
+    "href": "/blog/943-rubyconf-block-party",
+    "published": "2011-09-27T11:36:57-07:00"
+  },
+  {
+    "title": "Issues Dashboard",
+    "href": "/blog/941-issues-dashboard",
+    "published": "2011-09-27T10:23:17-07:00"
+  },
+  {
+    "title": "GitHub Office Hours",
+    "href": "/blog/910-github-office-hours",
+    "published": "2011-09-27T07:54:23-07:00"
+  },
+  {
+    "title": "October \"The Basics of GitHub\" Free Class Dates",
+    "href": "/blog/942-october-the-basics-of-github-free-class-dates",
+    "published": "2011-09-26T21:39:12-07:00"
+  },
+  {
+    "title": "Justin Palmer is a GitHubber",
+    "href": "/blog/940-justin-palmer-is-a-githubber",
+    "published": "2011-09-26T11:48:01-07:00"
+  },
+  {
+    "title": "GitHub Meetup in Atlanta Tonight",
+    "href": "/blog/939-github-meetup-in-atlanta-tonight",
+    "published": "2011-09-26T09:48:58-07:00"
+  },
+  {
+    "title": "Git Workshops in Europe",
+    "href": "/blog/938-git-workshops-in-europe",
+    "published": "2011-09-22T11:21:18-07:00"
+  },
+  {
+    "title": "One Million",
+    "href": "/blog/936-one-million",
+    "published": "2011-09-21T14:27:48-07:00"
+  },
+  {
+    "title": "Git User's Survey 2011",
+    "href": "/blog/937-git-user-s-survey-2011",
+    "published": "2011-09-20T19:10:34-07:00"
+  },
+  {
+    "title": "Helsinki GitHub Meetup",
+    "href": "/blog/935-helsinki-github-meetup",
+    "published": "2011-09-20T04:08:01-07:00"
+  },
+  {
+    "title": "Who's Speaking at PyCodeConf - part 3",
+    "href": "/blog/934-who-s-speaking-at-pycodeconf-part-3",
+    "published": "2011-09-15T12:39:26-07:00"
+  },
+  {
+    "title": "GitHub Meetup Tel Aviv- Tonight!",
+    "href": "/blog/933-github-meetup-tel-aviv-tonight",
+    "published": "2011-09-15T01:58:51-07:00"
+  },
+  {
+    "title": "Who's Speaking at PyCodeConf - part 2",
+    "href": "/blog/932-who-s-speaking-at-pycodeconf-part-2",
+    "published": "2011-09-14T12:03:04-07:00"
+  },
+  {
+    "title": "Who's Speaking at PyCodeConf - part 1",
+    "href": "/blog/931-who-s-speaking-at-pycodeconf-part-1",
+    "published": "2011-09-13T11:23:49-07:00"
+  },
+  {
+    "title": "Drinkup in Anaheim on Tuesday",
+    "href": "/blog/930-drinkup-in-anaheim-on-tuesday",
+    "published": "2011-09-11T20:58:08-07:00"
+  },
+  {
+    "title": "Better Pull Request Emails",
+    "href": "/blog/929-better-pull-request-emails",
+    "published": "2011-09-09T12:58:52-07:00"
+  },
+  {
+    "title": "How GitHub Works",
+    "href": "/blog/920-how-github-works",
+    "published": "2011-09-08T13:08:34-07:00"
+  },
+  {
+    "title": "Jina Bolton is a GitHubber",
+    "href": "/blog/927-jina-bolton-is-a-githubber",
+    "published": "2011-09-08T11:27:20-07:00"
+  },
+  {
+    "title": "SF Drinkup #30",
+    "href": "/blog/925-sf-drinkup-30",
+    "published": "2011-09-06T14:25:30-07:00"
+  },
+  {
+    "title": "Shiny new commit styles",
+    "href": "/blog/926-shiny-new-commit-styles",
+    "published": "2011-09-06T11:08:37-07:00"
+  },
+  {
+    "title": "More Conf Ticket Give-aways",
+    "href": "/blog/924-more-conf-ticket-give-aways",
+    "published": "2011-09-05T16:47:36-07:00"
+  },
+  {
+    "title": "\"The Basics of GitHub\" Free One Hour Class",
+    "href": "/blog/909-the-basics-of-github-free-one-hour-class",
+    "published": "2011-09-03T22:01:57-07:00"
+  },
+  {
+    "title": "Drinkup in Oslo, Norway Next Weekend",
+    "href": "/blog/923-drinkup-in-oslo-norway-next-weekend",
+    "published": "2011-09-02T10:53:05-07:00"
+  },
+  {
+    "title": "Drinkup in Helsinki Tonight",
+    "href": "/blog/922-drinkup-in-helsinki-tonight",
+    "published": "2011-09-02T02:29:39-07:00"
+  },
+  {
+    "title": "Gave That Baby An Octocat. Babies Love Octocats",
+    "href": "/blog/921-gave-that-baby-an-octocat-babies-love-octocats",
+    "published": "2011-08-31T16:36:16-07:00"
+  },
+  {
+    "title": "How GitHub Develops",
+    "href": "/blog/919-how-github-develops",
+    "published": "2011-08-31T10:13:35-07:00"
+  },
+  {
+    "title": "GitHub Drinkup, Boulder Edition - Thursday Sept. 1st",
+    "href": "/blog/917-github-drinkup-boulder-edition-thursday-sept-1st",
+    "published": "2011-08-29T15:01:42-07:00"
+  },
+  {
+    "title": "GitHub Hoedown Drinkup",
+    "href": "/blog/916-github-hoedown-drinkup",
+    "published": "2011-08-26T13:54:36-07:00"
+  },
+  {
+    "title": "Jesse Newland is a GitHubber",
+    "href": "/blog/915-jesse-newland-is-a-githubber",
+    "published": "2011-08-25T14:03:05-07:00"
+  },
+  {
+    "title": "GitHub Drinkup, Wellington",
+    "href": "/blog/914-github-drinkup-wellington",
+    "published": "2011-08-24T23:34:05-07:00"
+  },
+  {
+    "title": "Alex Williams is a GitHubber",
+    "href": "/blog/913-alex-williams-is-a-githubber",
+    "published": "2011-08-22T15:34:40-07:00"
+  },
+  {
+    "title": "Update: PyCodeConf Ticket Give-away",
+    "href": "/blog/912-update-pycodeconf-ticket-give-away",
+    "published": "2011-08-22T13:49:54-07:00"
+  },
+  {
+    "title": "Zurich Drinkup Tonight, Sunday Aug 21",
+    "href": "/blog/908-zurich-drinkup-tonight-sunday-aug-21",
+    "published": "2011-08-20T23:28:01-07:00"
+  },
+  {
+    "title": "Frozen Rails Winner",
+    "href": "/blog/907-frozen-rails-winner",
+    "published": "2011-08-17T12:36:13-07:00"
+  },
+  {
+    "title": "GitHub Training Tomorrow",
+    "href": "/blog/906-github-training-tomorrow",
+    "published": "2011-08-15T14:56:58-07:00"
+  },
+  {
+    "title": "Edit like an Ace",
+    "href": "/blog/905-edit-like-an-ace",
+    "published": "2011-08-15T12:29:15-07:00"
+  },
+  {
+    "title": "Update - SF Drinkup #29",
+    "href": "/blog/903-update-sf-drinkup-29",
+    "published": "2011-08-11T14:37:01-07:00"
+  },
+  {
+    "title": "Announcing GitHub Issues for iPhone",
+    "href": "/blog/904-announcing-github-issues-for-iphone",
+    "published": "2011-08-09T14:02:41-07:00"
+  },
+  {
+    "title": "Frozen Rails Ticket Give-away",
+    "href": "/blog/902-frozen-rails-ticket-give-away",
+    "published": "2011-08-08T13:43:44-07:00"
+  },
+  {
+    "title": "Nodeload2: Downloads Reloaded",
+    "href": "/blog/900-nodeload2-downloads-reloaded",
+    "published": "2011-08-02T12:40:26-07:00"
+  },
+  {
+    "title": "Paul Betts is a GitHubber",
+    "href": "/blog/899-paul-betts-is-a-githubber",
+    "published": "2011-08-01T12:00:00-07:00"
+  },
+  {
+    "title": "PyCodeConf Tickets On Sale",
+    "href": "/blog/893-pycodeconf-tickets-on-sale",
+    "published": "2011-07-26T11:43:12-07:00"
+  },
+  {
+    "title": "Knoxville Drink-up - Thursday, July 28th",
+    "href": "/blog/892-knoxville-drink-up-thursday-july-28th",
+    "published": "2011-07-26T07:39:51-07:00"
+  },
+  {
+    "title": "Portland Drinkup - Sun, July 24th",
+    "href": "/blog/891-portland-drinkup-sun-july-24th",
+    "published": "2011-07-22T09:00:13-07:00"
+  },
+  {
+    "title": "Boston Drinkup on Sat July 23rd",
+    "href": "/blog/890-boston-drinkup-on-sat-july-23rd",
+    "published": "2011-07-21T11:24:11-07:00"
+  },
+  {
+    "title": "Magma Rails Winners",
+    "href": "/blog/889-magma-rails-winners",
+    "published": "2011-07-19T15:32:39-07:00"
+  },
+  {
+    "title": "GitHub Reflog v1.7.19",
+    "href": "/blog/883-github-reflog-v1-7-19",
+    "published": "2011-07-19T05:58:14-07:00"
+  },
+  {
+    "title": "Jon Maddox is a GitHubber",
+    "href": "/blog/887-jon-maddox-is-a-githubber",
+    "published": "2011-07-18T12:02:42-07:00"
+  },
+  {
+    "title": "SF Drinkup #28",
+    "href": "/blog/885-sf-drinkup-28",
+    "published": "2011-07-12T12:38:24-07:00"
+  },
+  {
+    "title": "Magma Rails Ticket Give-away",
+    "href": "/blog/884-magma-rails-ticket-give-away",
+    "published": "2011-07-11T12:30:16-07:00"
+  },
+  {
+    "title": "Kiwi PyCon Winner",
+    "href": "/blog/882-kiwi-pycon-winner",
+    "published": "2011-06-27T17:02:29-07:00"
+  },
+  {
+    "title": "Linguist",
+    "href": "/blog/881-linguist",
+    "published": "2011-06-27T12:09:50-07:00"
+  },
+  {
+    "title": "Announcing GitHub for Mac",
+    "href": "/blog/878-announcing-github-for-mac",
+    "published": "2011-06-22T09:58:57-07:00"
+  },
+  {
+    "title": "API v3: 190 methods to build on",
+    "href": "/blog/879-api-v3-190-methods-to-build-on",
+    "published": "2011-06-20T15:26:49-07:00"
+  },
+  {
+    "title": "Kiwi PyCon Ticket Give-Away",
+    "href": "/blog/880-kiwi-pycon-ticket-give-away",
+    "published": "2011-06-20T15:08:34-07:00"
+  },
+  {
+    "title": "GitHub Services Get an Upgrade",
+    "href": "/blog/877-github-services-get-an-upgrade",
+    "published": "2011-06-14T16:50:59-07:00"
+  },
+  {
+    "title": "Learning Is Sexy",
+    "href": "/blog/873-learning-is-sexy",
+    "published": "2011-06-14T16:28:49-07:00"
+  },
+  {
+    "title": "Repo Transfers",
+    "href": "/blog/876-repo-transfers",
+    "published": "2011-06-09T18:18:45-07:00"
+  },
+  {
+    "title": "New Users, Repos, and Orgs API",
+    "href": "/blog/875-new-users-repos-and-orgs-api",
+    "published": "2011-06-09T10:27:25-07:00"
+  },
+  {
+    "title": "Online Git Training next Monday",
+    "href": "/blog/874-online-git-training-next-monday",
+    "published": "2011-06-08T15:42:02-07:00"
+  },
+  {
+    "title": "Scheduled Maintenance Tomorrow @ 20:00 PST",
+    "href": "/blog/872-scheduled-maintenance-tomorrow-20-00-pst",
+    "published": "2011-06-07T20:56:11-07:00"
+  },
+  {
+    "title": "GitHub Drinkup SF #27",
+    "href": "/blog/871-github-drinkup-sf-27",
+    "published": "2011-06-07T18:22:39-07:00"
+  },
+  {
+    "title": "Matt Todd is a GitHubber",
+    "href": "/blog/869-matt-todd-is-a-githubber",
+    "published": "2011-06-07T14:44:44-07:00"
+  },
+  {
+    "title": "Who is GitHub, anyway?",
+    "href": "/blog/868-who-is-github-anyway",
+    "published": "2011-06-02T15:45:22-07:00"
+  },
+  {
+    "title": "Kami Lott is a GitHubber",
+    "href": "/blog/867-kami-lott-is-a-githubber",
+    "published": "2011-06-02T14:15:43-07:00"
+  },
+  {
+    "title": "GitHub Drinkup, Amsterdam - June 3",
+    "href": "/blog/866-github-drinkup-amsterdam-june-3",
+    "published": "2011-06-02T13:47:34-07:00"
+  },
+  {
+    "title": "GitHub Dominates the Forges",
+    "href": "/blog/865-github-dominates-the-forges",
+    "published": "2011-06-02T10:21:38-07:00"
+  },
+  {
+    "title": "And Now for Some Neon",
+    "href": "/blog/864-and-now-for-some-neon",
+    "published": "2011-06-01T01:15:32-07:00"
+  },
+  {
+    "title": "Announcing PyCodeConf 2011",
+    "href": "/blog/863-announcing-pycodeconf-2011",
+    "published": "2011-06-01T00:21:55-07:00"
+  },
+  {
+    "title": "Block the Bullies",
+    "href": "/blog/862-block-the-bullies",
+    "published": "2011-05-31T18:57:54-07:00"
+  },
+  {
+    "title": "GitHub Drinkup, Berlin - May 29th",
+    "href": "/blog/860-github-drinkup-berlin-may-29th",
+    "published": "2011-05-27T14:58:51-07:00"
+  },
+  {
+    "title": "GitHub Cofounder Tom Preston-Werner on Founder.LY",
+    "href": "/blog/859-github-cofounder-tom-preston-werner-on-founder-ly",
+    "published": "2011-05-19T11:52:46-07:00"
+  },
+  {
+    "title": "Online Training Next Monday",
+    "href": "/blog/858-online-training-next-monday",
+    "published": "2011-05-19T09:09:37-07:00"
+  },
+  {
+    "title": "Gist creation in 5 lines with Java v3 API",
+    "href": "/blog/857-gist-creation-in-5-lines-with-java-v3-api",
+    "published": "2011-05-17T17:30:41-07:00"
+  },
+  {
+    "title": "GitHub Reflog v1.5.16",
+    "href": "/blog/856-github-reflog-v1-5-16",
+    "published": "2011-05-16T17:30:45-07:00"
+  },
+  {
+    "title": "GitHub at RailsConf Baltimore",
+    "href": "/blog/855-github-at-railsconf-baltimore",
+    "published": "2011-05-13T10:52:54-07:00"
+  },
+  {
+    "title": "Scheduled Maintenance Saturday @ 22:00 PDT",
+    "href": "/blog/854-scheduled-maintenance-saturday-22-00-pdt",
+    "published": "2011-05-11T23:44:42-07:00"
+  },
+  {
+    "title": "GitHub Meetup SF #26",
+    "href": "/blog/853-github-meetup-sf-26",
+    "published": "2011-05-10T23:08:13-07:00"
+  },
+  {
+    "title": "GitHub Mylyn connector for Eclipse",
+    "href": "/blog/852-github-mylyn-connector-for-eclipse",
+    "published": "2011-05-10T09:20:52-07:00"
+  },
+  {
+    "title": "GitHub Drinkup Verona, Italy - Fri, May 13",
+    "href": "/blog/851-github-drinkup-verona-italy-fri-may-13",
+    "published": "2011-05-09T12:06:05-07:00"
+  },
+  {
+    "title": "Seattle/Redmond Drinkup on Sat, May 7",
+    "href": "/blog/850-seattle-redmond-drinkup-on-sat-may-7",
+    "published": "2011-05-06T16:02:01-07:00"
+  },
+  {
+    "title": "Ben Burkert is a GitHubber",
+    "href": "/blog/849-ben-burkert-is-a-githubber",
+    "published": "2011-05-02T11:41:56-07:00"
+  },
+  {
+    "title": "GitHub Drinkup Cambridge - Mon, May 2",
+    "href": "/blog/848-github-drinkup-cambridge-mon-may-2",
+    "published": "2011-05-01T15:23:49-07:00"
+  },
+  {
+    "title": "New Issues and Gist API",
+    "href": "/blog/846-new-issues-and-gist-api",
+    "published": "2011-04-27T18:19:37-07:00"
+  },
+  {
+    "title": "Forking with the Edit Button",
+    "href": "/blog/844-forking-with-the-edit-button",
+    "published": "2011-04-26T12:24:21-07:00"
+  },
+  {
+    "title": "GitHub Drinkup, Amsterdam",
+    "href": "/blog/845-github-drinkup-amsterdam",
+    "published": "2011-04-26T01:55:41-07:00"
+  },
+  {
+    "title": "The Merge Button",
+    "href": "/blog/843-the-merge-button",
+    "published": "2011-04-25T04:17:39-07:00"
+  },
+  {
+    "title": "Those are some big numbers",
+    "href": "/blog/841-those-are-some-big-numbers",
+    "published": "2011-04-20T15:37:39-07:00"
+  },
+  {
+    "title": "GitHub Reflog v1.4.20",
+    "href": "/blog/840-github-reflog-v1-4-20",
+    "published": "2011-04-20T08:14:09-07:00"
+  },
+  {
+    "title": "Rolling out the Redcarpet",
+    "href": "/blog/832-rolling-out-the-redcarpet",
+    "published": "2011-04-19T13:29:34-07:00"
+  },
+  {
+    "title": "Jason Costello is a GitHubber",
+    "href": "/blog/839-jason-costello-is-a-githubber",
+    "published": "2011-04-19T10:43:46-07:00"
+  },
+  {
+    "title": "GitHub on apps.gov",
+    "href": "/blog/838-github-on-apps-gov",
+    "published": "2011-04-13T23:14:07-07:00"
+  },
+  {
+    "title": "GitHub Reflog v1.4.12",
+    "href": "/blog/837-github-reflog-v1-4-12",
+    "published": "2011-04-12T19:46:12-07:00"
+  },
+  {
+    "title": "GitHub Jobs Update",
+    "href": "/blog/836-github-jobs-update",
+    "published": "2011-04-12T11:46:07-07:00"
+  },
+  {
+    "title": "CodeConf 2011: Mission Accomplished",
+    "href": "/blog/835-codeconf-2011-mission-accomplished",
+    "published": "2011-04-11T17:28:24-07:00"
+  },
+  {
+    "title": "Issues 2.0: The Next Generation",
+    "href": "/blog/831-issues-2-0-the-next-generation",
+    "published": "2011-04-09T14:57:58-07:00"
+  },
+  {
+    "title": "Online Training Next Monday",
+    "href": "/blog/834-online-training-next-monday",
+    "published": "2011-04-06T14:41:15-07:00"
+  },
+  {
+    "title": "GitHub Drinkup, New York",
+    "href": "/blog/833-github-drinkup-new-york",
+    "published": "2011-04-06T11:18:32-07:00"
+  },
+  {
+    "title": "Ben Bleikamp is a GitHubber",
+    "href": "/blog/830-ben-bleikamp-is-a-githubber",
+    "published": "2011-04-04T09:20:36-07:00"
+  },
+  {
+    "title": "GitHub Reflog v1.4.04",
+    "href": "/blog/829-github-reflog-v1-4-04",
+    "published": "2011-04-04T09:06:00-07:00"
+  },
+  {
+    "title": "Reston, VA Drinkup Tonight",
+    "href": "/blog/828-reston-va-drinkup-tonight",
+    "published": "2011-04-01T06:28:36-07:00"
+  },
+  {
+    "title": "Josh Peek is a GitHubber",
+    "href": "/blog/827-josh-peek-is-a-githubber",
+    "published": "2011-04-01T01:05:49-07:00"
+  },
+  {
+    "title": "Vicent Marti is a GitHubber",
+    "href": "/blog/826-vicent-marti-is-a-githubber",
+    "published": "2011-03-29T11:55:00-07:00"
+  },
+  {
+    "title": "Google Summer of Git",
+    "href": "/blog/825-google-summer-of-git",
+    "published": "2011-03-29T10:56:16-07:00"
+  },
+  {
+    "title": "Alex Malinovich is a GitHubber",
+    "href": "/blog/824-alex-malinovich-is-a-githubber",
+    "published": "2011-03-28T14:28:19-07:00"
+  },
+  {
+    "title": "GitHub Reflog v1.3.28",
+    "href": "/blog/823-github-reflog-v1-3-28",
+    "published": "2011-03-28T14:24:52-07:00"
+  },
+  {
+    "title": "Taipei Drinkup Tonight!",
+    "href": "/blog/822-taipei-drinkup-tonight",
+    "published": "2011-03-25T22:06:18-07:00"
+  },
+  {
+    "title": "Mention @somebody. They're notified.",
+    "href": "/blog/821-mention-somebody-they-re-notified",
+    "published": "2011-03-23T05:33:17-07:00"
+  },
+  {
+    "title": "Blacktocat 2.0 Shirt and Octopint Glasses",
+    "href": "/blog/820-blacktocat-2-0-shirt-and-octopint-glasses",
+    "published": "2011-03-22T15:45:59-07:00"
+  },
+  {
+    "title": "GitHub Drinkup in Bend, OR",
+    "href": "/blog/819-github-drinkup-in-bend-or",
+    "published": "2011-03-21T17:54:37-07:00"
+  },
+  {
+    "title": "GitHub Reflog v1.3.21",
+    "href": "/blog/818-github-reflog-v1-3-21",
+    "published": "2011-03-21T16:44:36-07:00"
+  },
+  {
+    "title": "Behold: Image view modes",
+    "href": "/blog/817-behold-image-view-modes",
+    "published": "2011-03-21T14:46:09-07:00"
+  },
+  {
+    "title": "Emoji!",
+    "href": "/blog/816-emoji",
+    "published": "2011-03-21T13:31:30-07:00"
+  },
+  {
+    "title": "Hello Singapore (CDN Experiment)",
+    "href": "/blog/815-hello-singapore-cdn-experiment",
+    "published": "2011-03-18T08:41:55-07:00"
+  },
+  {
+    "title": "Kevin Sawicki is a GitHubber",
+    "href": "/blog/814-kevin-sawicki-is-a-githubber",
+    "published": "2011-03-15T11:45:18-07:00"
+  },
+  {
+    "title": "GitHub Drinkup, Brussels Edition",
+    "href": "/blog/813-github-drinkup-brussels-edition",
+    "published": "2011-03-11T09:07:37-08:00"
+  },
+  {
+    "title": "GitHub on LinkedIn",
+    "href": "/blog/812-github-on-linkedin",
+    "published": "2011-03-10T12:44:23-08:00"
+  },
+  {
+    "title": "Reply to Comments from Email",
+    "href": "/blog/811-reply-to-comments-from-email",
+    "published": "2011-03-09T17:42:22-08:00"
+  },
+  {
+    "title": "Xcode 4 released with git integration",
+    "href": "/blog/810-xcode-4-released-with-git-integration",
+    "published": "2011-03-09T14:36:10-08:00"
+  },
+  {
+    "title": "Git Dumb HTTP Transport to be turned off in 90 days",
+    "href": "/blog/809-git-dumb-http-transport-to-be-turned-off-in-90-days",
+    "published": "2011-03-09T09:56:58-08:00"
+  },
+  {
+    "title": "Today's Downtime",
+    "href": "/blog/808-today-s-downtime",
+    "published": "2011-03-09T00:00:18-08:00"
+  },
+  {
+    "title": "New and Improved Service Hook Payloads",
+    "href": "/blog/807-new-and-improved-service-hook-payloads",
+    "published": "2011-03-07T15:14:26-08:00"
+  },
+  {
+    "title": "git clone http://github.com/tpw/endo",
+    "href": "/blog/805-git-clone-http-github-com-tpw-endo",
+    "published": "2011-03-04T00:36:17-08:00"
+  },
+  {
+    "title": "GitHub Drinkup, Paris Edition",
+    "href": "/blog/804-github-drinkup-paris-edition",
+    "published": "2011-03-03T03:56:58-08:00"
+  },
+  {
+    "title": "A Little Hand Holding Goes A Long Way ",
+    "href": "/blog/803-a-little-hand-holding-goes-a-long-way",
+    "published": "2011-03-01T12:09:57-08:00"
+  },
+  {
+    "title": "Still Committing Like Crazy",
+    "href": "/blog/802-still-committing-like-crazy",
+    "published": "2011-02-28T16:06:37-08:00"
+  },
+  {
+    "title": "Josh Abernathy is a GitHubber",
+    "href": "/blog/801-josh-abernathy-is-a-githubber",
+    "published": "2011-02-28T11:31:06-08:00"
+  },
+  {
+    "title": "PyCon US 2011 Ticket Winners",
+    "href": "/blog/800-pycon-us-2011-ticket-winners",
+    "published": "2011-02-25T13:36:10-08:00"
+  },
+  {
+    "title": "Win a Ticket to PyCon US 2011!",
+    "href": "/blog/799-win-a-ticket-to-pycon-us-2011",
+    "published": "2011-02-21T12:35:32-08:00"
+  },
+  {
+    "title": "Threaded Email Notifications",
+    "href": "/blog/798-threaded-email-notifications",
+    "published": "2011-02-21T01:29:39-08:00"
+  },
+  {
+    "title": "Octocat Nerd Merit Badges For Sale",
+    "href": "/blog/797-octocat-nerd-merit-badges-for-sale",
+    "published": "2011-02-17T09:28:32-08:00"
+  },
+  {
+    "title": "10% off Tower for Mac",
+    "href": "/blog/796-10-off-tower-for-mac",
+    "published": "2011-02-16T13:42:26-08:00"
+  },
+  {
+    "title": "NYC Drinkup Tomorrow (Tues 15)",
+    "href": "/blog/795-nyc-drinkup-tomorrow-tues-15",
+    "published": "2011-02-14T10:33:26-08:00"
+  },
+  {
+    "title": "Tater is a GitHubber",
+    "href": "/blog/794-tater-is-a-githubber",
+    "published": "2011-02-11T09:24:24-08:00"
+  },
+  {
+    "title": "Introducing the File Finder",
+    "href": "/blog/793-introducing-the-file-finder",
+    "published": "2011-02-10T12:06:38-08:00"
+  },
+  {
+    "title": "Aman Gupta (tmm1) is a GitHubber",
+    "href": "/blog/792-aman-gupta-tmm1-is-a-githubber",
+    "published": "2011-02-10T10:39:15-08:00"
+  },
+  {
+    "title": "Simon \"sr\" Rozet is a GitHubber",
+    "href": "/blog/790-simon-sr-rozet-is-a-githubber",
+    "published": "2011-02-09T16:21:37-08:00"
+  },
+  {
+    "title": "GitHub Meetup SF #25",
+    "href": "/blog/789-github-meetup-sf-25",
+    "published": "2011-02-08T13:14:06-08:00"
+  },
+  {
+    "title": "Mislav Marohnić is a GitHubber",
+    "href": "/blog/788-mislav-marohni-is-a-githubber",
+    "published": "2011-02-08T11:09:29-08:00"
+  },
+  {
+    "title": "Boulder Talks and Drinkup this Thursday, Feb 10",
+    "href": "/blog/787-boulder-talks-and-drinkup-this-thursday-feb-10",
+    "published": "2011-02-08T08:32:06-08:00"
+  },
+  {
+    "title": "Tim Clem is a GitHubber",
+    "href": "/blog/786-tim-clem-is-a-githubber",
+    "published": "2011-02-07T15:06:04-08:00"
+  },
+  {
+    "title": "Pull Request Diff Comments",
+    "href": "/blog/785-pull-request-diff-comments",
+    "published": "2011-02-07T03:23:52-08:00"
+  },
+  {
+    "title": "Online Training Next Friday",
+    "href": "/blog/784-online-training-next-friday",
+    "published": "2011-02-03T09:07:00-08:00"
+  },
+  {
+    "title": "Improved Gist Search",
+    "href": "/blog/783-improved-gist-search",
+    "published": "2011-02-02T12:02:50-08:00"
+  },
+  {
+    "title": "Announcing CodeConf 2011",
+    "href": "/blog/780-announcing-codeconf-2011",
+    "published": "2011-02-01T14:11:07-08:00"
+  },
+  {
+    "title": "Orlando Drinkup this Thursday, Feb 3",
+    "href": "/blog/782-orlando-drinkup-this-thursday-feb-3",
+    "published": "2011-02-01T12:05:02-08:00"
+  },
+  {
+    "title": "GitHub + Rebase Support in IntelliJ",
+    "href": "/blog/781-github-rebase-support-in-intellij",
+    "published": "2011-02-01T12:00:29-08:00"
+  },
+  {
+    "title": "Corey Johnson is a GitHubber",
+    "href": "/blog/779-corey-johnson-is-a-githubber",
+    "published": "2011-02-01T01:05:57-08:00"
+  },
+  {
+    "title": "Refreshed Pull Request Discussions",
+    "href": "/blog/778-refreshed-pull-request-discussions",
+    "published": "2011-01-31T12:25:33-08:00"
+  },
+  {
+    "title": "GitHub Drinkup Cambridge - Feb 10th",
+    "href": "/blog/777-github-drinkup-cambridge-feb-10th",
+    "published": "2011-01-26T10:43:22-08:00"
+  },
+  {
+    "title": "Scheduled Maintenance Tonight at 22:00 PST",
+    "href": "/blog/776-scheduled-maintenance-tonight-at-22-00-pst",
+    "published": "2011-01-24T14:07:11-08:00"
+  },
+  {
+    "title": "Octocat Wallpapers for All",
+    "href": "/blog/775-octocat-wallpapers-for-all",
+    "published": "2011-01-19T18:14:04-08:00"
+  },
+  {
+    "title": "Git-powered wikis improved",
+    "href": "/blog/774-git-powered-wikis-improved",
+    "published": "2011-01-17T14:55:07-08:00"
+  },
+  {
+    "title": "Cameron McEfee is a GitHubber",
+    "href": "/blog/772-cameron-mcefee-is-a-githubber",
+    "published": "2011-01-17T11:08:07-08:00"
+  },
+  {
+    "title": "Mind Control with Frickin Lasers",
+    "href": "/blog/771-mind-control-with-frickin-lasers",
+    "published": "2011-01-17T10:52:49-08:00"
+  },
+  {
+    "title": "GitHub Meetup SF #24",
+    "href": "/blog/769-github-meetup-sf-24",
+    "published": "2011-01-12T15:36:33-08:00"
+  },
+  {
+    "title": "3D GitHub Badge with Pure HTML/CSS",
+    "href": "/blog/768-3d-github-badge-with-pure-html-css",
+    "published": "2011-01-11T12:51:57-08:00"
+  },
+  {
+    "title": "Recent Services Interruptions",
+    "href": "/blog/767-recent-services-interruptions",
+    "published": "2011-01-06T15:08:13-08:00"
+  },
+  {
+    "title": "Jeff King (Peff) is a GitHubber",
+    "href": "/blog/766-jeff-king-peff-is-a-githubber",
+    "published": "2011-01-03T13:32:28-08:00"
+  },
+  {
+    "title": "Meet Petros",
+    "href": "/blog/765-meet-petros",
+    "published": "2011-01-03T11:42:07-08:00"
+  },
+  {
+    "title": "Bryan Veloso is a GitHubber",
+    "href": "/blog/764-bryan-veloso-is-a-githubber",
+    "published": "2011-01-03T09:50:49-08:00"
+  },
+  {
+    "title": "Give the Gift of GitHub",
+    "href": "/blog/763-give-the-gift-of-github",
+    "published": "2010-12-15T16:00:41-08:00"
+  },
+  {
+    "title": "GitHub meetup Portland edition",
+    "href": "/blog/762-github-meetup-portland-edition",
+    "published": "2010-12-13T20:30:31-08:00"
+  },
+  {
+    "title": "Hubcap: a Socially Aware GitHub Mac App",
+    "href": "/blog/761-hubcap-a-socially-aware-github-mac-app",
+    "published": "2010-12-08T18:34:07-08:00"
+  },
+  {
+    "title": "GitHub Meetup SF #23",
+    "href": "/blog/759-github-meetup-sf-23",
+    "published": "2010-12-07T18:48:13-08:00"
+  },
+  {
+    "title": "The Tree Slider",
+    "href": "/blog/760-the-tree-slider",
+    "published": "2010-12-07T13:24:07-08:00"
+  },
+  {
+    "title": "New Organizations API",
+    "href": "/blog/758-new-organizations-api",
+    "published": "2010-12-06T18:24:37-08:00"
+  },
+  {
+    "title": "Let's get to know each other",
+    "href": "/blog/757-let-s-get-to-know-each-other",
+    "published": "2010-12-06T15:15:39-08:00"
+  },
+  {
+    "title": "Arlington, VA Drinkup on Monday",
+    "href": "/blog/756-arlington-va-drinkup-on-monday",
+    "published": "2010-12-02T16:30:48-08:00"
+  },
+  {
+    "title": "Random Hacks of Kindness 2010",
+    "href": "/blog/755-random-hacks-of-kindness-2010",
+    "published": "2010-12-01T13:24:15-08:00"
+  },
+  {
+    "title": "Octocat Wednesday — Free micro plan for a month",
+    "href": "/blog/754-octocat-wednesday-free-micro-plan-for-a-month",
+    "published": "2010-11-30T21:59:15-08:00"
+  },
+  {
+    "title": "GitHub Jobs on The Changelog Podcast",
+    "href": "/blog/753-github-jobs-on-the-changelog-podcast",
+    "published": "2010-11-29T15:08:55-08:00"
+  },
+  {
+    "title": "libgit2: a Git Linkable Library",
+    "href": "/blog/752-libgit2-a-git-linkable-library",
+    "published": "2010-11-29T10:29:10-08:00"
+  },
+  {
+    "title": "Cyber Monday: 25% Off All Merch!",
+    "href": "/blog/751-cyber-monday-25-off-all-merch",
+    "published": "2010-11-28T23:39:27-08:00"
+  },
+  {
+    "title": "Online Git Training Series",
+    "href": "/blog/750-online-git-training-series",
+    "published": "2010-11-23T12:07:15-08:00"
+  },
+  {
+    "title": "Hack your Kinect on GitHub",
+    "href": "/blog/748-hack-your-kinect-on-github",
+    "published": "2010-11-21T16:37:15-08:00"
+  },
+  {
+    "title": "Big Service Hook Update",
+    "href": "/blog/747-big-service-hook-update",
+    "published": "2010-11-19T10:23:44-08:00"
+  },
+  {
+    "title": "Get Good with Git",
+    "href": "/blog/746-get-good-with-git",
+    "published": "2010-11-18T14:16:50-08:00"
+  },
+  {
+    "title": "JSLint is on GitHub",
+    "href": "/blog/745-jslint-is-on-github",
+    "published": "2010-11-15T16:32:35-08:00"
+  },
+  {
+    "title": "Today's Outage",
+    "href": "/blog/744-today-s-outage",
+    "published": "2010-11-14T16:30:34-08:00"
+  },
+  {
+    "title": "Sidejack Prevention Phase 3: SSL Proxied Assets",
+    "href": "/blog/743-sidejack-prevention-phase-3-ssl-proxied-assets",
+    "published": "2010-11-12T17:30:37-08:00"
+  },
+  {
+    "title": "New uploader & downloads screen",
+    "href": "/blog/742-new-uploader-downloads-screen",
+    "published": "2010-11-05T15:08:23-07:00"
+  },
+  {
+    "title": "Sirron Norris Octocat GelaSkins",
+    "href": "/blog/741-sirron-norris-octocat-gelaskins",
+    "published": "2010-11-05T11:31:26-07:00"
+  },
+  {
+    "title": "Sidejack Prevention Phase 2: SSL Everywhere",
+    "href": "/blog/738-sidejack-prevention-phase-2-ssl-everywhere",
+    "published": "2010-11-03T13:07:28-07:00"
+  },
+  {
+    "title": "Brian Lopez is a GitHubber",
+    "href": "/blog/740-brian-lopez-is-a-githubber",
+    "published": "2010-11-01T11:13:38-07:00"
+  },
+  {
+    "title": "New! I [octocat] Code Shirt",
+    "href": "/blog/739-new-i-octocat-code-shirt",
+    "published": "2010-10-29T12:25:47-07:00"
+  },
+  {
+    "title": "Sidejack Prevention",
+    "href": "/blog/737-sidejack-prevention",
+    "published": "2010-10-26T21:53:48-07:00"
+  },
+  {
+    "title": "Basho moves Riak to GitHub",
+    "href": "/blog/736-basho-moves-riak-to-github",
+    "published": "2010-10-26T11:59:20-07:00"
+  },
+  {
+    "title": "GitHub Meetup in Amsterdam",
+    "href": "/blog/735-github-meetup-in-amsterdam",
+    "published": "2010-10-20T03:28:13-07:00"
+  },
+  {
+    "title": "GitHub Meetup: Rio de Janeiro",
+    "href": "/blog/734-github-meetup-rio-de-janeiro",
+    "published": "2010-10-17T14:15:24-07:00"
+  },
+  {
+    "title": "GitHub South America",
+    "href": "/blog/733-github-south-america",
+    "published": "2010-10-12T17:43:26-07:00"
+  },
+  {
+    "title": "GitHub Meetup SF #22",
+    "href": "/blog/732-github-meetup-sf-22",
+    "published": "2010-10-12T14:20:04-07:00"
+  },
+  {
+    "title": "Hibernate on GitHub",
+    "href": "/blog/731-hibernate-on-github",
+    "published": "2010-10-07T13:16:16-07:00"
+  },
+  {
+    "title": "Job Seekers: Spotlight on CrowdFlower",
+    "href": "/blog/730-job-seekers-spotlight-on-crowdflower",
+    "published": "2010-10-06T12:34:00-07:00"
+  },
+  {
+    "title": "All of your downloads. One big button.",
+    "href": "/blog/729-all-of-your-downloads-one-big-button",
+    "published": "2010-10-05T16:40:13-07:00"
+  },
+  {
+    "title": "GitHub Meetup: Århus",
+    "href": "/blog/728-github-meetup-rhus",
+    "published": "2010-10-05T07:55:33-07:00"
+  },
+  {
+    "title": "Ruby and Rails EU, October 21-22",
+    "href": "/blog/727-ruby-and-rails-eu-october-21-22",
+    "published": "2010-10-04T10:58:33-07:00"
+  },
+  {
+    "title": "Business Time",
+    "href": "/blog/726-business-time",
+    "published": "2010-09-29T12:40:45-07:00"
+  },
+  {
+    "title": "This Morning's Git Protocol Outage",
+    "href": "/blog/725-this-morning-s-git-protocol-outage",
+    "published": "2010-09-28T10:48:16-07:00"
+  },
+  {
+    "title": "A few words on the recent outages",
+    "href": "/blog/724-a-few-words-on-the-recent-outages",
+    "published": "2010-09-24T13:48:44-07:00"
+  },
+  {
+    "title": "Tim Sharpe is a GitHubber",
+    "href": "/blog/723-tim-sharpe-is-a-githubber",
+    "published": "2010-09-24T10:15:19-07:00"
+  },
+  {
+    "title": "A little help for merging pull requests",
+    "href": "/blog/722-a-little-help-for-merging-pull-requests",
+    "published": "2010-09-23T14:47:20-07:00"
+  },
+  {
+    "title": "GitHub Meetup Belfast, Saturday Sep 18th",
+    "href": "/blog/721-github-meetup-belfast-saturday-sep-18th",
+    "published": "2010-09-17T12:41:23-07:00"
+  },
+  {
+    "title": "Eston Bond is a GitHubber",
+    "href": "/blog/719-eston-bond-is-a-githubber",
+    "published": "2010-09-15T12:22:24-07:00"
+  },
+  {
+    "title": "GitHub Meetup Moscow, Tonight, Sep 15",
+    "href": "/blog/718-github-meetup-moscow-tonight-sep-15",
+    "published": "2010-09-14T22:24:32-07:00"
+  },
+  {
+    "title": "Git User Survey 2010",
+    "href": "/blog/717-git-user-survey-2010",
+    "published": "2010-09-13T17:53:41-07:00"
+  },
+  {
+    "title": "GitHub Wiki Upgrade This Weekend",
+    "href": "/blog/716-github-wiki-upgrade-this-weekend",
+    "published": "2010-09-10T11:00:26-07:00"
+  },
+  {
+    "title": "GitHub Meetup in Dublin - Sept 11",
+    "href": "/blog/715-github-meetup-in-dublin-sept-11",
+    "published": "2010-09-09T02:24:14-07:00"
+  },
+  {
+    "title": "Twitter Service Hooks Return",
+    "href": "/blog/714-twitter-service-hooks-return",
+    "published": "2010-09-08T13:42:43-07:00"
+  },
+  {
+    "title": "The Reverse Twitter Effect",
+    "href": "/blog/713-the-reverse-twitter-effect",
+    "published": "2010-09-01T11:29:04-07:00"
+  },
+  {
+    "title": "Pull Requests 2.0",
+    "href": "/blog/712-pull-requests-2-0",
+    "published": "2010-08-31T02:12:38-07:00"
+  },
+  {
+    "title": "Corey Donohoe is a GitHubber",
+    "href": "/blog/711-corey-donohoe-is-a-githubber",
+    "published": "2010-08-30T17:25:22-07:00"
+  },
+  {
+    "title": "Mozilla Labs on GitHub",
+    "href": "/blog/708-mozilla-labs-on-github",
+    "published": "2010-08-26T18:42:03-07:00"
+  },
+  {
+    "title": "Git Notes Display",
+    "href": "/blog/707-git-notes-display",
+    "published": "2010-08-25T14:26:31-07:00"
+  },
+  {
+    "title": "Jekyll puts on SmartyPants",
+    "href": "/blog/706-jekyll-puts-on-smartypants",
+    "published": "2010-08-24T16:57:53-07:00"
+  },
+  {
+    "title": "Grails y Git en Español",
+    "href": "/blog/704-grails-y-git-en-espa-ol",
+    "published": "2010-08-19T16:08:17-07:00"
+  },
+  {
+    "title": "iOSDevCamp 2010 This Weekend",
+    "href": "/blog/703-iosdevcamp-2010-this-weekend",
+    "published": "2010-08-18T16:49:32-07:00"
+  },
+  {
+    "title": "GitHub Meetup SF #21",
+    "href": "/blog/702-github-meetup-sf-21",
+    "published": "2010-08-17T13:20:19-07:00"
+  },
+  {
+    "title": "Ottawa Drinkup Tonight",
+    "href": "/blog/701-ottawa-drinkup-tonight",
+    "published": "2010-08-14T07:03:52-07:00"
+  },
+  {
+    "title": "Design updates",
+    "href": "/blog/700-design-updates",
+    "published": "2010-08-13T14:04:07-07:00"
+  },
+  {
+    "title": "Making GitHub More Open: Git-backed Wikis",
+    "href": "/blog/699-making-github-more-open-git-backed-wikis",
+    "published": "2010-08-12T12:05:52-07:00"
+  },
+  {
+    "title": "GitHub Jobs",
+    "href": "/blog/698-github-jobs",
+    "published": "2010-08-10T13:16:14-07:00"
+  },
+  {
+    "title": "Boston Drinkup Tonight!",
+    "href": "/blog/697-boston-drinkup-tonight",
+    "published": "2010-08-10T09:26:36-07:00"
+  },
+  {
+    "title": "Easily Filter Notifications by Repository",
+    "href": "/blog/695-easily-filter-notifications-by-repository",
+    "published": "2010-08-09T14:59:56-07:00"
+  },
+  {
+    "title": "GitHub Jobs launches tomorrow",
+    "href": "/blog/694-github-jobs-launches-tomorrow",
+    "published": "2010-08-07T16:11:08-07:00"
+  },
+  {
+    "title": "GitHub Meetup Boulder: Tuesday, Aug. 10th",
+    "href": "/blog/693-github-meetup-boulder-tuesday-aug-10th",
+    "published": "2010-08-06T11:31:01-07:00"
+  },
+  {
+    "title": "Perl 6 on GitHub",
+    "href": "/blog/692-perl-6-on-github",
+    "published": "2010-08-05T02:13:54-07:00"
+  },
+  {
+    "title": "Design Lunch: After Hours Edition",
+    "href": "/blog/691-design-lunch-after-hours-edition",
+    "published": "2010-08-04T15:54:50-07:00"
+  },
+  {
+    "title": "GitHub Jobs Pre-Launch",
+    "href": "/blog/687-github-jobs-pre-launch",
+    "published": "2010-08-03T09:33:38-07:00"
+  },
+  {
+    "title": "Welcome our new search hardware",
+    "href": "/blog/689-welcome-our-new-search-hardware",
+    "published": "2010-08-02T12:11:34-07:00"
+  },
+  {
+    "title": "Friendlier Cocoa Diffs",
+    "href": "/blog/688-friendlier-cocoa-diffs",
+    "published": "2010-07-30T16:31:59-07:00"
+  },
+  {
+    "title": "Mono & OpenStack on GitHub",
+    "href": "/blog/686-mono-openstack-on-github",
+    "published": "2010-07-25T22:09:20-07:00"
+  },
+  {
+    "title": "One Million Repositories",
+    "href": "/blog/685-one-million-repositories",
+    "published": "2010-07-25T16:22:12-07:00"
+  },
+  {
+    "title": "Software Craftsmanship 2010",
+    "href": "/blog/684-software-craftsmanship-2010",
+    "published": "2010-07-23T14:04:48-07:00"
+  },
+  {
+    "title": "Cross-Repository Compare View",
+    "href": "/blog/683-cross-repository-compare-view",
+    "published": "2010-07-15T15:54:45-07:00"
+  },
+  {
+    "title": "Yesterday's Outage",
+    "href": "/blog/682-yesterday-s-outage",
+    "published": "2010-07-14T10:11:49-07:00"
+  },
+  {
+    "title": "GitHub Meetup SF #20 ",
+    "href": "/blog/681-github-meetup-sf-20",
+    "published": "2010-07-13T17:40:16-07:00"
+  },
+  {
+    "title": "DB Maintenance Today @ 18:00 PST",
+    "href": "/blog/680-db-maintenance-today-18-00-pst",
+    "published": "2010-07-13T13:37:51-07:00"
+  },
+  {
+    "title": "GitHub in your language",
+    "href": "/blog/679-github-in-your-language",
+    "published": "2010-07-13T13:34:42-07:00"
+  },
+  {
+    "title": "Meet Nodeload, the new Download server",
+    "href": "/blog/678-meet-nodeload-the-new-download-server",
+    "published": "2010-07-10T00:10:46-07:00"
+  },
+  {
+    "title": "How we deploy new features",
+    "href": "/blog/677-how-we-deploy-new-features",
+    "published": "2010-07-07T18:01:53-07:00"
+  },
+  {
+    "title": "Do you use Git on Windows?",
+    "href": "/blog/671-do-you-use-git-on-windows",
+    "published": "2010-07-01T04:47:12-07:00"
+  },
+  {
+    "title": "Fork You",
+    "href": "/blog/676-fork-you",
+    "published": "2010-06-30T18:02:09-07:00"
+  },
+  {
+    "title": "Organizations for Small Businesses",
+    "href": "/blog/675-organizations-for-small-businesses",
+    "published": "2010-06-30T12:43:00-07:00"
+  },
+  {
+    "title": "Introducing Organizations",
+    "href": "/blog/674-introducing-organizations",
+    "published": "2010-06-29T11:14:32-07:00"
+  },
+  {
+    "title": "Starring Gists",
+    "href": "/blog/673-starring-gists",
+    "published": "2010-06-29T09:41:38-07:00"
+  },
+  {
+    "title": "Scheduled Fileserver Maintenance Today @ 22:00 PST",
+    "href": "/blog/670-scheduled-fileserver-maintenance-today-22-00-pst",
+    "published": "2010-06-23T18:38:26-07:00"
+  },
+  {
+    "title": "Twitter's on GitHub",
+    "href": "/blog/669-twitter-s-on-github",
+    "published": "2010-06-22T14:01:28-07:00"
+  },
+  {
+    "title": "Scheduled DB Maintenance Today @ 22:00 PST",
+    "href": "/blog/668-scheduled-db-maintenance-today-22-00-pst",
+    "published": "2010-06-21T17:42:34-07:00"
+  },
+  {
+    "title": "WebPulp.tv Interview with Tom Preston-Werner",
+    "href": "/blog/667-webpulp-tv-interview-with-tom-preston-werner",
+    "published": "2010-06-21T13:42:37-07:00"
+  },
+  {
+    "title": "Postmortem of last week's fileserver failure",
+    "href": "/blog/666-postmortem-of-last-week-s-fileserver-failure",
+    "published": "2010-06-20T16:54:03-07:00"
+  },
+  {
+    "title": "APK Downloads for Android Projects",
+    "href": "/blog/665-apk-downloads-for-android-projects",
+    "published": "2010-06-20T11:09:39-07:00"
+  },
+  {
+    "title": "Notifo service hook added",
+    "href": "/blog/664-notifo-service-hook-added",
+    "published": "2010-06-16T12:24:15-07:00"
+  },
+  {
+    "title": "GitHub Meetup SF #19",
+    "href": "/blog/663-github-meetup-sf-19",
+    "published": "2010-06-15T19:45:28-07:00"
+  },
+  {
+    "title": "Slide on GitHub",
+    "href": "/blog/662-slide-on-github",
+    "published": "2010-06-15T14:19:23-07:00"
+  },
+  {
+    "title": "Git Reference Site",
+    "href": "/blog/660-git-reference-site",
+    "published": "2010-06-10T15:03:51-07:00"
+  },
+  {
+    "title": "GitHub Tips",
+    "href": "/blog/658-github-tips",
+    "published": "2010-06-08T02:55:03-07:00"
+  },
+  {
+    "title": "GitHub at the Dutch PHP Conference 2010",
+    "href": "/blog/657-github-at-the-dutch-php-conference-2010",
+    "published": "2010-06-04T10:16:20-07:00"
+  },
+  {
+    "title": "GitHub OAuth2 Support",
+    "href": "/blog/656-github-oauth2-support",
+    "published": "2010-05-27T20:59:30-07:00"
+  },
+  {
+    "title": "Scheduled Maintenance Today @ 22:00 PST",
+    "href": "/blog/655-scheduled-maintenance-today-22-00-pst",
+    "published": "2010-05-27T20:49:44-07:00"
+  },
+  {
+    "title": "Git Training in DC - July",
+    "href": "/blog/654-git-training-in-dc-july",
+    "published": "2010-05-26T10:57:47-07:00"
+  },
+  {
+    "title": "Our new build status indicator",
+    "href": "/blog/653-our-new-build-status-indicator",
+    "published": "2010-05-19T18:43:57-07:00"
+  },
+  {
+    "title": "GitHub Rebase #43",
+    "href": "/blog/652-github-rebase-43",
+    "published": "2010-05-17T20:07:42-07:00"
+  },
+  {
+    "title": "Annotated Downloads",
+    "href": "/blog/651-annotated-downloads",
+    "published": "2010-05-14T13:56:31-07:00"
+  },
+  {
+    "title": "GitHub Issues, Cappuccino Style",
+    "href": "/blog/650-github-issues-cappuccino-style",
+    "published": "2010-05-13T14:00:06-07:00"
+  },
+  {
+    "title": "GitHub Meetup SF #18",
+    "href": "/blog/649-github-meetup-sf-18",
+    "published": "2010-05-11T17:56:29-07:00"
+  },
+  {
+    "title": "API Forum Grand Opening",
+    "href": "/blog/648-api-forum-grand-opening",
+    "published": "2010-05-10T18:22:06-07:00"
+  },
+  {
+    "title": "Redesigned repository admin screens",
+    "href": "/blog/646-redesigned-repository-admin-screens",
+    "published": "2010-05-04T23:20:24-07:00"
+  },
+  {
+    "title": "GitHub Rebase #42",
+    "href": "/blog/645-github-rebase-42",
+    "published": "2010-05-04T18:35:08-07:00"
+  },
+  {
+    "title": "Subversion Write Support",
+    "href": "/blog/644-subversion-write-support",
+    "published": "2010-05-04T14:04:37-07:00"
+  },
+  {
+    "title": "Contributors",
+    "href": "/blog/643-contributors",
+    "published": "2010-04-29T18:05:06-07:00"
+  },
+  {
+    "title": "Smart HTTP Support",
+    "href": "/blog/642-smart-http-support",
+    "published": "2010-04-22T08:11:07-07:00"
+  },
+  {
+    "title": "Scala Projects Classified Properly",
+    "href": "/blog/640-scala-projects-classified-properly",
+    "published": "2010-04-20T08:49:08-07:00"
+  },
+  {
+    "title": "GitHub Meetup Aberdeen - April 22 - Canceled",
+    "href": "/blog/639-github-meetup-aberdeen-april-22-canceled",
+    "published": "2010-04-19T16:28:51-07:00"
+  },
+  {
+    "title": "GitHub Rebase #41",
+    "href": "/blog/638-github-rebase-41",
+    "published": "2010-04-12T21:13:08-07:00"
+  },
+  {
+    "title": "Happy 2nd Birthday GitHub",
+    "href": "/blog/637-happy-2nd-birthday-github",
+    "published": "2010-04-10T12:55:05-07:00"
+  },
+  {
+    "title": "Dashboard for iPad",
+    "href": "/blog/636-dashboard-for-ipad",
+    "published": "2010-04-09T10:48:09-07:00"
+  },
+  {
+    "title": "Frozen Rails in Helsinki with Discount!",
+    "href": "/blog/635-frozen-rails-in-helsinki-with-discount",
+    "published": "2010-04-08T10:04:18-07:00"
+  },
+  {
+    "title": "GitHub Meetup Boulder - April 8th!",
+    "href": "/blog/634-github-meetup-boulder-april-8th",
+    "published": "2010-04-07T21:14:32-07:00"
+  },
+  {
+    "title": "cURL on GitHub",
+    "href": "/blog/633-curl-on-github",
+    "published": "2010-04-07T14:56:35-07:00"
+  },
+  {
+    "title": "GitHub Meetup SF #17 or #18",
+    "href": "/blog/632-github-meetup-sf-17-or-18",
+    "published": "2010-04-07T11:52:53-07:00"
+  },
+  {
+    "title": "Repopular Repos",
+    "href": "/blog/631-repopular-repos",
+    "published": "2010-04-06T13:07:02-07:00"
+  },
+  {
+    "title": "Chris speaking at LessConf 3010",
+    "href": "/blog/630-chris-speaking-at-lessconf-3010",
+    "published": "2010-04-05T11:57:19-07:00"
+  },
+  {
+    "title": "Rick Olson is a GitHubber",
+    "href": "/blog/629-rick-olson-is-a-githubber",
+    "published": "2010-04-05T10:47:44-07:00"
+  },
+  {
+    "title": "The GitHub East Coast Tour",
+    "href": "/blog/628-the-github-east-coast-tour",
+    "published": "2010-04-02T09:27:50-07:00"
+  },
+  {
+    "title": "Collaborator tweaks",
+    "href": "/blog/627-collaborator-tweaks",
+    "published": "2010-04-01T18:06:52-07:00"
+  },
+  {
+    "title": "Announcing SVN Support",
+    "href": "/blog/626-announcing-svn-support",
+    "published": "2010-04-01T01:00:44-07:00"
+  },
+  {
+    "title": "GitHub at POSSCON",
+    "href": "/blog/625-github-at-posscon",
+    "published": "2010-03-30T17:10:58-07:00"
+  },
+  {
+    "title": "Gist Comments",
+    "href": "/blog/624-gist-comments",
+    "published": "2010-03-30T14:54:06-07:00"
+  },
+  {
+    "title": "GitHub Rebase #40",
+    "href": "/blog/623-github-rebase-40",
+    "published": "2010-03-29T11:11:50-07:00"
+  },
+  {
+    "title": "Inline commit notes",
+    "href": "/blog/622-inline-commit-notes",
+    "published": "2010-03-26T12:49:15-07:00"
+  },
+  {
+    "title": "Bye Bye Flash: Network Graph is now Canvas",
+    "href": "/blog/621-bye-bye-flash-network-graph-is-now-canvas",
+    "published": "2010-03-24T11:45:21-07:00"
+  },
+  {
+    "title": "Committing like Crazy",
+    "href": "/blog/620-committing-like-crazy",
+    "published": "2010-03-17T16:11:48-07:00"
+  },
+  {
+    "title": "Zach Holman is a GitHubber",
+    "href": "/blog/619-zach-holman-is-a-githubber",
+    "published": "2010-03-16T13:48:50-07:00"
+  },
+  {
+    "title": "GitHub Rebase #39",
+    "href": "/blog/618-github-rebase-39",
+    "published": "2010-03-15T22:09:02-07:00"
+  },
+  {
+    "title": "Pro Git Bloggin'",
+    "href": "/blog/617-pro-git-bloggin",
+    "published": "2010-03-10T11:27:25-08:00"
+  },
+  {
+    "title": "phpBB on GitHub",
+    "href": "/blog/616-phpbb-on-github",
+    "published": "2010-03-09T15:48:33-08:00"
+  },
+  {
+    "title": "Tracking Deploys with Compare View",
+    "href": "/blog/609-tracking-deploys-with-compare-view",
+    "published": "2010-03-09T07:25:26-08:00"
+  },
+  {
+    "title": "GitHub Rebase #38",
+    "href": "/blog/615-github-rebase-38",
+    "published": "2010-03-08T19:58:11-08:00"
+  },
+  {
+    "title": "NCSA Mosaic on GitHub",
+    "href": "/blog/614-ncsa-mosaic-on-github",
+    "published": "2010-03-08T12:43:46-08:00"
+  },
+  {
+    "title": "GitHub Drinkup, Peninsula Edition",
+    "href": "/blog/613-github-drinkup-peninsula-edition",
+    "published": "2010-03-05T14:24:29-08:00"
+  },
+  {
+    "title": "Introducing GitHub Compare View",
+    "href": "/blog/612-introducing-github-compare-view",
+    "published": "2010-03-01T09:09:55-08:00"
+  },
+  {
+    "title": "Branch Lists",
+    "href": "/blog/611-branch-lists",
+    "published": "2010-03-01T09:07:18-08:00"
+  },
+  {
+    "title": "GitHub Rebase #37",
+    "href": "/blog/610-github-rebase-37",
+    "published": "2010-03-01T06:16:02-08:00"
+  },
+  {
+    "title": "Announcing Ernie 2.0 and 2.1",
+    "href": "/blog/606-announcing-ernie-2-0-and-2-1",
+    "published": "2010-02-25T11:28:31-08:00"
+  },
+  {
+    "title": "New Languages Highlighted",
+    "href": "/blog/605-new-languages-highlighted",
+    "published": "2010-02-23T18:28:19-08:00"
+  },
+  {
+    "title": "GitHub Meetup SF #16",
+    "href": "/blog/604-github-meetup-sf-16",
+    "published": "2010-02-19T15:46:19-08:00"
+  },
+  {
+    "title": "Scheduled Maintenance Tonight at 22:00 PST",
+    "href": "/blog/603-scheduled-maintenance-tonight-at-22-00-pst",
+    "published": "2010-02-12T18:01:48-08:00"
+  },
+  {
+    "title": "File upload improvements",
+    "href": "/blog/602-file-upload-improvements",
+    "published": "2010-02-11T19:49:48-08:00"
+  },
+  {
+    "title": "Introducing status.github.com",
+    "href": "/blog/600-introducing-status-github-com",
+    "published": "2010-02-10T15:36:24-08:00"
+  },
+  {
+    "title": "GitHub Meetup SF #15",
+    "href": "/blog/599-github-meetup-sf-15",
+    "published": "2010-02-10T14:39:20-08:00"
+  },
+  {
+    "title": "GitHub Rebase #36",
+    "href": "/blog/598-github-rebase-36",
+    "published": "2010-02-08T07:27:38-08:00"
+  },
+  {
+    "title": "A Note on the Recent Outages",
+    "href": "/blog/597-a-note-on-the-recent-outages",
+    "published": "2010-02-04T16:22:54-08:00"
+  },
+  {
+    "title": "GitHub Drinkup, Paris Edition",
+    "href": "/blog/596-github-drinkup-paris-edition",
+    "published": "2010-02-01T10:29:09-08:00"
+  },
+  {
+    "title": "Diff Your Gist",
+    "href": "/blog/595-diff-your-gist",
+    "published": "2010-01-27T12:54:21-08:00"
+  },
+  {
+    "title": "GitHub Meetup SF #14",
+    "href": "/blog/594-github-meetup-sf-14",
+    "published": "2010-01-26T22:54:02-08:00"
+  },
+  {
+    "title": "GitHub Rebase #35",
+    "href": "/blog/593-github-rebase-35",
+    "published": "2010-01-25T07:22:09-08:00"
+  },
+  {
+    "title": "Broadcasts",
+    "href": "/blog/592-broadcasts",
+    "published": "2010-01-22T22:46:12-08:00"
+  },
+  {
+    "title": "Explore GitHub",
+    "href": "/blog/591-explore-github",
+    "published": "2010-01-21T19:19:19-08:00"
+  },
+  {
+    "title": "New Year, New Company",
+    "href": "/blog/589-new-year-new-company",
+    "published": "2010-01-21T16:47:24-08:00"
+  },
+  {
+    "title": "Paris Git Training",
+    "href": "/blog/590-paris-git-training",
+    "published": "2010-01-21T13:54:37-08:00"
+  },
+  {
+    "title": "Closing Issues with PHPUnit",
+    "href": "/blog/588-closing-issues-with-phpunit",
+    "published": "2010-01-20T11:59:35-08:00"
+  },
+  {
+    "title": "GitHub Drinkup Wellington NZ Tonight!",
+    "href": "/blog/587-github-drinkup-wellington-nz-tonight",
+    "published": "2010-01-19T14:20:18-08:00"
+  },
+  {
+    "title": "GitHub Rebase #34",
+    "href": "/blog/586-github-rebase-34",
+    "published": "2010-01-18T20:05:33-08:00"
+  },
+  {
+    "title": "GitHub for the Rest of Us Screencast",
+    "href": "/blog/585-github-for-the-rest-of-us-screencast",
+    "published": "2010-01-18T15:29:29-08:00"
+  },
+  {
+    "title": "Notification Improvements",
+    "href": "/blog/584-notification-improvements",
+    "published": "2010-01-17T19:48:37-08:00"
+  },
+  {
+    "title": "TinyMCE on GitHub",
+    "href": "/blog/583-tinymce-on-github",
+    "published": "2010-01-15T15:38:40-08:00"
+  },
+  {
+    "title": "Pages: Jekyll to v0.5.7 + Rewrites",
+    "href": "/blog/581-pages-jekyll-to-v0-5-7-rewrites",
+    "published": "2010-01-14T11:19:30-08:00"
+  },
+  {
+    "title": "GitHub Drinkup Sydney",
+    "href": "/blog/580-github-drinkup-sydney",
+    "published": "2010-01-13T14:01:35-08:00"
+  },
+  {
+    "title": "Flash in JavaScript",
+    "href": "/blog/579-flash-in-javascript",
+    "published": "2010-01-13T11:49:35-08:00"
+  },
+  {
+    "title": "Random Repo",
+    "href": "/blog/578-random-repo",
+    "published": "2010-01-13T11:02:54-08:00"
+  },
+  {
+    "title": "Improved Commit Diffs",
+    "href": "/blog/577-improved-commit-diffs",
+    "published": "2010-01-12T03:55:41-08:00"
+  },
+  {
+    "title": "GitHub Meetup SF #13",
+    "href": "/blog/576-github-meetup-sf-13",
+    "published": "2010-01-11T09:10:52-08:00"
+  },
+  {
+    "title": "GitHub Rebase #33",
+    "href": "/blog/575-github-rebase-33",
+    "published": "2010-01-11T07:11:21-08:00"
+  },
+  {
+    "title": "Palm Goes GitHub",
+    "href": "/blog/574-palm-goes-github",
+    "published": "2010-01-08T16:22:06-08:00"
+  },
+  {
+    "title": "Pearhub",
+    "href": "/blog/573-pearhub",
+    "published": "2010-01-08T10:52:46-08:00"
+  },
+  {
+    "title": "Bypassing Jekyll on GitHub Pages",
+    "href": "/blog/572-bypassing-jekyll-on-github-pages",
+    "published": "2009-12-29T14:06:17-08:00"
+  },
+  {
+    "title": "New Repository Headers!",
+    "href": "/blog/571-new-repository-headers",
+    "published": "2009-12-27T19:41:48-08:00"
+  },
+  {
+    "title": "Campfire Service Hook Returns",
+    "href": "/blog/570-campfire-service-hook-returns",
+    "published": "2009-12-17T17:43:54-08:00"
+  },
+  {
+    "title": "I have issues",
+    "href": "/blog/569-i-have-issues",
+    "published": "2009-12-16T14:34:51-08:00"
+  },
+  {
+    "title": "GitHub Meetup SF #12",
+    "href": "/blog/568-github-meetup-sf-12",
+    "published": "2009-12-16T10:50:41-08:00"
+  },
+  {
+    "title": "GitHub Rebase #32",
+    "href": "/blog/566-github-rebase-32",
+    "published": "2009-12-14T07:42:51-08:00"
+  },
+  {
+    "title": "GitHub Project Analysis",
+    "href": "/blog/565-github-project-analysis",
+    "published": "2009-12-14T05:06:42-08:00"
+  },
+  {
+    "title": "hub - git with github",
+    "href": "/blog/564-hub-git-with-github",
+    "published": "2009-12-10T13:01:06-08:00"
+  },
+  {
+    "title": "CakePHP on GitHub",
+    "href": "/blog/563-cakephp-on-github",
+    "published": "2009-12-10T08:20:07-08:00"
+  },
+  {
+    "title": "BrowserPlus on GitHub",
+    "href": "/blog/562-browserplus-on-github",
+    "published": "2009-12-09T11:35:45-08:00"
+  },
+  {
+    "title": "Ushahidi: Crowdsourcing Crisis Info",
+    "href": "/blog/561-ushahidi-crowdsourcing-crisis-info",
+    "published": "2009-12-08T10:11:35-08:00"
+  },
+  {
+    "title": "GitHub Rebase #31",
+    "href": "/blog/560-github-rebase-31",
+    "published": "2009-12-06T18:23:52-08:00"
+  },
+  {
+    "title": "Merge Commits are Back (and Better than Ever)",
+    "href": "/blog/559-merge-commits-are-back-and-better-than-ever",
+    "published": "2009-12-02T18:29:23-08:00"
+  },
+  {
+    "title": "GitHub Meetup SF #11",
+    "href": "/blog/558-github-meetup-sf-11",
+    "published": "2009-12-01T17:14:36-08:00"
+  },
+  {
+    "title": "GitHub Meetup Philadelphia",
+    "href": "/blog/557-github-meetup-philadelphia",
+    "published": "2009-11-30T17:14:49-08:00"
+  },
+  {
+    "title": "GitHub Meetup NYC",
+    "href": "/blog/556-github-meetup-nyc",
+    "published": "2009-11-30T09:10:01-08:00"
+  },
+  {
+    "title": "The Changelog",
+    "href": "/blog/555-the-changelog",
+    "published": "2009-11-30T09:02:00-08:00"
+  },
+  {
+    "title": "Erlang/OTP now on GitHub",
+    "href": "/blog/554-erlang-otp-now-on-github",
+    "published": "2009-11-25T09:48:30-08:00"
+  },
+  {
+    "title": "Looking for a Job? Let GitHub Help ",
+    "href": "/blog/553-looking-for-a-job-let-github-help",
+    "published": "2009-11-24T11:38:24-08:00"
+  },
+  {
+    "title": "GitHub Talk in NYC",
+    "href": "/blog/552-github-talk-in-nyc",
+    "published": "2009-11-24T11:19:29-08:00"
+  },
+  {
+    "title": "Optimizing asset bundling and serving with Rails",
+    "href": "/blog/551-optimizing-asset-bundling-and-serving-with-rails",
+    "published": "2009-11-19T12:30:47-08:00"
+  },
+  {
+    "title": "Multiple file gist improvements",
+    "href": "/blog/550-multiple-file-gist-improvements",
+    "published": "2009-11-18T16:11:04-08:00"
+  },
+  {
+    "title": "GitHub Meetup SF: RubyConf Edition",
+    "href": "/blog/549-github-meetup-sf-rubyconf-edition",
+    "published": "2009-11-16T12:26:25-08:00"
+  },
+  {
+    "title": "GitHub Meetup London",
+    "href": "/blog/548-github-meetup-london",
+    "published": "2009-11-15T17:55:36-08:00"
+  },
+  {
+    "title": "GitHub Meetup Oslo, Norway",
+    "href": "/blog/547-github-meetup-oslo-norway",
+    "published": "2009-11-10T17:19:44-08:00"
+  },
+  {
+    "title": "GitHub Rebase #30",
+    "href": "/blog/546-github-rebase-30",
+    "published": "2009-11-10T06:23:12-08:00"
+  },
+  {
+    "title": "Recent UI updates to GitHub",
+    "href": "/blog/545-recent-ui-updates-to-github",
+    "published": "2009-11-08T17:33:36-08:00"
+  },
+  {
+    "title": "GitHub Meetup Poznań, Poland",
+    "href": "/blog/544-github-meetup-pozna-poland",
+    "published": "2009-11-07T09:06:04-08:00"
+  },
+  {
+    "title": "New Resque Web UI",
+    "href": "/blog/543-new-resque-web-ui",
+    "published": "2009-11-04T10:35:55-08:00"
+  },
+  {
+    "title": "Introducing Resque",
+    "href": "/blog/542-introducing-resque",
+    "published": "2009-11-03T09:36:46-08:00"
+  },
+  {
+    "title": "Commons Based Peer Production",
+    "href": "/blog/541-commons-based-peer-production",
+    "published": "2009-11-02T20:21:47-08:00"
+  },
+  {
+    "title": "GitHub Meetup SF #9",
+    "href": "/blog/540-github-meetup-sf-9",
+    "published": "2009-11-02T14:22:57-08:00"
+  },
+  {
+    "title": "Load Balancing at GitHub",
+    "href": "/blog/538-load-balancing-at-github",
+    "published": "2009-11-02T11:59:36-08:00"
+  },
+  {
+    "title": "Post-Mortem of This Morning's Outage",
+    "href": "/blog/537-post-mortem-of-this-morning-s-outage",
+    "published": "2009-10-30T12:00:13-07:00"
+  },
+  {
+    "title": "jQuery!",
+    "href": "/blog/536-jquery",
+    "published": "2009-10-29T09:40:49-07:00"
+  },
+  {
+    "title": "Setting up a Mac to Work with Git and GitHub",
+    "href": "/blog/535-setting-up-a-mac-to-work-with-git-and-github",
+    "published": "2009-10-26T14:06:06-07:00"
+  },
+  {
+    "title": "GitHub Rebase #29",
+    "href": "/blog/534-github-rebase-29",
+    "published": "2009-10-25T20:40:53-07:00"
+  },
+  {
+    "title": "GitHub Meetup SF #8",
+    "href": "/blog/532-github-meetup-sf-8",
+    "published": "2009-10-21T11:16:35-07:00"
+  },
+  {
+    "title": "Introducing BERT and BERT-RPC",
+    "href": "/blog/531-introducing-bert-and-bert-rpc",
+    "published": "2009-10-20T13:43:17-07:00"
+  },
+  {
+    "title": "How We Made GitHub Fast",
+    "href": "/blog/530-how-we-made-github-fast",
+    "published": "2009-10-20T11:54:03-07:00"
+  },
+  {
+    "title": "Ryan Tomayko is a GitHubber",
+    "href": "/blog/529-ryan-tomayko-is-a-githubber",
+    "published": "2009-10-19T09:37:58-07:00"
+  },
+  {
+    "title": "Scheduled Maintenance Tonight at 23:00 PDT",
+    "href": "/blog/528-scheduled-maintenance-tonight-at-23-00-pdt",
+    "published": "2009-10-18T18:51:27-07:00"
+  },
+  {
+    "title": "Helping with Texting",
+    "href": "/blog/527-helping-with-texting",
+    "published": "2009-10-16T09:38:50-07:00"
+  },
+  {
+    "title": "Scheduled Maintenance Tonight at 22:00 PDT",
+    "href": "/blog/526-scheduled-maintenance-tonight-at-22-00-pdt",
+    "published": "2009-10-15T15:16:58-07:00"
+  },
+  {
+    "title": "GitHub Ribbon in CSS",
+    "href": "/blog/525-github-ribbon-in-css",
+    "published": "2009-10-15T09:50:22-07:00"
+  },
+  {
+    "title": "TUAW on GitHub",
+    "href": "/blog/524-tuaw-on-github",
+    "published": "2009-10-14T10:02:32-07:00"
+  },
+  {
+    "title": "Gist Improvements",
+    "href": "/blog/523-gist-improvements",
+    "published": "2009-10-13T23:12:27-07:00"
+  },
+  {
+    "title": "Speedy Version Sorting",
+    "href": "/blog/521-speedy-version-sorting",
+    "published": "2009-10-13T11:19:24-07:00"
+  },
+  {
+    "title": "A Note on Today's Outage",
+    "href": "/blog/520-a-note-on-today-s-outage",
+    "published": "2009-10-13T10:31:10-07:00"
+  },
+  {
+    "title": "unicorn.god",
+    "href": "/blog/519-unicorn-god",
+    "published": "2009-10-12T11:15:15-07:00"
+  },
+  {
+    "title": "Gemcutter Railscast",
+    "href": "/blog/518-gemcutter-railscast",
+    "published": "2009-10-12T09:55:30-07:00"
+  },
+  {
+    "title": "Unicorn!",
+    "href": "/blog/517-unicorn",
+    "published": "2009-10-09T10:44:47-07:00"
+  },
+  {
+    "title": "Call Your Code",
+    "href": "/blog/516-call-your-code",
+    "published": "2009-10-08T11:08:13-07:00"
+  },
+  {
+    "title": "Gem Building is Defunct",
+    "href": "/blog/515-gem-building-is-defunct",
+    "published": "2009-10-08T10:26:20-07:00"
+  },
+  {
+    "title": "GitHub Meetup SF #7 ",
+    "href": "/blog/514-github-meetup-sf-7",
+    "published": "2009-10-07T11:51:09-07:00"
+  },
+  {
+    "title": "New repository lists on your dashboard",
+    "href": "/blog/513-new-repository-lists-on-your-dashboard",
+    "published": "2009-10-07T11:41:32-07:00"
+  },
+  {
+    "title": "Kyle Neath is a GitHubber",
+    "href": "/blog/512-kyle-neath-is-a-githubber",
+    "published": "2009-10-05T11:20:11-07:00"
+  },
+  {
+    "title": "GitHub Rebase #28",
+    "href": "/blog/511-github-rebase-28",
+    "published": "2009-10-04T20:00:37-07:00"
+  },
+  {
+    "title": "TypePad Developer Platform",
+    "href": "/blog/510-typepad-developer-platform",
+    "published": "2009-10-01T16:17:27-07:00"
+  },
+  {
+    "title": "Multi Theft Auto",
+    "href": "/blog/509-multi-theft-auto",
+    "published": "2009-10-01T15:45:24-07:00"
+  },
+  {
+    "title": "State of the Hub: Rackspace day 3",
+    "href": "/blog/508-state-of-the-hub-rackspace-day-3",
+    "published": "2009-09-30T20:37:56-07:00"
+  },
+  {
+    "title": "Revenge of the double billing",
+    "href": "/blog/507-revenge-of-the-double-billing",
+    "published": "2009-09-30T14:04:43-07:00"
+  },
+  {
+    "title": "State of the Hub: Rackspace day 2",
+    "href": "/blog/506-state-of-the-hub-rackspace-day-2",
+    "published": "2009-09-29T21:53:56-07:00"
+  },
+  {
+    "title": "State of the Hub: Rackspace day 1",
+    "href": "/blog/505-state-of-the-hub-rackspace-day-1",
+    "published": "2009-09-29T00:56:16-07:00"
+  },
+  {
+    "title": "Repo Search Autocomplete",
+    "href": "/blog/504-repo-search-autocomplete",
+    "published": "2009-09-28T03:50:36-07:00"
+  },
+  {
+    "title": "Dashboard Tweaks",
+    "href": "/blog/503-dashboard-tweaks",
+    "published": "2009-09-28T03:47:51-07:00"
+  },
+  {
+    "title": "Double Billing Receipts",
+    "href": "/blog/502-double-billing-receipts",
+    "published": "2009-09-28T03:22:42-07:00"
+  },
+  {
+    "title": "Pages users, update your A records",
+    "href": "/blog/501-pages-users-update-your-a-records",
+    "published": "2009-09-28T00:22:55-07:00"
+  },
+  {
+    "title": "State of the Hub: Rackspace day 0",
+    "href": "/blog/500-state-of-the-hub-rackspace-day-0",
+    "published": "2009-09-27T23:57:04-07:00"
+  },
+  {
+    "title": "BioPython on GitHub",
+    "href": "/blog/499-biopython-on-github",
+    "published": "2009-09-24T09:06:22-07:00"
+  },
+  {
+    "title": "GitHub Meetup SF #6",
+    "href": "/blog/498-github-meetup-sf-6",
+    "published": "2009-09-23T12:26:05-07:00"
+  },
+  {
+    "title": "Rackspace Move Scheduled for Sunday, September 27th at 5PM Pacific Time",
+    "href": "/blog/497-rackspace-move-scheduled-for-sunday-september-27th-at-5pm-pacific-time",
+    "published": "2009-09-21T17:46:27-07:00"
+  },
+  {
+    "title": "Renaming Temporarily Disabled",
+    "href": "/blog/496-renaming-temporarily-disabled",
+    "published": "2009-09-21T10:31:33-07:00"
+  },
+  {
+    "title": "Ack!",
+    "href": "/blog/495-ack",
+    "published": "2009-09-17T22:23:50-07:00"
+  },
+  {
+    "title": "Ref Names in URLs",
+    "href": "/blog/494-ref-names-in-urls",
+    "published": "2009-09-15T13:24:36-07:00"
+  },
+  {
+    "title": "GitHub is Moving to Rackspace!",
+    "href": "/blog/493-github-is-moving-to-rackspace",
+    "published": "2009-09-15T10:03:50-07:00"
+  },
+  {
+    "title": "New Project Root URLs",
+    "href": "/blog/492-new-project-root-urls",
+    "published": "2009-09-14T15:31:48-07:00"
+  },
+  {
+    "title": "GitHub Meetup: Chicago",
+    "href": "/blog/491-github-meetup-chicago",
+    "published": "2009-09-14T15:07:40-07:00"
+  },
+  {
+    "title": "Starting with Git guide",
+    "href": "/blog/490-starting-with-git-guide",
+    "published": "2009-09-11T17:34:45-07:00"
+  },
+  {
+    "title": "GitHub Contest Winners",
+    "href": "/blog/489-github-contest-winners",
+    "published": "2009-09-09T16:33:49-07:00"
+  },
+  {
+    "title": "Git setup script",
+    "href": "/blog/488-git-setup-script",
+    "published": "2009-09-08T19:12:50-07:00"
+  },
+  {
+    "title": "GitHub Meetup: Portland",
+    "href": "/blog/487-github-meetup-portland",
+    "published": "2009-09-08T15:57:19-07:00"
+  },
+  {
+    "title": "GitHub Meetup SF #5",
+    "href": "/blog/486-github-meetup-sf-5",
+    "published": "2009-09-08T00:03:00-07:00"
+  },
+  {
+    "title": "GitHub Rebase #27",
+    "href": "/blog/485-github-rebase-27",
+    "published": "2009-09-07T18:52:09-07:00"
+  },
+  {
+    "title": "GitHub Meetup SF #6",
+    "href": "/blog/484-github-meetup-sf-6",
+    "published": "2009-09-06T22:39:44-07:00"
+  },
+  {
+    "title": "About the GitHub Contest",
+    "href": "/blog/481-about-the-github-contest",
+    "published": "2009-09-02T09:44:57-07:00"
+  },
+  {
+    "title": "Git for Non-Programmers",
+    "href": "/blog/480-git-for-non-programmers",
+    "published": "2009-08-31T10:30:48-07:00"
+  },
+  {
+    "title": "2009 GitHub Contest Over!",
+    "href": "/blog/479-2009-github-contest-over",
+    "published": "2009-08-30T15:41:20-07:00"
+  },
+  {
+    "title": "GitHub Contest almost over!",
+    "href": "/blog/478-github-contest-almost-over",
+    "published": "2009-08-28T14:46:38-07:00"
+  },
+  {
+    "title": "Sparkle! GreaseMonkey!",
+    "href": "/blog/477-sparkle-greasemonkey",
+    "published": "2009-08-28T10:01:42-07:00"
+  },
+  {
+    "title": "GitHub Meetup SF #4",
+    "href": "/blog/476-github-meetup-sf-4",
+    "published": "2009-08-25T10:11:51-07:00"
+  },
+  {
+    "title": "Pro Git Review Copies",
+    "href": "/blog/475-pro-git-review-copies",
+    "published": "2009-08-20T13:11:51-07:00"
+  },
+  {
+    "title": "Hi XKCD!",
+    "href": "/blog/473-hi-xkcd",
+    "published": "2009-08-17T10:07:02-07:00"
+  },
+  {
+    "title": "GitHub Meetup SF #3",
+    "href": "/blog/472-github-meetup-sf-3",
+    "published": "2009-08-13T12:41:07-07:00"
+  },
+  {
+    "title": "Continuous Integration Spring Cleaning",
+    "href": "/blog/471-continuous-integration-spring-cleaning",
+    "published": "2009-08-06T12:41:19-07:00"
+  },
+  {
+    "title": "Deployment Script Spring Cleaning",
+    "href": "/blog/470-deployment-script-spring-cleaning",
+    "published": "2009-08-04T20:46:49-07:00"
+  },
+  {
+    "title": "GitHub Meetup SF #2",
+    "href": "/blog/469-github-meetup-sf-2",
+    "published": "2009-07-29T22:24:37-07:00"
+  },
+  {
+    "title": "Microformats on GitHub",
+    "href": "/blog/468-microformats-on-github",
+    "published": "2009-07-29T19:46:22-07:00"
+  },
+  {
+    "title": "Smart JS Polling",
+    "href": "/blog/467-smart-js-polling",
+    "published": "2009-07-29T18:33:28-07:00"
+  },
+  {
+    "title": "The 2009 GitHub Contest",
+    "href": "/blog/466-the-2009-github-contest",
+    "published": "2009-07-29T13:14:11-07:00"
+  },
+  {
+    "title": "Pro Git Book",
+    "href": "/blog/465-pro-git-book",
+    "published": "2009-07-28T23:35:03-07:00"
+  },
+  {
+    "title": "GitHub Rebase #26",
+    "href": "/blog/464-github-rebase-26",
+    "published": "2009-07-27T14:43:58-07:00"
+  },
+  {
+    "title": "Speedy Gem Indexing",
+    "href": "/blog/463-speedy-gem-indexing",
+    "published": "2009-07-27T01:41:56-07:00"
+  },
+  {
+    "title": "PHP.git",
+    "href": "/blog/462-php-git",
+    "published": "2009-07-23T18:16:05-07:00"
+  },
+  {
+    "title": "Clone Stats!",
+    "href": "/blog/461-clone-stats",
+    "published": "2009-07-22T11:15:12-07:00"
+  },
+  {
+    "title": "Git User's Survey 2009",
+    "href": "/blog/460-git-user-s-survey-2009",
+    "published": "2009-07-20T15:22:22-07:00"
+  },
+  {
+    "title": "GitHub Meetup SF",
+    "href": "/blog/459-github-meetup-sf",
+    "published": "2009-07-15T19:51:18-07:00"
+  },
+  {
+    "title": "GitHub Rebase #25",
+    "href": "/blog/458-github-rebase-25",
+    "published": "2009-07-12T17:47:57-07:00"
+  },
+  {
+    "title": "BBC on GitHub",
+    "href": "/blog/457-bbc-on-github",
+    "published": "2009-07-08T10:07:10-07:00"
+  },
+  {
+    "title": "Git for Windows Developers Part 2",
+    "href": "/blog/456-git-for-windows-developers-part-2",
+    "published": "2009-07-08T08:25:08-07:00"
+  },
+  {
+    "title": "100,000 Users!",
+    "href": "/blog/455-100-000-users",
+    "published": "2009-07-05T23:25:29-07:00"
+  },
+  {
+    "title": "Amsterdam Meetup: Success!",
+    "href": "/blog/454-amsterdam-meetup-success",
+    "published": "2009-07-03T06:36:21-07:00"
+  },
+  {
+    "title": "GitHub Sticker Showcase",
+    "href": "/blog/453-github-sticker-showcase",
+    "published": "2009-07-02T16:05:27-07:00"
+  },
+  {
+    "title": "GitHub Meetup in Amsterdam",
+    "href": "/blog/452-github-meetup-in-amsterdam",
+    "published": "2009-07-01T10:24:04-07:00"
+  },
+  {
+    "title": "GitHub Rebase #24",
+    "href": "/blog/451-github-rebase-24",
+    "published": "2009-06-29T15:50:25-07:00"
+  },
+  {
+    "title": "Push It",
+    "href": "/blog/450-push-it",
+    "published": "2009-06-26T14:37:49-07:00"
+  },
+  {
+    "title": "Deploying ExpressionEngine from GitHub",
+    "href": "/blog/449-deploying-expressionengine-from-github",
+    "published": "2009-06-24T18:03:56-07:00"
+  },
+  {
+    "title": "Grails Internals Handbook",
+    "href": "/blog/448-grails-internals-handbook",
+    "published": "2009-06-23T17:02:21-07:00"
+  },
+  {
+    "title": "NY State Senate Code on GitHub",
+    "href": "/blog/447-ny-state-senate-code-on-github",
+    "published": "2009-06-20T11:04:50-07:00"
+  },
+  {
+    "title": "Using GitHub Through Draconian Proxies",
+    "href": "/blog/446-using-github-through-draconian-proxies",
+    "published": "2009-06-19T09:18:21-07:00"
+  },
+  {
+    "title": "Hosting Python on GitHub?",
+    "href": "/blog/445-hosting-python-on-github",
+    "published": "2009-06-16T18:16:38-07:00"
+  },
+  {
+    "title": "GitHub Rebase #23",
+    "href": "/blog/444-github-rebase-23",
+    "published": "2009-06-15T17:32:47-07:00"
+  },
+  {
+    "title": "Yahoo-Flavored Hadoop on GitHub",
+    "href": "/blog/443-yahoo-flavored-hadoop-on-github",
+    "published": "2009-06-10T15:41:23-07:00"
+  },
+  {
+    "title": "GitHub:FI Pricing now Public",
+    "href": "/blog/442-github-fi-pricing-now-public",
+    "published": "2009-06-10T12:10:28-07:00"
+  },
+  {
+    "title": "Announcing GitHub:FI",
+    "href": "/blog/441-announcing-github-fi",
+    "published": "2009-06-01T13:06:31-07:00"
+  },
+  {
+    "title": "GitHub Rebase #22",
+    "href": "/blog/440-github-rebase-22",
+    "published": "2009-05-31T16:02:54-07:00"
+  },
+  {
+    "title": "Hg-Git Mercurial Plugin",
+    "href": "/blog/439-hg-git-mercurial-plugin",
+    "published": "2009-05-27T18:07:11-07:00"
+  },
+  {
+    "title": "Gems now built from the default branch",
+    "href": "/blog/437-gems-now-built-from-the-default-branch",
+    "published": "2009-05-26T22:00:17-07:00"
+  },
+  {
+    "title": "Code Watch in the App Store",
+    "href": "/blog/436-code-watch-in-the-app-store",
+    "published": "2009-05-25T13:17:19-07:00"
+  },
+  {
+    "title": "GitHub Twilight Theme",
+    "href": "/blog/435-github-twilight-theme",
+    "published": "2009-05-19T07:36:23-07:00"
+  },
+  {
+    "title": "The Git Parable",
+    "href": "/blog/434-the-git-parable",
+    "published": "2009-05-18T13:48:49-07:00"
+  },
+  {
+    "title": "GitHub Rebase #21",
+    "href": "/blog/433-github-rebase-21",
+    "published": "2009-05-17T14:04:09-07:00"
+  },
+  {
+    "title": "Documentation Explosion",
+    "href": "/blog/432-documentation-explosion",
+    "published": "2009-05-15T14:53:55-07:00"
+  },
+  {
+    "title": "GitHub in the Government",
+    "href": "/blog/431-github-in-the-government",
+    "published": "2009-05-13T11:32:36-07:00"
+  },
+  {
+    "title": "GitHub Pages Overview",
+    "href": "/blog/430-github-pages-overview",
+    "published": "2009-05-04T16:15:02-07:00"
+  },
+  {
+    "title": "GitHub Rebase #20",
+    "href": "/blog/429-github-rebase-20",
+    "published": "2009-05-03T14:26:25-07:00"
+  },
+  {
+    "title": "Circa",
+    "href": "/blog/428-circa",
+    "published": "2009-04-30T13:29:39-07:00"
+  },
+  {
+    "title": "Version Control for Nerdy Writers",
+    "href": "/blog/427-version-control-for-nerdy-writers",
+    "published": "2009-04-30T10:30:56-07:00"
+  },
+  {
+    "title": "Open Source CoverFlow",
+    "href": "/blog/426-open-source-coverflow",
+    "published": "2009-04-29T15:30:52-07:00"
+  },
+  {
+    "title": "iOctocat on Your iPhone",
+    "href": "/blog/425-ioctocat-on-your-iphone",
+    "published": "2009-04-29T14:45:59-07:00"
+  },
+  {
+    "title": "UserVoice Style Issues",
+    "href": "/blog/424-uservoice-style-issues",
+    "published": "2009-04-29T08:55:52-07:00"
+  },
+  {
+    "title": "GitHub: Best Young Entrepreneurs",
+    "href": "/blog/422-github-best-young-entrepreneurs",
+    "published": "2009-04-23T15:25:49-07:00"
+  },
+  {
+    "title": "Pick your Default Branch",
+    "href": "/blog/421-pick-your-default-branch",
+    "published": "2009-04-22T16:07:55-07:00"
+  },
+  {
+    "title": "Jekyll has a core team!",
+    "href": "/blog/420-jekyll-has-a-core-team",
+    "published": "2009-04-22T14:18:20-07:00"
+  },
+  {
+    "title": "Amanda!",
+    "href": "/blog/419-amanda",
+    "published": "2009-04-21T11:56:33-07:00"
+  },
+  {
+    "title": "GitHub at Open Source Bridge (Portland)",
+    "href": "/blog/418-github-at-open-source-bridge-portland",
+    "published": "2009-04-21T11:07:22-07:00"
+  },
+  {
+    "title": "GFM Everywhere!",
+    "href": "/blog/417-gfm-everywhere",
+    "published": "2009-04-20T12:31:27-07:00"
+  },
+  {
+    "title": "Issues Bonanza!",
+    "href": "/blog/416-issues-bonanza",
+    "published": "2009-04-20T09:20:52-07:00"
+  },
+  {
+    "title": "GitHub Rebase #19",
+    "href": "/blog/415-github-rebase-19",
+    "published": "2009-04-19T09:43:58-07:00"
+  },
+  {
+    "title": "Sticker Progress",
+    "href": "/blog/414-sticker-progress",
+    "published": "2009-04-18T12:21:27-07:00"
+  },
+  {
+    "title": "GitHub API, take two",
+    "href": "/blog/413-github-api-take-two",
+    "published": "2009-04-17T16:55:44-07:00"
+  },
+  {
+    "title": "Welcome Melissa!",
+    "href": "/blog/412-welcome-melissa",
+    "published": "2009-04-17T09:29:07-07:00"
+  },
+  {
+    "title": "GitHub Issue Tracker!",
+    "href": "/blog/411-github-issue-tracker",
+    "published": "2009-04-15T13:04:07-07:00"
+  },
+  {
+    "title": "Pages 2.0",
+    "href": "/blog/410-pages-2-0",
+    "published": "2009-04-14T16:27:36-07:00"
+  },
+  {
+    "title": "YUI Git Helper",
+    "href": "/blog/409-yui-git-helper",
+    "published": "2009-04-13T12:43:18-07:00"
+  },
+  {
+    "title": "Six Apart on GitHub",
+    "href": "/blog/408-six-apart-on-github",
+    "published": "2009-04-13T12:37:23-07:00"
+  },
+  {
+    "title": "Clojure on App Engine",
+    "href": "/blog/407-clojure-on-app-engine",
+    "published": "2009-04-13T12:30:50-07:00"
+  },
+  {
+    "title": "Planet Scala on GitHub",
+    "href": "/blog/406-planet-scala-on-github",
+    "published": "2009-04-13T12:26:50-07:00"
+  },
+  {
+    "title": "Debugging IronPython",
+    "href": "/blog/405-debugging-ironpython",
+    "published": "2009-04-13T12:24:02-07:00"
+  },
+  {
+    "title": "GitHub's Birthday",
+    "href": "/blog/404-github-s-birthday",
+    "published": "2009-04-10T09:56:43-07:00"
+  },
+  {
+    "title": "GitHub + Hoptoad = Awesome!",
+    "href": "/blog/403-github-hoptoad-awesome",
+    "published": "2009-04-08T14:12:44-07:00"
+  },
+  {
+    "title": "GitHub Pages Upgraded to Jekyll 0.5.0",
+    "href": "/blog/402-github-pages-upgraded-to-jekyll-0-5-0",
+    "published": "2009-04-07T18:11:51-07:00"
+  },
+  {
+    "title": "E Text Editor on GitHub",
+    "href": "/blog/401-e-text-editor-on-github",
+    "published": "2009-04-03T15:59:06-07:00"
+  },
+  {
+    "title": "Ask GitHub!",
+    "href": "/blog/400-ask-github",
+    "published": "2009-04-03T14:46:34-07:00"
+  },
+  {
+    "title": "MS MVC Invasion",
+    "href": "/blog/399-ms-mvc-invasion",
+    "published": "2009-04-02T11:48:53-07:00"
+  },
+  {
+    "title": "Sideline: Watch Twitter",
+    "href": "/blog/398-sideline-watch-twitter",
+    "published": "2009-04-02T10:48:48-07:00"
+  },
+  {
+    "title": "Easy TDD with Drupal",
+    "href": "/blog/397-easy-tdd-with-drupal",
+    "published": "2009-04-02T09:31:07-07:00"
+  },
+  {
+    "title": "Commit Comment Feed Returns",
+    "href": "/blog/396-commit-comment-feed-returns",
+    "published": "2009-03-31T16:45:47-07:00"
+  },
+  {
+    "title": "Pinax on GitHub",
+    "href": "/blog/395-pinax-on-github",
+    "published": "2009-03-31T14:19:53-07:00"
+  },
+  {
+    "title": "GitHub Rebase #18",
+    "href": "/blog/394-github-rebase-18",
+    "published": "2009-03-30T17:36:33-07:00"
+  },
+  {
+    "title": "Goodbye AppleScript, Hello JSTalk",
+    "href": "/blog/393-goodbye-applescript-hello-jstalk",
+    "published": "2009-03-27T13:20:28-07:00"
+  },
+  {
+    "title": "Intro to Git for Designers",
+    "href": "/blog/392-intro-to-git-for-designers",
+    "published": "2009-03-27T13:12:36-07:00"
+  },
+  {
+    "title": "Force a Gem Rebuild",
+    "href": "/blog/391-force-a-gem-rebuild",
+    "published": "2009-03-27T11:21:43-07:00"
+  },
+  {
+    "title": "Groovy on Grails on GitHub",
+    "href": "/blog/390-groovy-on-grails-on-github",
+    "published": "2009-03-24T11:00:18-07:00"
+  },
+  {
+    "title": "Three20: iPhone UI Goodness",
+    "href": "/blog/389-three20-iphone-ui-goodness",
+    "published": "2009-03-23T21:50:57-07:00"
+  },
+  {
+    "title": "The Git and GitHub Survival Guide",
+    "href": "/blog/388-the-git-and-github-survival-guide",
+    "published": "2009-03-23T21:44:56-07:00"
+  },
+  {
+    "title": "Afternoon Outage",
+    "href": "/blog/387-afternoon-outage",
+    "published": "2009-03-23T18:06:12-07:00"
+  },
+  {
+    "title": "Rails API with GitHub Links",
+    "href": "/blog/386-rails-api-with-github-links",
+    "published": "2009-03-23T15:14:15-07:00"
+  },
+  {
+    "title": "Git Guru",
+    "href": "/blog/385-git-guru",
+    "published": "2009-03-23T14:35:36-07:00"
+  },
+  {
+    "title": "GitHub Rebase #17",
+    "href": "/blog/383-github-rebase-17",
+    "published": "2009-03-18T19:30:59-07:00"
+  },
+  {
+    "title": "Grizzly OSGi HTTP Service Gitorial",
+    "href": "/blog/378-grizzly-osgi-http-service-gitorial",
+    "published": "2009-03-16T12:20:33-07:00"
+  },
+  {
+    "title": "GitHub Growler",
+    "href": "/blog/377-github-growler",
+    "published": "2009-03-16T11:31:42-07:00"
+  },
+  {
+    "title": "Findjango",
+    "href": "/blog/376-findjango",
+    "published": "2009-03-16T11:30:30-07:00"
+  },
+  {
+    "title": "Lisp in Awk",
+    "href": "/blog/375-lisp-in-awk",
+    "published": "2009-03-10T14:02:55-07:00"
+  },
+  {
+    "title": "Git as a Data Store in Python (and Ruby)",
+    "href": "/blog/374-git-as-a-data-store-in-python-and-ruby",
+    "published": "2009-03-10T09:50:19-07:00"
+  },
+  {
+    "title": "GitHub Rebase #16",
+    "href": "/blog/373-github-rebase-16",
+    "published": "2009-03-09T19:26:41-07:00"
+  },
+  {
+    "title": "Digg on GitHub",
+    "href": "/blog/372-digg-on-github",
+    "published": "2009-03-09T15:52:48-07:00"
+  },
+  {
+    "title": "gittop on the App Store",
+    "href": "/blog/371-gittop-on-the-app-store",
+    "published": "2009-03-06T13:42:44-08:00"
+  },
+  {
+    "title": "GitHub at the Web 2.0 Expo",
+    "href": "/blog/370-github-at-the-web-2-0-expo",
+    "published": "2009-03-06T11:56:09-08:00"
+  },
+  {
+    "title": "Get your GitHub Stickers!",
+    "href": "/blog/369-get-your-github-stickers",
+    "published": "2009-03-04T17:19:37-08:00"
+  },
+  {
+    "title": "Keeping GoogleBot Happy",
+    "href": "/blog/368-keeping-googlebot-happy",
+    "published": "2009-03-03T17:38:21-08:00"
+  },
+  {
+    "title": "Clojure Gitorial",
+    "href": "/blog/367-clojure-gitorial",
+    "published": "2009-03-02T10:23:30-08:00"
+  },
+  {
+    "title": "GitHub Rebase #15",
+    "href": "/blog/366-github-rebase-15",
+    "published": "2009-03-01T19:33:50-08:00"
+  },
+  {
+    "title": "Lift Hits 1.0",
+    "href": "/blog/365-lift-hits-1-0",
+    "published": "2009-02-26T14:28:49-08:00"
+  },
+  {
+    "title": "F1 Web Challenge",
+    "href": "/blog/364-f1-web-challenge",
+    "published": "2009-02-26T14:10:06-08:00"
+  },
+  {
+    "title": "Cufón - a sIFR alternative",
+    "href": "/blog/363-cuf-n-a-sifr-alternative",
+    "published": "2009-02-25T16:43:32-08:00"
+  },
+  {
+    "title": "Open Source GitHub iPhone App",
+    "href": "/blog/362-open-source-github-iphone-app",
+    "published": "2009-02-25T16:33:35-08:00"
+  },
+  {
+    "title": "Updated Grails Mirror",
+    "href": "/blog/361-updated-grails-mirror",
+    "published": "2009-02-25T12:58:08-08:00"
+  },
+  {
+    "title": "Fork You Sighting: Carnaval",
+    "href": "/blog/360-fork-you-sighting-carnaval",
+    "published": "2009-02-25T12:37:12-08:00"
+  },
+  {
+    "title": "Dave Peck's Go",
+    "href": "/blog/359-dave-peck-s-go",
+    "published": "2009-02-22T12:06:10-08:00"
+  },
+  {
+    "title": "Git and GitHub: A Free Course by RubyLearning",
+    "href": "/blog/357-git-and-github-a-free-course-by-rubylearning",
+    "published": "2009-02-18T11:56:48-08:00"
+  },
+  {
+    "title": "GitHub Rebase #14",
+    "href": "/blog/356-github-rebase-14",
+    "published": "2009-02-17T21:05:27-08:00"
+  },
+  {
+    "title": "Twitter Apps on App Engine",
+    "href": "/blog/355-twitter-apps-on-app-engine",
+    "published": "2009-02-17T13:16:32-08:00"
+  },
+  {
+    "title": "PHP in Erlang",
+    "href": "/blog/354-php-in-erlang",
+    "published": "2009-02-16T15:09:07-08:00"
+  },
+  {
+    "title": "More Disk Space for All!",
+    "href": "/blog/353-more-disk-space-for-all",
+    "published": "2009-02-13T19:49:44-08:00"
+  },
+  {
+    "title": "This GitHub is going to the boids...",
+    "href": "/blog/352-this-github-is-going-to-the-boids",
+    "published": "2009-02-13T09:24:48-08:00"
+  },
+  {
+    "title": "YQL 3rd Party Table Definitions",
+    "href": "/blog/351-yql-3rd-party-table-definitions",
+    "published": "2009-02-11T15:24:49-08:00"
+  },
+  {
+    "title": "Repository Uploads",
+    "href": "/blog/350-repository-uploads",
+    "published": "2009-02-10T12:35:02-08:00"
+  },
+  {
+    "title": "Robust Archive Downloads",
+    "href": "/blog/349-robust-archive-downloads",
+    "published": "2009-02-09T22:29:07-08:00"
+  },
+  {
+    "title": "QuirkeyCode",
+    "href": "/blog/348-quirkeycode",
+    "published": "2009-02-09T20:37:42-08:00"
+  },
+  {
+    "title": "Fork You Sighting at Casa Bonita",
+    "href": "/blog/347-fork-you-sighting-at-casa-bonita",
+    "published": "2009-02-09T19:33:29-08:00"
+  },
+  {
+    "title": "GitHub Rebase #13",
+    "href": "/blog/346-github-rebase-13",
+    "published": "2009-02-08T16:19:03-08:00"
+  },
+  {
+    "title": "Game of Life Engineered to Print Stuff",
+    "href": "/blog/345-game-of-life-engineered-to-print-stuff",
+    "published": "2009-02-08T12:19:50-08:00"
+  },
+  {
+    "title": "Lemur Scheme",
+    "href": "/blog/344-lemur-scheme",
+    "published": "2009-02-06T13:18:57-08:00"
+  },
+  {
+    "title": "ObjectiveResource ",
+    "href": "/blog/343-objectiveresource",
+    "published": "2009-02-06T11:39:22-08:00"
+  },
+  {
+    "title": "Hyde - The Python Static Site Generator",
+    "href": "/blog/342-hyde-the-python-static-site-generator",
+    "published": "2009-02-05T20:48:44-08:00"
+  },
+  {
+    "title": "Copy and Paste is so Yesterday",
+    "href": "/blog/341-copy-and-paste-is-so-yesterday",
+    "published": "2009-02-05T18:46:20-08:00"
+  },
+  {
+    "title": "Fabric: Simple Pythonic Deployment",
+    "href": "/blog/340-fabric-simple-pythonic-deployment",
+    "published": "2009-02-05T17:41:56-08:00"
+  },
+  {
+    "title": "Handy Vim Links",
+    "href": "/blog/339-handy-vim-links",
+    "published": "2009-02-05T16:05:14-08:00"
+  },
+  {
+    "title": "JUnit",
+    "href": "/blog/338-junit",
+    "published": "2009-02-05T15:41:20-08:00"
+  },
+  {
+    "title": "Chiplog - A Personal Journal in Django",
+    "href": "/blog/337-chiplog-a-personal-journal-in-django",
+    "published": "2009-02-04T21:10:16-08:00"
+  },
+  {
+    "title": "Open Source Japanese Curry",
+    "href": "/blog/336-open-source-japanese-curry",
+    "published": "2009-02-03T19:18:57-08:00"
+  },
+  {
+    "title": "Emoji",
+    "href": "/blog/335-emoji",
+    "published": "2009-02-03T14:41:00-08:00"
+  },
+  {
+    "title": "Folders to Pages",
+    "href": "/blog/334-folders-to-pages",
+    "published": "2009-02-03T14:06:07-08:00"
+  },
+  {
+    "title": "Easy Git!",
+    "href": "/blog/333-easy-git",
+    "published": "2009-02-03T13:07:29-08:00"
+  },
+  {
+    "title": "My Octobadge",
+    "href": "/blog/332-my-octobadge",
+    "published": "2009-02-02T12:54:32-08:00"
+  },
+  {
+    "title": "ChocTop: Easy Custom DMGs and Sparkle XML",
+    "href": "/blog/331-choctop-easy-custom-dmgs-and-sparkle-xml",
+    "published": "2009-02-02T12:42:07-08:00"
+  },
+  {
+    "title": "Gruber Gets It",
+    "href": "/blog/330-gruber-gets-it",
+    "published": "2009-01-30T14:51:36-08:00"
+  },
+  {
+    "title": "NatsuLiphone iPhone Twitter Client",
+    "href": "/blog/329-natsuliphone-iphone-twitter-client",
+    "published": "2009-01-30T14:20:30-08:00"
+  },
+  {
+    "title": "Database Troubles",
+    "href": "/blog/328-database-troubles",
+    "published": "2009-01-30T13:44:35-08:00"
+  },
+  {
+    "title": "Want Git preinstalled on next Mac OS X?",
+    "href": "/blog/327-want-git-preinstalled-on-next-mac-os-x",
+    "published": "2009-01-29T12:33:45-08:00"
+  },
+  {
+    "title": "Tracking Windows in Git",
+    "href": "/blog/326-tracking-windows-in-git",
+    "published": "2009-01-29T12:30:25-08:00"
+  },
+  {
+    "title": "gist.py",
+    "href": "/blog/325-gist-py",
+    "published": "2009-01-28T14:50:47-08:00"
+  },
+  {
+    "title": "Visualizing Commit History",
+    "href": "/blog/324-visualizing-commit-history",
+    "published": "2009-01-28T14:37:10-08:00"
+  },
+  {
+    "title": "The Internet Coke Machine on GitHub",
+    "href": "/blog/323-the-internet-coke-machine-on-github",
+    "published": "2009-01-28T13:34:00-08:00"
+  },
+  {
+    "title": "Testing in Django",
+    "href": "/blog/322-testing-in-django",
+    "published": "2009-01-28T12:16:27-08:00"
+  },
+  {
+    "title": "GitHub Rebase #12",
+    "href": "/blog/321-github-rebase-12",
+    "published": "2009-01-27T20:00:28-08:00"
+  },
+  {
+    "title": "Load Flash on Demand in WebKit",
+    "href": "/blog/320-load-flash-on-demand-in-webkit",
+    "published": "2009-01-27T11:03:18-08:00"
+  },
+  {
+    "title": "Smusher: Lossless and Recursive Image Optimizer",
+    "href": "/blog/319-smusher-lossless-and-recursive-image-optimizer",
+    "published": "2009-01-26T11:44:48-08:00"
+  },
+  {
+    "title": "GitHub Commit Chat",
+    "href": "/blog/318-github-commit-chat",
+    "published": "2009-01-23T14:36:47-08:00"
+  },
+  {
+    "title": "Scripting Bioclipse",
+    "href": "/blog/317-scripting-bioclipse",
+    "published": "2009-01-23T10:57:57-08:00"
+  },
+  {
+    "title": "London Git Training",
+    "href": "/blog/316-london-git-training",
+    "published": "2009-01-23T08:54:45-08:00"
+  },
+  {
+    "title": "CNAME support for GitHub Pages",
+    "href": "/blog/315-cname-support-for-github-pages",
+    "published": "2009-01-21T15:18:18-08:00"
+  },
+  {
+    "title": "Using Input Values as Hints",
+    "href": "/blog/314-using-input-values-as-hints",
+    "published": "2009-01-21T10:08:09-08:00"
+  },
+  {
+    "title": "BlogBridge: Cross Platform RSS Reader",
+    "href": "/blog/313-blogbridge-cross-platform-rss-reader",
+    "published": "2009-01-21T10:02:52-08:00"
+  },
+  {
+    "title": "RESTful Flex and AIR Apps",
+    "href": "/blog/312-restful-flex-and-air-apps",
+    "published": "2009-01-21T09:49:41-08:00"
+  },
+  {
+    "title": "Chris Speaking at MeshU (Toronto)",
+    "href": "/blog/311-chris-speaking-at-meshu-toronto",
+    "published": "2009-01-21T09:25:10-08:00"
+  },
+  {
+    "title": "GitHub Rebase #11",
+    "href": "/blog/310-github-rebase-11",
+    "published": "2009-01-20T17:42:04-08:00"
+  },
+  {
+    "title": "New and Improved Search ",
+    "href": "/blog/309-new-and-improved-search",
+    "published": "2009-01-20T17:02:07-08:00"
+  },
+  {
+    "title": "Compojure: Clojure Web Framework",
+    "href": "/blog/308-compojure-clojure-web-framework",
+    "published": "2009-01-20T11:56:20-08:00"
+  },
+  {
+    "title": "My Git Workflow",
+    "href": "/blog/307-my-git-workflow",
+    "published": "2009-01-20T11:46:32-08:00"
+  },
+  {
+    "title": "Parasite: Firebug for GTK+",
+    "href": "/blog/306-parasite-firebug-for-gtk",
+    "published": "2009-01-20T11:20:26-08:00"
+  },
+  {
+    "title": "Crafting RubyGems with Jeweler",
+    "href": "/blog/305-crafting-rubygems-with-jeweler",
+    "published": "2009-01-20T11:09:54-08:00"
+  },
+  {
+    "title": "Is [my show] on yet?",
+    "href": "/blog/304-is-my-show-on-yet",
+    "published": "2009-01-20T10:58:08-08:00"
+  },
+  {
+    "title": "New Watchers/Forks UI",
+    "href": "/blog/303-new-watchers-forks-ui",
+    "published": "2009-01-19T16:12:50-08:00"
+  },
+  {
+    "title": "Gist for Greasemonkey",
+    "href": "/blog/302-gist-for-greasemonkey",
+    "published": "2009-01-19T13:48:58-08:00"
+  },
+  {
+    "title": "Sexy JS Curls",
+    "href": "/blog/301-sexy-js-curls",
+    "published": "2009-01-19T13:10:40-08:00"
+  },
+  {
+    "title": "Daily Git Tips",
+    "href": "/blog/300-daily-git-tips",
+    "published": "2009-01-19T10:52:06-08:00"
+  },
+  {
+    "title": "An Illustrated Guide to Git on Windows",
+    "href": "/blog/299-an-illustrated-guide-to-git-on-windows",
+    "published": "2009-01-15T14:59:58-08:00"
+  },
+  {
+    "title": "YUI 2 and 3 on GitHub",
+    "href": "/blog/298-yui-2-and-3-on-github",
+    "published": "2009-01-15T01:11:15-08:00"
+  },
+  {
+    "title": "Dirty Git State in Your Prompt",
+    "href": "/blog/297-dirty-git-state-in-your-prompt",
+    "published": "2009-01-14T16:17:32-08:00"
+  },
+  {
+    "title": "GitHub Sync",
+    "href": "/blog/296-github-sync",
+    "published": "2009-01-13T15:22:44-08:00"
+  },
+  {
+    "title": "Gem Rebuilds only on Version Bump",
+    "href": "/blog/295-gem-rebuilds-only-on-version-bump",
+    "published": "2009-01-13T12:47:10-08:00"
+  },
+  {
+    "title": "While you were sleeping...",
+    "href": "/blog/293-while-you-were-sleeping",
+    "published": "2009-01-13T02:29:33-08:00"
+  },
+  {
+    "title": "GitHub Rebase #10",
+    "href": "/blog/292-github-rebase-10",
+    "published": "2009-01-11T18:21:54-08:00"
+  },
+  {
+    "title": "Octobadges",
+    "href": "/blog/291-octobadges",
+    "published": "2009-01-11T17:57:41-08:00"
+  },
+  {
+    "title": "Hello, Punch Graph",
+    "href": "/blog/290-hello-punch-graph",
+    "published": "2009-01-11T10:45:59-08:00"
+  },
+  {
+    "title": "Best Bootstrapped Startup of 2008",
+    "href": "/blog/289-best-bootstrapped-startup-of-2008",
+    "published": "2009-01-10T17:18:50-08:00"
+  },
+  {
+    "title": "Wiki Subdomain",
+    "href": "/blog/288-wiki-subdomain",
+    "published": "2009-01-07T00:18:05-08:00"
+  },
+  {
+    "title": "Gnome DVCS Survey",
+    "href": "/blog/287-gnome-dvcs-survey",
+    "published": "2009-01-05T11:36:01-08:00"
+  },
+  {
+    "title": "New Git Homepage",
+    "href": "/blog/286-new-git-homepage",
+    "published": "2009-01-05T10:15:55-08:00"
+  },
+  {
+    "title": "Only the beginning",
+    "href": "/blog/285-only-the-beginning",
+    "published": "2009-01-01T16:25:58-08:00"
+  },
+  {
+    "title": "European Training",
+    "href": "/blog/283-european-training",
+    "published": "2008-12-30T16:48:29-08:00"
+  },
+  {
+    "title": "GitHub in Europe",
+    "href": "/blog/282-github-in-europe",
+    "published": "2008-12-30T16:21:48-08:00"
+  },
+  {
+    "title": " Rebase on Vacation",
+    "href": "/blog/281-rebase-on-vacation",
+    "published": "2008-12-30T04:53:30-08:00"
+  },
+  {
+    "title": "Vote for GitHub!",
+    "href": "/blog/280-vote-for-github",
+    "published": "2008-12-29T06:10:51-08:00"
+  },
+  {
+    "title": "Is it Christmas?",
+    "href": "/blog/279-is-it-christmas",
+    "published": "2008-12-24T06:22:06-08:00"
+  },
+  {
+    "title": "A New Homepage Begins",
+    "href": "/blog/278-a-new-homepage-begins",
+    "published": "2008-12-23T13:45:31-08:00"
+  },
+  {
+    "title": "Pages Generator",
+    "href": "/blog/277-pages-generator",
+    "published": "2008-12-23T10:37:02-08:00"
+  },
+  {
+    "title": "Perl Mirror on GitHub",
+    "href": "/blog/276-perl-mirror-on-github",
+    "published": "2008-12-23T10:02:04-08:00"
+  },
+  {
+    "title": "GitHub Rebase #9",
+    "href": "/blog/275-github-rebase-9",
+    "published": "2008-12-21T22:36:29-08:00"
+  },
+  {
+    "title": "Holiday Shirt Super Sale!",
+    "href": "/blog/274-holiday-shirt-super-sale",
+    "published": "2008-12-20T13:26:41-08:00"
+  },
+  {
+    "title": "GitHub Ribbons",
+    "href": "/blog/273-github-ribbons",
+    "published": "2008-12-19T00:46:14-08:00"
+  },
+  {
+    "title": "GitHub Pages",
+    "href": "/blog/272-github-pages",
+    "published": "2008-12-18T00:57:58-08:00"
+  },
+  {
+    "title": "New Create/Delete Events",
+    "href": "/blog/271-new-create-delete-events",
+    "published": "2008-12-16T13:29:59-08:00"
+  },
+  {
+    "title": "The Fork Queue",
+    "href": "/blog/270-the-fork-queue",
+    "published": "2008-12-15T18:43:51-08:00"
+  },
+  {
+    "title": "GitHub Rebase #8",
+    "href": "/blog/269-github-rebase-8",
+    "published": "2008-12-14T18:23:17-08:00"
+  },
+  {
+    "title": "Traffic Graphs",
+    "href": "/blog/268-traffic-graphs",
+    "published": "2008-12-12T16:15:43-08:00"
+  },
+  {
+    "title": "Facebook's memcached on GitHub",
+    "href": "/blog/267-facebook-s-memcached-on-github",
+    "published": "2008-12-12T15:17:57-08:00"
+  },
+  {
+    "title": "Fast Forward Your Fork",
+    "href": "/blog/266-fast-forward-your-fork",
+    "published": "2008-12-12T14:54:38-08:00"
+  },
+  {
+    "title": "SproutCore 1.0",
+    "href": "/blog/265-sproutcore-1-0",
+    "published": "2008-12-10T11:17:57-08:00"
+  },
+  {
+    "title": "Git on Windows (again)",
+    "href": "/blog/264-git-on-windows-again",
+    "published": "2008-12-10T11:14:35-08:00"
+  },
+  {
+    "title": "Google Code Search Crawls GitHub",
+    "href": "/blog/263-google-code-search-crawls-github",
+    "published": "2008-12-10T11:05:13-08:00"
+  },
+  {
+    "title": "YUI on GitHub",
+    "href": "/blog/262-yui-on-github",
+    "published": "2008-12-08T16:40:49-08:00"
+  },
+  {
+    "title": "Insider Guide to GitHub Series",
+    "href": "/blog/261-insider-guide-to-github-series",
+    "published": "2008-12-08T14:29:13-08:00"
+  },
+  {
+    "title": "Sound in the Cloud",
+    "href": "/blog/259-sound-in-the-cloud",
+    "published": "2008-12-07T23:39:06-08:00"
+  },
+  {
+    "title": "GitHub Rebase #7",
+    "href": "/blog/258-github-rebase-7",
+    "published": "2008-12-07T22:39:47-08:00"
+  },
+  {
+    "title": "More DB Optimizations",
+    "href": "/blog/257-more-db-optimizations",
+    "published": "2008-12-05T14:54:14-08:00"
+  },
+  {
+    "title": "TortoiseGit Challenge",
+    "href": "/blog/256-tortoisegit-challenge",
+    "published": "2008-12-05T10:26:32-08:00"
+  },
+  {
+    "title": "Git Ist Schnell!",
+    "href": "/blog/255-git-ist-schnell",
+    "published": "2008-12-05T09:38:00-08:00"
+  },
+  {
+    "title": "Smooth Support Logins",
+    "href": "/blog/254-smooth-support-logins",
+    "published": "2008-12-03T23:16:02-08:00"
+  },
+  {
+    "title": "Using Git for Research",
+    "href": "/blog/253-using-git-for-research",
+    "published": "2008-12-03T21:45:45-08:00"
+  },
+  {
+    "title": "Fork You: The Perfect Holiday Gift",
+    "href": "/blog/252-fork-you-the-perfect-holiday-gift",
+    "published": "2008-12-03T16:18:21-08:00"
+  },
+  {
+    "title": "Pourquoi Git est Meilleur Que X",
+    "href": "/blog/251-pourquoi-git-est-meilleur-que-x",
+    "published": "2008-12-02T11:14:18-08:00"
+  },
+  {
+    "title": "Sale Extended!",
+    "href": "/blog/250-sale-extended",
+    "published": "2008-12-01T19:04:41-08:00"
+  },
+  {
+    "title": "Git Training",
+    "href": "/blog/249-git-training",
+    "published": "2008-12-01T18:40:50-08:00"
+  },
+  {
+    "title": "Git is Better",
+    "href": "/blog/248-git-is-better",
+    "published": "2008-12-01T09:47:02-08:00"
+  },
+  {
+    "title": "Cyber Monday Sale",
+    "href": "/blog/247-cyber-monday-sale",
+    "published": "2008-12-01T00:38:19-08:00"
+  },
+  {
+    "title": "GitHub Rebase #6",
+    "href": "/blog/246-github-rebase-6",
+    "published": "2008-11-30T19:42:18-08:00"
+  },
+  {
+    "title": "Using Git in Ruby Applications",
+    "href": "/blog/245-using-git-in-ruby-applications",
+    "published": "2008-11-29T12:53:48-08:00"
+  },
+  {
+    "title": "Pushes!",
+    "href": "/blog/244-pushes",
+    "published": "2008-11-27T22:50:00-08:00"
+  },
+  {
+    "title": "Maintenance Videos",
+    "href": "/blog/243-maintenance-videos",
+    "published": "2008-11-27T15:15:56-08:00"
+  },
+  {
+    "title": "GitHub Userscript",
+    "href": "/blog/242-github-userscript",
+    "published": "2008-11-26T15:59:37-08:00"
+  },
+  {
+    "title": "Let Me Google That For You",
+    "href": "/blog/241-let-me-google-that-for-you",
+    "published": "2008-11-26T11:05:45-08:00"
+  },
+  {
+    "title": "Developing with Submodules",
+    "href": "/blog/240-developing-with-submodules",
+    "published": "2008-11-26T10:35:53-08:00"
+  },
+  {
+    "title": "IronRuby on GitHub",
+    "href": "/blog/239-ironruby-on-github",
+    "published": "2008-11-24T17:49:12-08:00"
+  },
+  {
+    "title": "GitHub Rebase #5",
+    "href": "/blog/238-github-rebase-5",
+    "published": "2008-11-23T10:25:35-08:00"
+  },
+  {
+    "title": "Basic Auth Post-Receives",
+    "href": "/blog/237-basic-auth-post-receives",
+    "published": "2008-11-20T16:05:03-08:00"
+  },
+  {
+    "title": "Support, no longer a pain in our ass",
+    "href": "/blog/236-support-no-longer-a-pain-in-our-ass",
+    "published": "2008-11-19T16:44:48-08:00"
+  },
+  {
+    "title": "Fork You Sighting: ProRubyConf",
+    "href": "/blog/235-fork-you-sighting-prorubyconf",
+    "published": "2008-11-19T13:04:40-08:00"
+  },
+  {
+    "title": "Gist.vim and Gist.el",
+    "href": "/blog/234-gist-vim-and-gist-el",
+    "published": "2008-11-19T12:42:00-08:00"
+  },
+  {
+    "title": "Gist Support for TextMate",
+    "href": "/blog/233-gist-support-for-textmate",
+    "published": "2008-11-19T11:55:35-08:00"
+  },
+  {
+    "title": "GitHub and Eclipse",
+    "href": "/blog/232-github-and-eclipse",
+    "published": "2008-11-18T14:41:35-08:00"
+  },
+  {
+    "title": "More GitHub Gem Goodies",
+    "href": "/blog/231-more-github-gem-goodies",
+    "published": "2008-11-18T14:30:49-08:00"
+  },
+  {
+    "title": "Enhanced Ubiquity Search",
+    "href": "/blog/230-enhanced-ubiquity-search",
+    "published": "2008-11-18T10:21:01-08:00"
+  },
+  {
+    "title": "dj.god",
+    "href": "/blog/229-dj-god",
+    "published": "2008-11-18T10:06:16-08:00"
+  },
+  {
+    "title": "Playing the Blame Game",
+    "href": "/blog/228-playing-the-blame-game",
+    "published": "2008-11-18T07:36:31-08:00"
+  },
+  {
+    "title": "Recently Updated and Created Repositories",
+    "href": "/blog/227-recently-updated-and-created-repositories",
+    "published": "2008-11-18T01:16:12-08:00"
+  },
+  {
+    "title": "Multiple Post-Receive URLs",
+    "href": "/blog/226-multiple-post-receive-urls",
+    "published": "2008-11-18T01:14:37-08:00"
+  },
+  {
+    "title": "Code In the Open",
+    "href": "/blog/225-code-in-the-open",
+    "published": "2008-11-17T09:20:54-08:00"
+  },
+  {
+    "title": "GitHub Rebase #4",
+    "href": "/blog/224-github-rebase-4",
+    "published": "2008-11-16T17:50:43-08:00"
+  },
+  {
+    "title": "GitHub Is About People",
+    "href": "/blog/223-github-is-about-people",
+    "published": "2008-11-15T23:45:09-08:00"
+  },
+  {
+    "title": "Fork You Sighting: RubyConf",
+    "href": "/blog/222-fork-you-sighting-rubyconf",
+    "published": "2008-11-15T17:28:44-08:00"
+  },
+  {
+    "title": "First GitHub Magazine Ad",
+    "href": "/blog/220-first-github-magazine-ad",
+    "published": "2008-11-14T13:52:44-08:00"
+  },
+  {
+    "title": "Impact Graph Speedups",
+    "href": "/blog/219-impact-graph-speedups",
+    "published": "2008-11-13T14:43:38-08:00"
+  },
+  {
+    "title": "gh > hg",
+    "href": "/blog/218-gh-hg",
+    "published": "2008-11-13T12:30:35-08:00"
+  },
+  {
+    "title": "Wiki Preview",
+    "href": "/blog/217-wiki-preview",
+    "published": "2008-11-13T11:42:35-08:00"
+  },
+  {
+    "title": "More Slowness Eradicated",
+    "href": "/blog/216-more-slowness-eradicated",
+    "published": "2008-11-13T11:32:37-08:00"
+  },
+  {
+    "title": "YUI Examples",
+    "href": "/blog/215-yui-examples",
+    "published": "2008-11-11T21:00:31-08:00"
+  },
+  {
+    "title": "The New, Improved GitHub Gem",
+    "href": "/blog/214-the-new-improved-github-gem",
+    "published": "2008-11-11T10:21:09-08:00"
+  },
+  {
+    "title": "GitHub at RubyConf 2008",
+    "href": "/blog/213-github-at-rubyconf-2008",
+    "published": "2008-11-11T10:09:54-08:00"
+  },
+  {
+    "title": "GitHub Rebase #3",
+    "href": "/blog/208-github-rebase-3",
+    "published": "2008-11-08T21:47:39-08:00"
+  },
+  {
+    "title": "Brand new feature we don't want you to use",
+    "href": "/blog/207-brand-new-feature-we-don-t-want-you-to-use",
+    "published": "2008-11-07T18:28:11-08:00"
+  },
+  {
+    "title": "RailsRumble Winners",
+    "href": "/blog/205-railsrumble-winners",
+    "published": "2008-11-04T15:17:14-08:00"
+  },
+  {
+    "title": "PDF Receipts",
+    "href": "/blog/204-pdf-receipts",
+    "published": "2008-11-03T14:35:12-08:00"
+  },
+  {
+    "title": "Fork You India #2",
+    "href": "/blog/203-fork-you-india-2",
+    "published": "2008-11-03T10:46:25-08:00"
+  },
+  {
+    "title": "GitHub Code Search",
+    "href": "/blog/202-github-code-search",
+    "published": "2008-11-03T09:43:11-08:00"
+  },
+  {
+    "title": "GitHub Rebase #2",
+    "href": "/blog/201-github-rebase-2",
+    "published": "2008-11-02T22:48:49-08:00"
+  },
+  {
+    "title": "Speedy Queries",
+    "href": "/blog/200-speedy-queries",
+    "published": "2008-10-30T17:16:36-07:00"
+  },
+  {
+    "title": "GitHub Bookmarklet",
+    "href": "/blog/199-github-bookmarklet",
+    "published": "2008-10-30T11:31:34-07:00"
+  },
+  {
+    "title": "Lighthouse Integration Screencast",
+    "href": "/blog/198-lighthouse-integration-screencast",
+    "published": "2008-10-30T10:56:52-07:00"
+  },
+  {
+    "title": "The New Queue",
+    "href": "/blog/197-the-new-queue",
+    "published": "2008-10-30T10:42:25-07:00"
+  },
+  {
+    "title": "GitTogether 2008",
+    "href": "/blog/196-gittogether-2008",
+    "published": "2008-10-29T23:33:27-07:00"
+  },
+  {
+    "title": "Git helps people work together",
+    "href": "/blog/195-git-helps-people-work-together",
+    "published": "2008-10-29T22:01:41-07:00"
+  },
+  {
+    "title": "245,000 Lines of Code in 48 Hours",
+    "href": "/blog/194-245-000-lines-of-code-in-48-hours",
+    "published": "2008-10-27T13:23:46-07:00"
+  },
+  {
+    "title": "GitHub Rebase #1",
+    "href": "/blog/193-github-rebase-1",
+    "published": "2008-10-27T10:26:34-07:00"
+  },
+  {
+    "title": "Our RubyGem build scripts are now open source",
+    "href": "/blog/192-our-rubygem-build-scripts-are-now-open-source",
+    "published": "2008-10-24T16:23:28-07:00"
+  },
+  {
+    "title": "Oct-O-Lantern",
+    "href": "/blog/191-oct-o-lantern",
+    "published": "2008-10-23T02:26:12-07:00"
+  },
+  {
+    "title": "Easily Share Ubiquity Commands",
+    "href": "/blog/190-easily-share-ubiquity-commands",
+    "published": "2008-10-22T21:02:42-07:00"
+  },
+  {
+    "title": "Open Source Projects at GitHub",
+    "href": "/blog/189-open-source-projects-at-github",
+    "published": "2008-10-22T17:39:51-07:00"
+  },
+  {
+    "title": "Fork You: São Paulo, Brazil",
+    "href": "/blog/188-fork-you-s-o-paulo-brazil",
+    "published": "2008-10-22T15:32:15-07:00"
+  },
+  {
+    "title": "Participation Graphs go Canvas",
+    "href": "/blog/187-participation-graphs-go-canvas",
+    "published": "2008-10-21T18:16:05-07:00"
+  },
+  {
+    "title": "Google, Android, Git and GitHub",
+    "href": "/blog/186-google-android-git-and-github",
+    "published": "2008-10-21T10:58:28-07:00"
+  },
+  {
+    "title": "GitHub Turns One!",
+    "href": "/blog/185-github-turns-one",
+    "published": "2008-10-19T15:34:45-07:00"
+  },
+  {
+    "title": "Get Ready to Rails Rumble!",
+    "href": "/blog/184-get-ready-to-rails-rumble",
+    "published": "2008-10-17T17:29:06-07:00"
+  },
+  {
+    "title": "Hub it up when the economy's bad",
+    "href": "/blog/183-hub-it-up-when-the-economy-s-bad",
+    "published": "2008-10-15T15:00:15-07:00"
+  },
+  {
+    "title": "Network Graph: Better, Stronger, Faster!",
+    "href": "/blog/182-network-graph-better-stronger-faster",
+    "published": "2008-10-14T20:47:34-07:00"
+  },
+  {
+    "title": "Repo Deletion for Everyone",
+    "href": "/blog/181-repo-deletion-for-everyone",
+    "published": "2008-10-14T15:11:02-07:00"
+  },
+  {
+    "title": "Local GitHub Config",
+    "href": "/blog/180-local-github-config",
+    "published": "2008-10-10T20:03:05-07:00"
+  },
+  {
+    "title": "Oh yeah...",
+    "href": "/blog/179-oh-yeah",
+    "published": "2008-10-10T18:57:29-07:00"
+  },
+  {
+    "title": "It's a Calendar About Nothing",
+    "href": "/blog/178-it-s-a-calendar-about-nothing",
+    "published": "2008-10-10T18:26:09-07:00"
+  },
+  {
+    "title": "Has my gem built yet?",
+    "href": "/blog/177-has-my-gem-built-yet",
+    "published": "2008-10-09T17:27:42-07:00"
+  },
+  {
+    "title": "Pimp Your Prototype Code",
+    "href": "/blog/176-pimp-your-prototype-code",
+    "published": "2008-10-08T19:45:17-07:00"
+  },
+  {
+    "title": "GitHub Disaster Guide",
+    "href": "/blog/175-github-disaster-guide",
+    "published": "2008-10-08T17:16:18-07:00"
+  },
+  {
+    "title": "Git Down: Success!",
+    "href": "/blog/174-git-down-success",
+    "published": "2008-10-07T11:36:34-07:00"
+  },
+  {
+    "title": "Code Search On Vacation",
+    "href": "/blog/173-code-search-on-vacation",
+    "published": "2008-09-29T12:53:22-07:00"
+  },
+  {
+    "title": "Git Down: Tomorrow!",
+    "href": "/blog/172-git-down-tomorrow",
+    "published": "2008-09-29T11:37:21-07:00"
+  },
+  {
+    "title": "Fork You on the Thunder Show",
+    "href": "/blog/171-fork-you-on-the-thunder-show",
+    "published": "2008-09-25T16:14:18-07:00"
+  },
+  {
+    "title": "Token Authentication",
+    "href": "/blog/170-token-authentication",
+    "published": "2008-09-20T12:04:04-07:00"
+  },
+  {
+    "title": "ZendCon 2008 Pics",
+    "href": "/blog/169-zendcon-2008-pics",
+    "published": "2008-09-18T20:56:49-07:00"
+  },
+  {
+    "title": "Kindle Winner",
+    "href": "/blog/168-kindle-winner",
+    "published": "2008-09-18T20:53:24-07:00"
+  },
+  {
+    "title": "GitHub Decimates!",
+    "href": "/blog/167-github-decimates",
+    "published": "2008-09-18T18:56:21-07:00"
+  },
+  {
+    "title": "PostgreSQL on GitHub",
+    "href": "/blog/166-postgresql-on-github",
+    "published": "2008-09-17T18:34:55-07:00"
+  },
+  {
+    "title": "Git Down Speaker #2",
+    "href": "/blog/165-git-down-speaker-2",
+    "published": "2008-09-17T12:16:43-07:00"
+  },
+  {
+    "title": "Use GitHub as your Blog!",
+    "href": "/blog/164-use-github-as-your-blog",
+    "published": "2008-09-15T20:15:44-07:00"
+  },
+  {
+    "title": "The Git Down - September 30th!",
+    "href": "/blog/163-the-git-down-september-30th",
+    "published": "2008-09-15T18:07:06-07:00"
+  },
+  {
+    "title": "Git in Haskell",
+    "href": "/blog/162-git-in-haskell",
+    "published": "2008-09-15T17:49:13-07:00"
+  },
+  {
+    "title": "GitHub at ZendCon",
+    "href": "/blog/161-github-at-zendcon",
+    "published": "2008-09-15T14:40:15-07:00"
+  },
+  {
+    "title": "GitHub Languages",
+    "href": "/blog/160-github-languages",
+    "published": "2008-09-10T20:10:22-07:00"
+  },
+  {
+    "title": "One more thing...",
+    "href": "/blog/159-one-more-thing",
+    "published": "2008-09-05T18:13:09-07:00"
+  },
+  {
+    "title": "Ubiquitous Gists",
+    "href": "/blog/158-ubiquitous-gists",
+    "published": "2008-09-05T10:44:33-07:00"
+  },
+  {
+    "title": "Philadelphia Cohackfest Tomorrow",
+    "href": "/blog/157-philadelphia-cohackfest-tomorrow",
+    "published": "2008-09-05T09:35:27-07:00"
+  },
+  {
+    "title": "Subversion Importing!",
+    "href": "/blog/156-subversion-importing",
+    "published": "2008-09-04T17:17:17-07:00"
+  },
+  {
+    "title": "GrailsCrowd",
+    "href": "/blog/155-grailscrowd",
+    "published": "2008-09-04T15:59:07-07:00"
+  },
+  {
+    "title": "Submodule Display",
+    "href": "/blog/154-submodule-display",
+    "published": "2008-09-04T15:13:05-07:00"
+  },
+  {
+    "title": "Fork You Sighting: New Delhi",
+    "href": "/blog/153-fork-you-sighting-new-delhi",
+    "published": "2008-09-02T14:22:51-07:00"
+  },
+  {
+    "title": "The Git User's Survey",
+    "href": "/blog/152-the-git-user-s-survey",
+    "published": "2008-08-31T15:34:23-07:00"
+  },
+  {
+    "title": "GitHubbin' from work",
+    "href": "/blog/151-githubbin-from-work",
+    "published": "2008-08-26T17:30:06-07:00"
+  },
+  {
+    "title": "Hot Ruby Projects on GitHub",
+    "href": "/blog/150-hot-ruby-projects-on-github",
+    "published": "2008-08-25T13:19:06-07:00"
+  },
+  {
+    "title": "More JavaScript GitHub Badges",
+    "href": "/blog/149-more-javascript-github-badges",
+    "published": "2008-08-25T13:06:40-07:00"
+  },
+  {
+    "title": "GitHub Shirts Now Available!",
+    "href": "/blog/148-github-shirts-now-available",
+    "published": "2008-08-24T12:36:01-07:00"
+  },
+  {
+    "title": "Side Projects: The Keynote",
+    "href": "/blog/147-side-projects-the-keynote",
+    "published": "2008-08-21T16:15:01-07:00"
+  },
+  {
+    "title": "Fork You Sighting #4",
+    "href": "/blog/145-fork-you-sighting-4",
+    "published": "2008-08-21T13:27:13-07:00"
+  },
+  {
+    "title": "Pull Request Auto-Responder",
+    "href": "/blog/144-pull-request-auto-responder",
+    "published": "2008-08-20T15:55:27-07:00"
+  },
+  {
+    "title": "Inline File Editing",
+    "href": "/blog/143-inline-file-editing",
+    "published": "2008-08-19T04:28:59-07:00"
+  },
+  {
+    "title": "Midnight Ridin' with GitHub",
+    "href": "/blog/142-midnight-ridin-with-github",
+    "published": "2008-08-16T20:29:25-07:00"
+  },
+  {
+    "title": "Test Your Service Hooks",
+    "href": "/blog/141-test-your-service-hooks",
+    "published": "2008-08-13T17:15:16-07:00"
+  },
+  {
+    "title": "Show Me the Money",
+    "href": "/blog/140-show-me-the-money",
+    "published": "2008-08-12T13:27:25-07:00"
+  },
+  {
+    "title": "Adhearsion moves to GitHub",
+    "href": "/blog/139-adhearsion-moves-to-github",
+    "published": "2008-08-11T16:39:56-07:00"
+  },
+  {
+    "title": "Fork You Sighting #3",
+    "href": "/blog/138-fork-you-sighting-3",
+    "published": "2008-08-11T12:53:54-07:00"
+  },
+  {
+    "title": "Gist on your Tumblr",
+    "href": "/blog/137-gist-on-your-tumblr",
+    "published": "2008-08-10T11:39:14-07:00"
+  },
+  {
+    "title": "Use bit.ly to Name Gists",
+    "href": "/blog/136-use-bit-ly-to-name-gists",
+    "published": "2008-08-09T15:06:13-07:00"
+  },
+  {
+    "title": "Mirroring to GitHub",
+    "href": "/blog/135-mirroring-to-github",
+    "published": "2008-08-09T11:31:42-07:00"
+  },
+  {
+    "title": "Blueprint CSS on GitHub",
+    "href": "/blog/134-blueprint-css-on-github",
+    "published": "2008-08-08T08:33:04-07:00"
+  },
+  {
+    "title": "GHC (Haskell) Moving to Git",
+    "href": "/blog/133-ghc-haskell-moving-to-git",
+    "published": "2008-08-06T11:41:56-07:00"
+  },
+  {
+    "title": "A Git deployment workflow",
+    "href": "/blog/132-a-git-deployment-workflow",
+    "published": "2008-08-05T22:24:21-07:00"
+  },
+  {
+    "title": "Testing Post-Receive Hooks",
+    "href": "/blog/131-testing-post-receive-hooks",
+    "published": "2008-08-05T15:52:56-07:00"
+  },
+  {
+    "title": "Maven-enabled project hosting",
+    "href": "/blog/130-maven-enabled-project-hosting",
+    "published": "2008-08-01T15:09:39-07:00"
+  },
+  {
+    "title": "New post-receive API is Live",
+    "href": "/blog/129-new-post-receive-api-is-live",
+    "published": "2008-07-30T16:56:15-07:00"
+  },
+  {
+    "title": "Let There Be Renaming",
+    "href": "/blog/128-let-there-be-renaming",
+    "published": "2008-07-30T15:23:09-07:00"
+  },
+  {
+    "title": "The Post-Apocalyptic Guide",
+    "href": "/blog/127-the-post-apocalyptic-guide",
+    "published": "2008-07-28T14:28:20-07:00"
+  },
+  {
+    "title": "Getting Real",
+    "href": "/blog/126-getting-real",
+    "published": "2008-07-28T12:40:38-07:00"
+  },
+  {
+    "title": "Upcoming Speaking Gigs",
+    "href": "/blog/125-upcoming-speaking-gigs",
+    "published": "2008-07-28T11:21:53-07:00"
+  },
+  {
+    "title": "New Git Site",
+    "href": "/blog/124-new-git-site",
+    "published": "2008-07-25T17:18:25-07:00"
+  },
+  {
+    "title": "Revamping the Guides",
+    "href": "/blog/123-revamping-the-guides",
+    "published": "2008-07-24T14:42:27-07:00"
+  },
+  {
+    "title": "Embedded Gists",
+    "href": "/blog/122-embedded-gists",
+    "published": "2008-07-24T00:22:50-07:00"
+  },
+  {
+    "title": "Improved SSH Key Organization",
+    "href": "/blog/121-improved-ssh-key-organization",
+    "published": "2008-07-22T22:17:56-07:00"
+  },
+  {
+    "title": "New to Git?",
+    "href": "/blog/120-new-to-git",
+    "published": "2008-07-22T15:21:15-07:00"
+  },
+  {
+    "title": "Intro to Gist Video",
+    "href": "/blog/119-intro-to-gist-video",
+    "published": "2008-07-21T13:44:32-07:00"
+  },
+  {
+    "title": "Here's the Gist of it",
+    "href": "/blog/118-here-s-the-gist-of-it",
+    "published": "2008-07-21T13:17:19-07:00"
+  },
+  {
+    "title": "Scaling Lesson #23742",
+    "href": "/blog/117-scaling-lesson-23742",
+    "published": "2008-07-17T13:18:22-07:00"
+  },
+  {
+    "title": "Easy Peezy Capistrano Deployment",
+    "href": "/blog/116-easy-peezy-capistrano-deployment",
+    "published": "2008-07-15T09:36:25-07:00"
+  },
+  {
+    "title": "Formatted Files",
+    "href": "/blog/115-formatted-files",
+    "published": "2008-07-14T20:06:32-07:00"
+  },
+  {
+    "title": "Dashboard Widget",
+    "href": "/blog/114-dashboard-widget",
+    "published": "2008-07-14T19:30:24-07:00"
+  },
+  {
+    "title": "Fork You Sighting #2",
+    "href": "/blog/113-fork-you-sighting-2",
+    "published": "2008-07-14T01:49:00-07:00"
+  },
+  {
+    "title": "Supercharged git-daemon",
+    "href": "/blog/112-supercharged-git-daemon",
+    "published": "2008-07-13T22:51:17-07:00"
+  },
+  {
+    "title": "Supercharged Diff One-Liners",
+    "href": "/blog/111-supercharged-diff-one-liners",
+    "published": "2008-07-13T22:34:51-07:00"
+  },
+  {
+    "title": "Supercharged Vim Theme",
+    "href": "/blog/110-supercharged-vim-theme",
+    "published": "2008-07-10T13:51:10-07:00"
+  },
+  {
+    "title": "Supercharged Commits (on your site)",
+    "href": "/blog/109-supercharged-commits-on-your-site",
+    "published": "2008-07-09T14:50:29-07:00"
+  },
+  {
+    "title": "Supercharged Ruby-Git",
+    "href": "/blog/107-supercharged-ruby-git",
+    "published": "2008-07-08T17:54:22-07:00"
+  },
+  {
+    "title": "Supercharged Downloads",
+    "href": "/blog/106-supercharged-downloads",
+    "published": "2008-07-07T16:52:29-07:00"
+  },
+  {
+    "title": "Services Galore",
+    "href": "/blog/105-services-galore",
+    "published": "2008-06-28T19:19:27-07:00"
+  },
+  {
+    "title": "Visual Cheat Sheet",
+    "href": "/blog/104-visual-cheat-sheet",
+    "published": "2008-06-26T18:19:40-07:00"
+  },
+  {
+    "title": "New Homepage",
+    "href": "/blog/103-new-homepage",
+    "published": "2008-06-26T17:22:27-07:00"
+  },
+  {
+    "title": "Commit Comment Preview",
+    "href": "/blog/102-commit-comment-preview",
+    "published": "2008-06-24T21:21:06-07:00"
+  },
+  {
+    "title": "RubyGem Info",
+    "href": "/blog/101-rubygem-info",
+    "published": "2008-06-24T18:17:46-07:00"
+  },
+  {
+    "title": "Gitsplosion! in iTunes",
+    "href": "/blog/100-gitsplosion-in-itunes",
+    "published": "2008-06-24T15:44:12-07:00"
+  },
+  {
+    "title": "Popular Languages",
+    "href": "/blog/99-popular-languages",
+    "published": "2008-06-24T12:21:21-07:00"
+  },
+  {
+    "title": "git-remote-branch",
+    "href": "/blog/98-git-remote-branch",
+    "published": "2008-06-23T11:45:05-07:00"
+  },
+  {
+    "title": "GitHub Loves RubyGems 1.2",
+    "href": "/blog/97-github-loves-rubygems-1-2",
+    "published": "2008-06-22T09:18:10-07:00"
+  },
+  {
+    "title": "Gitsplosion! iTunes Feed",
+    "href": "/blog/96-gitsplosion-itunes-feed",
+    "published": "2008-06-20T17:26:40-07:00"
+  },
+  {
+    "title": "Gitsplosion! #2",
+    "href": "/blog/95-gitsplosion-2",
+    "published": "2008-06-20T16:44:34-07:00"
+  },
+  {
+    "title": "Cheat + Git = Chit",
+    "href": "/blog/94-cheat-git-chit",
+    "published": "2008-06-20T15:26:13-07:00"
+  },
+  {
+    "title": "Fork Sighting",
+    "href": "/blog/93-fork-sighting",
+    "published": "2008-06-19T17:45:27-07:00"
+  },
+  {
+    "title": "HTTP Cloning",
+    "href": "/blog/92-http-cloning",
+    "published": "2008-06-18T17:16:27-07:00"
+  },
+  {
+    "title": "Not Just Code",
+    "href": "/blog/91-not-just-code",
+    "published": "2008-06-18T14:51:47-07:00"
+  },
+  {
+    "title": "The Status Blog",
+    "href": "/blog/90-the-status-blog",
+    "published": "2008-06-17T12:21:45-07:00"
+  },
+  {
+    "title": "Moved to GitHub",
+    "href": "/blog/89-moved-to-github",
+    "published": "2008-06-16T14:20:31-07:00"
+  },
+  {
+    "title": "We're Web 2.0",
+    "href": "/blog/88-we-re-web-2-0",
+    "published": "2008-06-16T14:10:05-07:00"
+  },
+  {
+    "title": "Cleaning House",
+    "href": "/blog/87-cleaning-house",
+    "published": "2008-06-12T14:08:35-07:00"
+  },
+  {
+    "title": "Gitsplosion!",
+    "href": "/blog/86-gitsplosion",
+    "published": "2008-06-12T01:41:31-07:00"
+  },
+  {
+    "title": "Pimpy Pledgie Profiles",
+    "href": "/blog/85-pimpy-pledgie-profiles",
+    "published": "2008-06-11T16:45:34-07:00"
+  },
+  {
+    "title": "GitHub Support",
+    "href": "/blog/84-github-support",
+    "published": "2008-06-11T14:39:57-07:00"
+  },
+  {
+    "title": "MooHub",
+    "href": "/blog/83-moohub",
+    "published": "2008-06-10T16:28:43-07:00"
+  },
+  {
+    "title": "Gem Builder Feedback",
+    "href": "/blog/82-gem-builder-feedback",
+    "published": "2008-06-08T21:06:01-07:00"
+  },
+  {
+    "title": "Rails 2.1 Book Translation",
+    "href": "/blog/81-rails-2-1-book-translation",
+    "published": "2008-06-06T15:07:39-07:00"
+  },
+  {
+    "title": "Ready for Lift Off",
+    "href": "/blog/80-ready-for-lift-off",
+    "published": "2008-06-05T11:58:26-07:00"
+  },
+  {
+    "title": "GitHub Shirts",
+    "href": "/blog/79-github-shirts",
+    "published": "2008-06-03T22:22:13-07:00"
+  },
+  {
+    "title": "An Open Source Renaissance",
+    "href": "/blog/78-an-open-source-renaissance",
+    "published": "2008-06-03T01:53:29-07:00"
+  },
+  {
+    "title": "GitHub is Hiring",
+    "href": "/blog/77-github-is-hiring",
+    "published": "2008-06-02T15:23:47-07:00"
+  },
+  {
+    "title": "Profitable Programmer: The Encore",
+    "href": "/blog/76-profitable-programmer-the-encore",
+    "published": "2008-05-31T17:44:45-07:00"
+  },
+  {
+    "title": "Git over Bonjour",
+    "href": "/blog/75-git-over-bonjour",
+    "published": "2008-05-31T16:37:45-07:00"
+  },
+  {
+    "title": "RailsConf Git Talk",
+    "href": "/blog/74-railsconf-git-talk",
+    "published": "2008-05-31T14:00:17-07:00"
+  },
+  {
+    "title": "GitHub Textmate Theme!",
+    "href": "/blog/73-github-textmate-theme",
+    "published": "2008-05-29T08:46:26-07:00"
+  },
+  {
+    "title": "GitHub at RailsConf",
+    "href": "/blog/72-github-at-railsconf",
+    "published": "2008-05-28T14:46:02-07:00"
+  },
+  {
+    "title": "More Textmate Bundle Goodness",
+    "href": "/blog/71-more-textmate-bundle-goodness",
+    "published": "2008-05-28T13:20:05-07:00"
+  },
+  {
+    "title": "Meet the Developers",
+    "href": "/blog/70-meet-the-developers",
+    "published": "2008-05-27T10:22:40-07:00"
+  },
+  {
+    "title": "What OS do you use?",
+    "href": "/blog/69-what-os-do-you-use",
+    "published": "2008-05-26T11:39:22-07:00"
+  },
+  {
+    "title": "GitHub Textmate Bundle!",
+    "href": "/blog/68-github-textmate-bundle",
+    "published": "2008-05-26T10:37:15-07:00"
+  },
+  {
+    "title": "Got a SHA?",
+    "href": "/blog/67-got-a-sha",
+    "published": "2008-05-23T14:24:34-07:00"
+  },
+  {
+    "title": "Repository Searching",
+    "href": "/blog/66-repository-searching",
+    "published": "2008-05-20T12:42:19-07:00"
+  },
+  {
+    "title": "Friday Fun",
+    "href": "/blog/65-friday-fun",
+    "published": "2008-05-16T19:09:59-07:00"
+  },
+  {
+    "title": "Git and GitHub on Windows",
+    "href": "/blog/64-git-and-github-on-windows",
+    "published": "2008-05-15T00:52:26-07:00"
+  },
+  {
+    "title": "SSH Keys Generated on Debian/Ubuntu Compromised",
+    "href": "/blog/63-ssh-keys-generated-on-debian-ubuntu-compromised",
+    "published": "2008-05-13T10:24:20-07:00"
+  },
+  {
+    "title": "Our Open Source",
+    "href": "/blog/62-our-open-source",
+    "published": "2008-05-10T22:15:45-07:00"
+  },
+  {
+    "title": "Tasty Tidbits",
+    "href": "/blog/61-tasty-tidbits",
+    "published": "2008-05-10T21:22:37-07:00"
+  },
+  {
+    "title": "The Fabulous Scriptaculous Wiki",
+    "href": "/blog/60-the-fabulous-scriptaculous-wiki",
+    "published": "2008-05-10T18:00:14-07:00"
+  },
+  {
+    "title": "Happy Birthday!",
+    "href": "/blog/59-happy-birthday",
+    "published": "2008-05-08T10:33:37-07:00"
+  },
+  {
+    "title": "Rolling with Engine Yard",
+    "href": "/blog/58-rolling-with-engine-yard",
+    "published": "2008-05-06T17:33:01-07:00"
+  },
+  {
+    "title": "Getting Paid the Open Source Way",
+    "href": "/blog/57-getting-paid-the-open-source-way",
+    "published": "2008-05-05T13:03:24-07:00"
+  },
+  {
+    "title": "GitHub Badges!",
+    "href": "/blog/56-github-badges",
+    "published": "2008-05-03T15:00:09-07:00"
+  },
+  {
+    "title": "Deploying Without Deploy Keys",
+    "href": "/blog/55-deploying-without-deploy-keys",
+    "published": "2008-05-01T21:24:23-07:00"
+  },
+  {
+    "title": "Awesome Git Internals PDF",
+    "href": "/blog/54-awesome-git-internals-pdf",
+    "published": "2008-04-30T12:33:28-07:00"
+  },
+  {
+    "title": "GitHub Services IPO",
+    "href": "/blog/53-github-services-ipo",
+    "published": "2008-04-28T17:02:40-07:00"
+  },
+  {
+    "title": "It's a mirror",
+    "href": "/blog/52-it-s-a-mirror",
+    "published": "2008-04-26T13:22:52-07:00"
+  },
+  {
+    "title": "GitHub's RubyGem Server",
+    "href": "/blog/51-github-s-rubygem-server",
+    "published": "2008-04-25T07:45:46-07:00"
+  },
+  {
+    "title": "One Million Events",
+    "href": "/blog/50-one-million-events",
+    "published": "2008-04-24T15:08:29-07:00"
+  },
+  {
+    "title": "The GitHub Podcast...",
+    "href": "/blog/49-the-github-podcast",
+    "published": "2008-04-23T17:56:36-07:00"
+  },
+  {
+    "title": "Who are you following?",
+    "href": "/blog/48-who-are-you-following",
+    "published": "2008-04-23T16:55:10-07:00"
+  },
+  {
+    "title": "New Fluid Icon",
+    "href": "/blog/47-new-fluid-icon",
+    "published": "2008-04-22T09:09:36-07:00"
+  },
+  {
+    "title": "More Fluid Tastiness",
+    "href": "/blog/46-more-fluid-tastiness",
+    "published": "2008-04-21T01:20:13-07:00"
+  },
+  {
+    "title": "Limits are coming...",
+    "href": "/blog/45-limits-are-coming",
+    "published": "2008-04-17T06:31:43-07:00"
+  },
+  {
+    "title": "Repository Admin Tab",
+    "href": "/blog/44-repository-admin-tab",
+    "published": "2008-04-17T04:57:03-07:00"
+  },
+  {
+    "title": "When limits are enforced...",
+    "href": "/blog/43-when-limits-are-enforced",
+    "published": "2008-04-11T19:54:09-07:00"
+  },
+  {
+    "title": "Commit Comments",
+    "href": "/blog/42-commit-comments",
+    "published": "2008-04-10T16:59:03-07:00"
+  },
+  {
+    "title": "Service Integration",
+    "href": "/blog/41-service-integration",
+    "published": "2008-04-10T13:03:48-07:00"
+  },
+  {
+    "title": "We Launched",
+    "href": "/blog/40-we-launched",
+    "published": "2008-04-10T11:13:24-07:00"
+  },
+  {
+    "title": "Say hello to the Network Graph Visualizer",
+    "href": "/blog/39-say-hello-to-the-network-graph-visualizer",
+    "published": "2008-04-10T01:25:02-07:00"
+  },
+  {
+    "title": "GitHub on Fluid",
+    "href": "/blog/38-github-on-fluid",
+    "published": "2008-04-08T22:21:03-07:00"
+  },
+  {
+    "title": "Git Tricks",
+    "href": "/blog/37-git-tricks",
+    "published": "2008-04-08T21:10:58-07:00"
+  },
+  {
+    "title": "Comparing Git to Mercurial",
+    "href": "/blog/36-comparing-git-to-mercurial",
+    "published": "2008-04-07T10:09:48-07:00"
+  },
+  {
+    "title": "Pushing and Pulling",
+    "href": "/blog/35-pushing-and-pulling",
+    "published": "2008-04-06T13:07:43-07:00"
+  },
+  {
+    "title": "Get Some Shoes",
+    "href": "/blog/34-get-some-shoes",
+    "published": "2008-04-04T14:50:42-07:00"
+  },
+  {
+    "title": "New to Git? Cheat!",
+    "href": "/blog/33-new-to-git-cheat",
+    "published": "2008-04-03T22:35:20-07:00"
+  },
+  {
+    "title": "Rails Moving to Git",
+    "href": "/blog/32-rails-moving-to-git",
+    "published": "2008-04-02T23:26:00-07:00"
+  },
+  {
+    "title": "Back to Subversion",
+    "href": "/blog/31-back-to-subversion",
+    "published": "2008-04-01T01:21:05-07:00"
+  },
+  {
+    "title": "Easily Install the FF GitHub Search ",
+    "href": "/blog/30-easily-install-the-ff-github-search",
+    "published": "2008-03-31T23:19:24-07:00"
+  },
+  {
+    "title": "Search GitHub in Firefox",
+    "href": "/blog/29-search-github-in-firefox",
+    "published": "2008-03-31T10:59:20-07:00"
+  },
+  {
+    "title": "Super Awesome Search",
+    "href": "/blog/28-super-awesome-search",
+    "published": "2008-03-31T01:52:36-07:00"
+  },
+  {
+    "title": "Check Your Usage",
+    "href": "/blog/27-check-your-usage",
+    "published": "2008-03-30T02:23:59-07:00"
+  },
+  {
+    "title": "Nu and Io on GitHub",
+    "href": "/blog/26-nu-and-io-on-github",
+    "published": "2008-03-27T11:27:32-07:00"
+  },
+  {
+    "title": "Git Support for Rails Plugins",
+    "href": "/blog/25-git-support-for-rails-plugins",
+    "published": "2008-03-17T15:45:58-07:00"
+  },
+  {
+    "title": "The Future of Coding",
+    "href": "/blog/24-the-future-of-coding",
+    "published": "2008-03-14T12:41:08-07:00"
+  },
+  {
+    "title": "Serious Bug Tracking",
+    "href": "/blog/23-serious-bug-tracking",
+    "published": "2008-03-12T17:13:35-07:00"
+  },
+  {
+    "title": "The Pricing Plans",
+    "href": "/blog/22-the-pricing-plans",
+    "published": "2008-03-11T19:23:26-07:00"
+  },
+  {
+    "title": "The API",
+    "href": "/blog/21-the-api",
+    "published": "2008-03-11T18:27:10-07:00"
+  },
+  {
+    "title": "Control Git with Gestures",
+    "href": "/blog/20-control-git-with-gestures",
+    "published": "2008-03-11T17:23:08-07:00"
+  },
+  {
+    "title": "Markdown'd, Textile'd Readmes",
+    "href": "/blog/19-markdown-d-textile-d-readmes",
+    "published": "2008-03-10T09:01:25-07:00"
+  },
+  {
+    "title": "Popular Repos",
+    "href": "/blog/18-popular-repos",
+    "published": "2008-03-09T08:17:21-07:00"
+  },
+  {
+    "title": "GitHub Google Group",
+    "href": "/blog/17-github-google-group",
+    "published": "2008-03-09T04:28:12-07:00"
+  },
+  {
+    "title": "Token Private Feeds",
+    "href": "/blog/16-token-private-feeds",
+    "published": "2008-03-09T01:14:11-08:00"
+  },
+  {
+    "title": "Downtime Tonight",
+    "href": "/blog/14-downtime-tonight",
+    "published": "2008-03-06T18:32:23-08:00"
+  },
+  {
+    "title": "Hackers Agree: GitHub Rocks",
+    "href": "/blog/13-hackers-agree-github-rocks",
+    "published": "2008-03-04T01:45:07-08:00"
+  },
+  {
+    "title": "Tarball Downloads",
+    "href": "/blog/12-tarball-downloads",
+    "published": "2008-03-03T15:40:51-08:00"
+  },
+  {
+    "title": "GitHub: Free for Open Source",
+    "href": "/blog/11-github-free-for-open-source",
+    "published": "2008-02-29T23:37:55-08:00"
+  },
+  {
+    "title": "The GitHub Changelog",
+    "href": "/blog/10-the-github-changelog",
+    "published": "2008-02-29T16:32:01-08:00"
+  },
+  {
+    "title": "Multiple Emails!",
+    "href": "/blog/9-multiple-emails",
+    "published": "2008-02-28T01:18:12-08:00"
+  },
+  {
+    "title": "Myspace for hackers?",
+    "href": "/blog/7-myspace-for-hackers",
+    "published": "2008-02-27T11:56:24-08:00"
+  },
+  {
+    "title": "hCardy Profiles",
+    "href": "/blog/6-hcardy-profiles",
+    "published": "2008-02-26T01:02:07-08:00"
+  },
+  {
+    "title": "One Thousand Strong",
+    "href": "/blog/5-one-thousand-strong",
+    "published": "2008-02-25T18:23:49-08:00"
+  },
+  {
+    "title": "Activity Feeds Are Go",
+    "href": "/blog/4-activity-feeds-are-go",
+    "published": "2008-02-25T12:13:10-08:00"
+  },
+  {
+    "title": "Oh yeah, there's pull requests now",
+    "href": "/blog/3-oh-yeah-there-s-pull-requests-now",
+    "published": "2008-02-23T15:25:45-08:00"
+  },
+  {
+    "title": "The Blog Arrives",
+    "href": "/blog/2-the-blog-arrives",
+    "published": "2008-02-22T14:27:35-08:00"
+  },
+  {
+    "title": "Hotkeys and Wikis",
+    "href": "/blog/1-hotkeys-and-wikis",
+    "published": "2008-02-18T18:16:12-08:00"
+  }
+]
