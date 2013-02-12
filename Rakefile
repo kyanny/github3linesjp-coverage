@@ -28,7 +28,7 @@ task :update_entries do
     title     = post.search('.entry-title').first.text
     href      = post.search('.entry-title').first['href']
     published = post.search('.published').first['title']
-    { title: title, href: href, published: published }
+    { 'title' => title, 'href' => href, 'published' => published }
   end
 
   # 新しいエントリーがあれば entries に追加する
