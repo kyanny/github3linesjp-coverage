@@ -3,7 +3,7 @@
 require 'nokogiri'
 require 'json'
 
-entries = Dir['page*.html'].sort_by{ |page|
+entries = Dir['./tmp/page*.html'].sort_by{ |page|
   page.match(/\d+/)[0].to_i     # 単に sort すると page9.html が page86.html より後ろに来てしまうので。
 }.map{ |page|
   doc = Nokogiri::HTML(open(page))
@@ -16,5 +16,5 @@ entries = Dir['page*.html'].sort_by{ |page|
 }
 
 open('entries.json', 'w'){ |f|
-  f.puts JSON.pretty_generate(entries)
+  f.puts JSON.pretty_generate(entries.flatten)
 }
