@@ -45,7 +45,7 @@ task :update_entries do
 end
 
 desc 'entries.json をアップデートしてから rake spec する'
-task :do_spec => :update_entries do
+task :do_spec => [:download_latest_page, :update_entries] do
   Rake::Task['spec'].invoke
 end
 task :default => :do_spec
