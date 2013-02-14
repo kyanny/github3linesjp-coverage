@@ -44,8 +44,15 @@ task :update_entries do
   }
 end
 
+desc 'entries.json が更新されていたらコミットして github に push する'
+task :commit_and_push do
+  system("git add entries.json")
+  system("git commit -m 'Update entries.json'")
+  system("GIT_SSH=~/git_ssh.sh git push origin master")
+end
+
 desc 'entries.json をアップデートしてから rake spec する'
-task :do_spec => [:download_latest_page, :update_entries] do
+task :do_spec => [:download_latest_page, :update_entries, :commit_and_push] do
   Rake::Task['spec'].invoke
 end
 task :default => :do_spec
