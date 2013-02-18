@@ -28,7 +28,7 @@ describe 'coverage' do
 
     it "#{permalink} の公開日時が (見た目上) 一致していること" do
       begin
-        time = Time.parse(published).strftime('%Y年%m月%d日 %H時%M分%S秒')
+        time = Time.parse(published).strftime('%Y年%m月%d日')
         expect(open("http://github.kyanny.me#{permalink}", headers).read).to match(/#{time}/)
       rescue OpenURI::HTTPError # 存在しない記事に対してはテストしない
         pending "#{permalink} はまだ書いていない"
