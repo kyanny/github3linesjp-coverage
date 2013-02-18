@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 require "rspec/core/rake_task"
+require "active_support/time"
 
 RSpec::Core::RakeTask.new("spec")
 # task :default => :spec
@@ -25,9 +26,10 @@ task :update_entries do
   # 最新の HTML からエントリー情報を取り出す
   doc = Nokogiri::HTML(open('./tmp/latest.html'))
   new_entries = doc.search('.blog-post').map do |post|
-    title     = post.search('.entry-title').first.text
-    href      = post.search('.entry-title').first['href']
-    published = post.search('.published').first['title']
+    title     = post.search('.blog-post-title a').first.text
+    href      = post.search('.blog-post-title a').first['href']
+    published = post.search('.blog-post-meta').first.search('li:first').text.strip
+    published = Time.parse(published)
     { 'title' => title, 'href' => href, 'published' => published }
   end
 
