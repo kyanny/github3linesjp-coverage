@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kyanny/github3linesjp-coverage.png?branch=master)](https://travis-ci.org/kyanny/github3linesjp-coverage)
+
 # カバレッジ
 
 ## GitHub Blog の全エントリの URL を得るために HTML をダウンロードして集める
